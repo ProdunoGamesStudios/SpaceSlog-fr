@@ -1,0 +1,9 @@
+﻿{
+	"PlaceDeckPlatingStep1": {
+		"title": "Plaquage de pont de navire",
+		"description": "Nous pouvons maintenant agrandir la surface au sol en posant des [color=KHAKI]plaques de pont[/color]. Sélectionnez le bouton [color=PURPLE]Plaques de pont[/color] mis en surbrillance dans l'onglet Structures du menu [color=PURPLE]Construction[/color]."
+	},
+	"PlaceDeckPlatingStep2": {
+		"description": "Placez cet élément sur la zone surlignée en blanc et attendez que votre équipage ait fini de le construire.\n\nN'oubliez pas que cet élément ne peut être placé que sur une [color=KHAKI]structure de vaisseau[/color] et qu'il doit être entouré d'autres [color=KHAKI]structures de vaisseau[/color]."
+	}
+}

@@ -1,0 +1,12 @@
+﻿{
+	"BuildLifeSupportStep1": {
+		"title": "Mettre en place un système de survie",
+		"description": "Un manque d'oxygène peut être extrêmement dangereux pour l'équipage, alors nous devrions donc probablement mettre en place un système de survie. Sélectionnez le bouton [color=PURPLE]Atmosphère[/color] mis en surbrillance dans le menu [color=PURPLE]Construction[/color]."
+	},
+	"BuildLifeSupportStep2": {
+		"description": "Sélectionnez maintenant le bouton [color=PURPLE]Soutien vital[/color] mis en surbrillance."
+	},
+	"BuildLifeSupportStep3": {
+		"description": "N'oubliez pas de consulter les informations ci-dessous pour savoir quel carburant cet appareil utilise. Dans le cas présent, il utilise de la [color=KHAKI]glace[/color], que l'on peut obtenir dans les [color=KHAKI]asteroïdes[/color].\n\nPlacez le [color=KHAKI]Soutien vital[/color] à l'intérieur de votre vaisseau, sur n'importe quel espace libre au sol."
+	}
+}

@@ -1,0 +1,26 @@
+﻿{
+	"Pistol": {
+		"title": "Pistolet",
+		"description": "Pistolet semi-automatique conçu pour le tir rapide. Excellent pour la protection personnelle de base."
+	},
+	"Revolver": {
+		"title": "Revolver",
+		"description": "Un pistolet puissant avec un barillet rotatif."
+	},
+	"LeverActionRifle": {
+		"title": "Carabine à levier",
+		"description": "Un fusil qui utilise un mécanisme à levier pour charger les cartouches."
+	},
+	"AssaultRifle": {
+		"title": "Fusil d'assaut",
+		"description": "Une carabine à tir rapide conçue pour un usage militaire."
+	},
+	"SubMachineGun": {
+		"title": "Mitraillette",
+		"description": "Une arme à feu automatique légère conçue pour le combat rapproché."
+	},
+	"Shotgun": {
+		"title": "Fusil de chasse",
+		"description": "Une arme à feu conçue pour être tirée à l'épaule, utilisant des cartouches contenant des petits plombs."
+	}
+}

@@ -1,0 +1,22 @@
+﻿{
+	"Oxygen": {
+		"title": "Oxygène",
+		"description": "La plupart des humanoïdes et de nombreuses autres formes de vie utilisent l'oxygène pour respirer."
+	},
+	"Nitrogen": {
+		"title": "Azote",
+		"description": "L'azote est un élément courant dans le slog et est présent dans la plupart des composés organiques."
+	},
+	"CarbonDioxide": {
+		"title": "Dioxyde de carbone",
+		"description": "Le dioxyde de carbone est un sous-produit respiratoire de la plupart humanoïdes et autres formes de vie."
+	},
+	"Hazardous": {
+		"title": "Dangereux",
+		"description": "Les gaz dangereux sont un terme générique désignant tout gaz considéré comme toxique ou nocif pour la plupart des formes de vie."
+	},
+	"Explosive": {
+		"title": "Explosif",
+		"description": "Un gaz explosif est un terme général désignant tout gaz considéré comme inflammable ou explosif."
+	}
+}

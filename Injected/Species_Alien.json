@@ -1,0 +1,10 @@
+﻿{
+	"Worm": {
+		"title": "Ver de l'espace",
+		"description": "Un ver à l'aspect grotesque qui n'a pas besoin d'atmosphère pour respirer. Il n'est pas très résistant, mais peut poser problème en groupe."
+	},
+	"WormHeavy": {
+		"title": "Squamidon",
+		"description": "Un ver à l'aspect grotesque dont certaines parties du corps sont recouvertes d'écailles blindées. Bien qu'appartenant à la même famille que le ver de l'espace, ces créatures ont évolué pour devenir beaucoup plus résistantes."
+	}
+}

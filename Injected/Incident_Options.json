@@ -1,0 +1,44 @@
+﻿{
+	"PassingShip": {
+		"title": "Vaisseau de passage"
+	},
+	"PassingShipPhysical": {
+		"title": "Passage physique d'un vaisseau"
+	},
+	"AsteroidField": {
+		"title": "Champ d'astéroïdes"
+	},
+	"BattleDebris": {
+		"title": "Débris de bataille"
+	},
+	"CryoChamber": {
+		"title": "Capsule cryogénique repérée"
+	},
+	"HostileCreatureAssault": {
+		"title": "Assaut d'une créature hostile"
+	},
+	"PassingShipRescue": {
+		"title": "Sauvetage par un vaisseau de passage"
+	},
+	"PassingPlanet": {
+		"title": "Planète à proximité"
+	},
+	"PassingStar": {
+		"title": "Étoile à proximité"
+	},
+	"Infestation": {
+		"title": "Invasion"
+	},
+	"MayDayPawn": {
+		"title": "Secours d'agent"
+	},
+	"AbandonedFacility": {
+		"title": "Installation abandonnée"
+	},
+	"HostileSwarm": {
+		"title": "Essaim hostile"
+	},
+	"TransportShipAssault": {
+		"title": "Assaut"
+	}
+}

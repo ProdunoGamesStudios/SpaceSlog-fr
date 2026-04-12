@@ -1,0 +1,92 @@
+﻿{
+	"Jaw": {
+		"title": "Joue"
+	},
+	"LeftFoot": {
+		"title": "Pied gauche"
+	},
+	"RightFoot": {
+		"title": "Pied droit"
+	},
+	"LeftArm": {
+		"title": "Bras gauche"
+	},
+	"RightArm": {
+		"title": "Bras droit"
+	},
+	"LeftHand": {
+		"title": "Main gauche"
+	},
+	"RightHand": {
+		"title": "Main droite"
+	},
+	"Groin": {
+		"title": "Aine"
+	},
+	"LeftLittleFinger": {
+		"title": "Petit doigt gauche"
+	},
+	"LeftFourthFinger": {
+		"title": "Annulaire gauche"
+	},
+	"LeftMiddleFinger": {
+		"title": "Majeur gauche"
+	},
+	"LeftForeFinger": {
+		"title": "Index gauche"
+	},
+	"RightLittleFinger": {
+		"title": "Petit doigt droit"
+	},
+	"RightFourthFinger": {
+		"title": "Annulaire droit"
+	},
+	"RightMiddleFinger": {
+		"title": "Majeur droit"
+	},
+	"RightForeFinger": {
+		"title": "Index droit"
+	},
+	"LeftThumb": {
+		"title": "Pouce gauche"
+	},
+	"RightThumb": {
+		"title": "Pouce droit"
+	},
+	"LeftBigToe": {
+		"title": "Gros orteil gauche"
+	},
+	"LeftSecondToe": {
+		"title": "Deuxième orteil gauche"
+	},
+	"LeftThirdToe": {
+		"title": "Troisième orteil gauche"
+	},
+	"LeftFourthToe": {
+		"title": "Quatrième orteil gauche"
+	},
+	"LeftLittleToe": {
+		"title": "Petit orteil gauche"
+	},
+	"RightBigToe": {
+		"title": "Gros orteil droit"
+	},
+	"RightSecondToe": {
+		"title": "Deuxième orteil droit"
+	},
+	"RightThirdToe": {
+		"title": "Troisième orteil droit"
+	},
+	"RightFourthToe": {
+		"title": "Quatrième orteil droit"
+	},
+	"RightLittleToe": {
+		"title": "Petit orteil droit"
+	},
+	"Neck": {
+		"title": "Cou"
+	},
+	"Nose": {
+		"title": "Nez"
+	}
+}

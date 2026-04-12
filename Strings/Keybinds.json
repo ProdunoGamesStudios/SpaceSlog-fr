@@ -1,0 +1,77 @@
+﻿{
+	"file_data": {
+		"name": "touches clavier"
+	},
+
+	"keyboard_keys": {
+		"space": "ESPACE",
+		"ctrl": "CTRL",
+		"shift": "SHIFT",
+		"alt": "ALT",
+		"enter": "ENTRÉE",
+		"tab": "TAB",
+		"escape": "ESC",
+		"pageup": "PAGE HAUT",
+		"pagedown": "PAGE BAS"
+	},
+
+	"mouse_buttons": {
+		"left": "BOUTON GAUCHE SOURIS",
+		"right": "BOUTON DROIT SOURIS",
+		"middle": "BOUTON MILIEU SOURIS",
+		"wheel_up": "ROUE SOURIS HAUT",
+		"wheel_down": "ROUE SOURIS BAS",
+		"button": "BOUTON SOURIS"
+	},
+
+	"gamepad_buttons": {
+		"a": "A",
+		"b": "B",
+		"x": "X",
+		"y": "Y",
+		"lb": "BG",
+		"rb": "BD",
+		"left_stick_press": "APPUYER STICK GAUCHE",
+		"right_stick_press": "APPUYER STICK DROIT",
+		"dpad_up": "PAD-D HAUT",
+		"dpad_down": "PAD-D BAS",
+		"dpad_left": "PAD-D GAUCHE",
+		"dpad_right": "PAD-D DROIT",
+		"select": "SÉLECT",
+		"start": "DÉMARRER",
+		"button": "BOUTON"
+	},
+
+	"gamepad_axes": {
+		"left_stick": "STICK GAUCHE",
+		"right_stick": "STICK DROIT",
+		"left_trigger": "GÂCHETTE GAUCHE",
+		"right_trigger": "GÂCHETTE DROITE",
+		"stick": "STICK"
+	},
+
+		"separator_or": " ou ",
+
+	"keybind_titles": {
+		"pan_up": "Panoramique vers le haut",
+		"pan_down": "Panoramique vers le bas",
+		"pan_left": "Panoramique vers la gauche",
+		"pan_right": "Panoramique vers la droite",
+		"zoom_in": "Zoom en avant",
+		"zoom_out": "Zoom en arrière",
+		"scroll_camera": "Déplacer caméra",
+		"recenter_camera": "Recentrer caméra",
+		"quick_scroll": "Défilement rapide",
+		"pause": "Pause",
+		"1x_speed": "Vitesse 1x",
+		"2x_speed": "Vitesse 2x",
+		"5x_speed": "Vitesse 5x",
+		"cycle_pawns_forward": "Défilement pions en avant",
+		"cycle_pawns_backward": "Défilement pions en arrière",
+		"rotate_building_left": "Tourner construction vers la gauche",
+		"rotate_building_right": "Tourner construction vers la droite",
+		"action": "Action",
+		"select": "Sélectionner",
+		"cancel": "Annuler"
+	}
+}

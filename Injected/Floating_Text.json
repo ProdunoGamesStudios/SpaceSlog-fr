@@ -1,0 +1,26 @@
+﻿{
+	"LevelUp": {
+		"title": "Niveau augmenté !"
+	},
+	"LevelDown": {
+		"title": "Niveau diminué !"
+	},
+	"Miss": {
+		"title": "Mademoiselle"
+	},
+	"CriticalHit": {
+		"title": "Coup critique !"
+	},
+	"Headshot": {
+		"title": "Tir en pleine tête !"
+	},
+	"Reloading": {
+		"title": "Rechargement"
+	},
+	"Blocked": {
+		"title": "Blocage"
+	},
+	"Healed": {
+		"title": "Blessures guéries"
+	}
+}

@@ -1,0 +1,14 @@
+﻿{
+	"None": {
+		"title": "Pas d'atmosphère",
+		"description": "Il n'y a pas d'atmosphère ici. Cela signifie qu'il y a très peu de pression ou de gaz, voire pas du tout."
+	},
+	"Empty": {
+		"title": "Atmosphère vide",
+		"description": "Vous devez remplir cette atmosphère avec vos propres gaz."
+	},
+	"EarthLike": {
+		"title": "Semblable à la Terre",
+		"description": "Cette atmosphère a des propriétés semblables à celles de la Terre."
+	}
+}

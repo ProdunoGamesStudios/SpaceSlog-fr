@@ -1,0 +1,22 @@
+﻿{
+	"AirTightness": {
+		"title": "Étanchéité à l'air",
+		"description": "L'étanchéité à l'air globale du navire."
+	},
+	"Oxygen": {
+		"title": "Oxygène",
+		"description": "Les niveaux d'oxygène du vaisseau."
+	},
+	"CarbonDioxide": {
+		"title": "Dioxyde de carbone",
+		"description": "Les niveaux de dioxyde de carbone à bord du vaisseau."
+	},
+	"Temperature": {
+		"title": "Température",
+		"description": "Les températures internes du vaisseau."
+	},
+	"ConnectedStructures": {
+		"title": "Connexions",
+		"description": "Les structures reliées au vaisseau. Tout élément non relié au vaisseau sera abandonné lors du passage en mode haute combustion."
+	}
+}

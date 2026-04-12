@@ -1,0 +1,102 @@
+﻿{
+	"SleepingSpot": {
+		"title": "Lieu de couchage",
+		"description": "Un lieu de secours ou de sommeil inconfortable pour un humanoïde."
+	},
+	"SleepingBag": {
+		"title": "Sac de couchage",
+		"description": "Un endroit chaud mais plutôt inconfortable où un humanoïde peut dormir."
+	},
+	"SingleBed": {
+		"title": "Lit simple",
+		"description": "Un endroit chaud et confortable où un humanoïde peut dormir."
+	},
+	"DoubleBed": {
+		"title": "Lit double",
+		"description": "Un endroit chaud et confortable où deux humanoïdes peuvent dormir côte à côte."
+	},
+	"SmallAnimalBed": {
+		"title": "Lit pour animaux",
+		"description": "Un endroit confortable où un petit animal peut dormir."
+	},
+	"HospitalBed": {
+		"title": "Lit simple d'hôpital",
+		"description": "Un endroit chaud et confortable où un humanoïde peut se reposer et se rétablir de blessures ou de maladie."
+	},
+	"CryoPod": {
+		"title": "Capsule cryogénique",
+		"description": "Gèle par cryonisation les créatures, les empêchant de vieillir tant que cet objet a de l'énergie."
+	},
+	"SmallTable": {
+		"title": "Petite table",
+		"description": "Une petite table relativement confortable permettant de manger. C'est beaucoup mieux que de manger par terre."
+	},
+	"MediumTable": {
+		"title": "Table moyenne",
+		"description": "Une table relativement confortable pour manger. C'est beaucoup mieux que de manger par terre."
+	},
+	"LargeTable": {
+		"title": "Grande table",
+		"description": "Une grande table relativement confortable pour manger. C'est beaucoup mieux que de manger par terre."
+	},
+	"BedSideTable": {
+		"title": "Table de chevet",
+		"description": "Une petite table de chevet. Peut être mise dans les quartiers de l'équipage pour améliorer la qualité de la chambre."
+	},
+	"Dresser": {
+		"title": "Commode",
+		"description": "Une commode qui peut être placée dans les quartiers de l'équipage pour améliorer la qualité de la chambre."
+	},
+	"Chair": {
+		"title": "Chaise",
+		"description": "Un endroit relativement confortable pour s'asseoir."
+	},
+	"Stool": {
+		"title": "Tabouret",
+		"description": "C'est un peu mieux que de s'asseoir par terre."
+	},
+	"CaptainsChair": {
+		"title": "Fauteuil de capitaine",
+		"description": "Un fauteuil digne d'un capitaine de vaisseau."
+	},
+	"CommandChair": {
+		"title": "Fauteuil de commande",
+		"description": "Un siège principalement utilisé sur le pont du vaisseau."
+	},
+	"FloorLight": {
+		"title": "Lampe de plancher",
+		"description": "Une lampe standard insérée dans le sol."
+	},
+	"StandingLight": {
+		"title": "Lampe sur pied",
+		"description": "Un lampadaire standard posé sur le sol."
+	},
+	"AlarmFloorLight": {
+		"title": "Lampe d'alarme de plancher",
+		"description": "Un voyant rouge clignotant intégré au sol."
+	},
+	"ConcreteFloor": {
+		"title": "Sol en béton",
+		"description": "Revêtement de sol extrêmement lourd utilisé dans les grands vaisseaux. Doit être posé sur un revêtement de sol structurel."
+	},
+	"CarpetFloor": {
+		"title": "Tapis",
+		"description": "Un tapis luxueux très confortable. Doit être posé sur un revêtement de sol structurel."
+	},
+	"WoodFloor": {
+		"title": "Parquet en bois",
+		"description": "Un type de revêtement de sol confortable fabriqué avec du bois. Doit être posé sur un revêtement de sol structurel."
+	},
+	"Door": {
+		"title": "Porte",
+		"description": "Une porte manuelle basique. Elle laissera échapper l'atmosphère lorsqu'elle sera en contact direct avec l'espace extérieur."
+	},
+	"AutoDoor": {
+		"title": "Porte automatique",
+		"description": "Une porte automatique motorisée qui peut être utilisée sans alimentation électrique, mais dont le fonctionnement sera plus lent. Elle laissera échapper l'atmosphère lorsqu'elle sera en contact direct avec l'espace extérieur."
+	},
+	"ArmouredDoor": {
+		"title": "Porte blindée",
+		"description": "Une porte automatique motorisée et renforcée qui peut être utilisée sans alimentation électrique, mais dont le fonctionnement sera plus lent. Elle laissera échapper l'atmosphère lorsqu'elle sera en contact direct avec l'espace extérieur."
+	}
+}

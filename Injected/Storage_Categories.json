@@ -1,0 +1,66 @@
+﻿{
+	"Sustenance": {
+		"title": "Alimentation",
+		"description": "Denrées alimentaires et liquides buvables."
+	},
+	"RawMaterials": {
+		"title": "Matières premières",
+		"description": "Matériaux de base utilisés pour créer d'autres articles."
+	},
+	"Weapons": {
+		"title": "Armes",
+		"description": "Objets pouvant être utilisés au combat."
+	},
+	"Clothing": {
+		"title": "Habillement",
+		"description": "Objets que l'on peut porter sur soi."
+	},
+	"ManMade": {
+		"title": "Artisanat",
+		"description": "Articles principalement fabriqués à partir de matières premières."
+	},
+	"Corpses": {
+		"title": "Cadavres",
+		"description": "Restes de créatures décédées."
+	},
+	"Alcoholic": {
+		"title": "Alcool",
+		"description": "Boissons contenant de l'alcool."
+	},
+	"NonAlcoholic": {
+		"title": "Sans-alcool",
+		"description": "Boissons sans alcool."
+	},
+	"Melee": {
+		"title": "Mêlée",
+		"description": "Armes de combat rapproché."
+	},
+	"Ranged": {
+		"title": "À distance",
+		"description": "Armes de longue distance."
+	},
+	"HeadGear": {
+		"title": "Équipement de tête",
+		"description": "Habillement de la tête."
+	},
+	"UpperBody": {
+		"title": "Hauts de corps",
+		"description": "Vêtements conçus pour être sous ou sur le corps."
+	},
+	"Armour": {
+		"title": "Armures",
+		"description": "Vêtements protecteurs de type armure."
+	},
+	"Trousers": {
+		"title": "Pantalons",
+		"description": "Habillement des jambes."
+	},
+	"FootWear": {
+		"title": "Chaussures",
+		"description": "Habillement des pieds."
+	},
+	"AllowAllCorpses": {
+		"title": "Autoriser tous cadavres",
+		"description": "Tous les types de cadavres peuvent être stockés."
+	}
+}

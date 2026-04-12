@@ -1,0 +1,22 @@
+﻿{
+	"CancelBlueprint": {
+		"title": "Annuler",
+		"description": "Annule tout travail désigné."
+	},
+	"Deconstruct": {
+		"title": "Déconstruire",
+		"description": "Désigner les bâtiments ou les débris à déconstruire."
+	},
+	"DoMining": {
+		"title": "Miner.",
+		"description": "Désigner les astéroïdes à exploiter pour leurs ressources."
+	},
+	"DoHarvest": {
+		"title": "Moissonner.",
+		"description": "Définir les plantes à récolter pour leurs ressources."
+	},
+	"DoHunting": {
+		"title": "Chasser.",
+		"description": "Les animaux seront marqués comme du gibier pouvant être chassé pour ses ressources."
+	}
+}

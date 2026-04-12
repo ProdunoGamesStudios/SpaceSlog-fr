@@ -1,0 +1,12 @@
+﻿{
+	"PlaceShipStructureStep1": {
+		"title": "Construire la structure du vaisseau",
+		"description": "Commençons à agrandir le vaisseau !\n\n[color=LIGHT_GREEN]Cliquez[/color] sur le bouton [color=PURPLE]Construction[/color] mis en surbrillance ou appuyez sur {building_menu} pour ouvrir le menu [color=PURPLE]Construction[/color]."
+	},
+	"PlaceShipStructureStep2": {
+		"description": "La [color=KHAKI]structure du vaisseau[/color] constitue le squelette de base de tous les vaisseaux et doit supporter d'autres éléments tels que le [color=KHAKI]revêtement de pont[/color].\n\nPour commencer, sélectionnez le bouton [color=PURPLE]Structure du vaisseau[/color] mis en évidence."
+	},
+	"PlaceShipStructureStep3": {
+		"description": "À présent, [color=LIGHT_GREEN]cliquez et glissez[/color] en utilisant {select} sur la zone surlignée en blanc pour y déposer des plans, puis attendez que votre équipage ait fini de les construire.\ n\nSi vous manquez de [color=KHAKI]titane[/color], désignez davantage de [color=KHAKI]structures de vaisseau[/color] ou d'[color=KHAKI]astéroïdes[/color] à traiter."
+	}
+}

@@ -1,0 +1,26 @@
+﻿{
+	"Transponder": {
+		"title": "Transpondeur",
+		"description": "Nécessaire pour permettre la construction de la plupart des structures et pour être détecté par les autres vaisseaux et les installations. Contient une batterie de secours, limitée à 90 W de puissance connectée, qui s'active automatiquement lorsque son circuit principal est privé d'alimentation."
+	},
+	"CommConsole": {
+		"title": "Console de communication",
+		"description": "Nécessaire pour la communication avec d'autres vaisseaux et installations."
+	},
+	"SmallThruster": {
+		"title": "Petit propulseur",
+		"description": "Fournit une petite poussée lorsqu'il est activé."
+	},
+	"MediumThruster": {
+		"title": "Propulseur moyen",
+		"description": "Fournit une poussée moyenne lorsqu'il est activé."
+	},
+	"LargeThruster": {
+		"title": "Grand propulseur",
+		"description": "Fournit une grande poussée lorsqu'il est activé."
+	},
+	"Aeroponics": {
+		"title": "Serre aéroponique",
+		"description": " Un endroit pour faire pousser des plantes et des légumes. Tout ce qui pousse ici commencera à pourrir si la serre n'est pas alimentée."
+	}
+}

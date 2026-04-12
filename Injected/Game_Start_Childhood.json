@@ -1,0 +1,10 @@
+﻿{
+	"Resourceful": {
+		"title": "Ingéniosité",
+		"description": "Enfant, votre capitaine était débrouillard et extrêmement économe. Comme ses parents étaient pauvres, {pawn_pronoun} n’a jamais eu grand-chose pendant son enfance et n’a donc eu d’autre choix que d’apprendre à se débrouiller avec ce qu’{pawn_pronoun} avait. Rien n’était jamais gaspillé et {pawn_pronoun} trouvait toujours une utilité aux objets que les autres jetaient."
+	},
+	"Wasteful": {
+		"title": "Gaspillage",
+		"description": "Enfant, votre capitaine gaspillait et ne prenait aucun soin de tout ce qu'{pawn_pronoun} parvenait à prendre. {pawn_pronoun} dilapidait souvent le peu que {pawn_pronoun} possédait, sans vraiment apprendre à être économe ni à planifier l’avenir. On ne peut pas emporter ses biens dans la tombe, alors autant les dépenser tant qu’on le peut."
+	}
+}

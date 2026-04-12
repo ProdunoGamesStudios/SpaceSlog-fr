@@ -1,0 +1,11 @@
+﻿{
+	"SmallArmsRound": {
+		"title": "Cartouche pour armes légères"
+	},
+	"ArmourPiercingRound": {
+		"title": "Balle perforante d'armure"
+	},
+	"ShotgunRound": {
+		"title": "Cartouche de fusil de chasse"
+	}
+}

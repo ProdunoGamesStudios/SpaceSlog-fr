@@ -1,0 +1,26 @@
+﻿{
+	"DeconstructFlooringOverlay": {
+		"title": "Déconstruire revêtements de sol",
+		"description": "Indiquer les revêtements de sol comme les tapis devant être déconstruits."
+	},
+	"DeconstructCables": {
+		"title": "Déconstruire câbles",
+		"description": "Indiquer les câbles devant être déconstruits."
+	},
+	"DeconstructDucting": {
+		"title": "Déconstruire canalisations",
+		"description": "Indiquer les canalisations devant être déconstruites."
+	},
+	"CancelFlooringOverlay": {
+		"title": "Annuler revêtements de sol",
+		"description": "Annuler la désignation des revêtements de sol comme les tapis."
+	},
+	"CancelCables": {
+		"title": "Annuler câbles",
+		"description": "Annuler la désignation des câbles."
+	},
+	"CancelDucting": {
+		"title": "Annuler canalisations",
+		"description": "Annuler la désignation des canalisations."
+	}
+}

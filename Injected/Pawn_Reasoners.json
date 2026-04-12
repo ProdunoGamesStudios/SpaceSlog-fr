@@ -1,0 +1,14 @@
+﻿{
+	"Basic": {
+		"title": "Raisonneur de base"
+	},
+	"Passive": {
+		"title": "Raisonneur de base"
+	},
+	"Human": {
+		"title": "Raisonneur humain"
+	},
+	"HumanMentalBreak": {
+		"title": "Raisonneur humain de rupture mentale"
+	}
+}

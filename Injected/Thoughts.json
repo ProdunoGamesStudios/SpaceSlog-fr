@@ -1,0 +1,170 @@
+﻿{
+	"Thirsty": {
+		"title": "Déshydraté",
+		"description": "J'ai très soif. J'aimerais qu'il y ait quelque chose à boire par ici."
+	},
+	"Starving": {
+		"title": "Affamé",
+		"description": "J'ai très faim. J'aimerais qu'il y ait quelque chose à manger dans le coin."
+	},
+	"Exhausted": {
+		"title": "Épuisé",
+		"description": "Tellement de fatigue que j'ai du mal à garder les yeux ouverts."
+	},
+	"CrewMemberDied": {
+		"title": "Membre de l'équipage décédé",
+		"description": "Un membre de l'équipage est décédé. Ce sera peut-être moi la prochaine fois."
+	},
+	"CaptainDied": {
+		"title": "Capitaine décédé",
+		"description": "Le capitaine vient de mourir. C'est une perte énorme pour nous tous."
+	},
+	"SoldCrewMember": {
+		"title": "Un membre de l'équipage a été vendu",
+		"description": "Nous avons récemment vendu un membre de l'équipage. Qui sait ce qu'il adviendra de lui maintenant ?"
+	},
+	"LowOxygen": {
+		"title": "Bas en oxygène",
+		"description": "J'ai vraiment du mal à respirer."
+	},
+	"Optimistic":  {
+		"title": "Optimiste",
+		"description": "La situation n'est pas brillante, mais au moins je suis en vie. Je suis sûr que les choses pourraient être bien pires."
+	},
+	"AteOnFloor":  {
+		"title": "A mangé sur le sol",
+		"description": "Ça craint de devoir manger par terre. J'aurais aimé avoir une table pour manger."
+	},
+	"SleptOnFloor":  {
+		"title": "A dormi par terre",
+		"description": "J'aimerais vraiment avoir un lit pour dormir. Ça craint de dormir par terre."
+	},
+	"SleptInComfyBed":  {
+		"title": "Dormi dans un lit confortable",
+		"description": "Waouh, mon lit est si confortable. Je pourrais y rester toute la journée."
+	},
+	"UnsatisfiedWithRole":  {
+		"title": "Insatisfait de son rôle",
+		"description": "Je crois sincèrement que je mérite un rôle plus important que celui qui m'a été confié."
+	},
+	"SatisfiedWithRole":  {
+		"title": "Satisfait de son rôle",
+		"description": "Le rôle qui m'a été confié me satisfait."
+	},
+	"AteHumanMeatCannibal":  {
+		"title": "J'ai horreur de la viande humaine",
+		"description": "Cette viande humaine que je détestais est tellement bonne !"
+	},
+	"AteHumanMeat":  {
+		"title": "J'ai horreur de la viande humaine",
+		"description": "Il m'a fallu manger de la viande humaine. Je suis vraiment une personne horrible."
+	},
+	"AteHumanMeatIngredientCannibal":  {
+		"title": "J'ai horreur de la viande humaine",
+		"description": "Cette viande humaine que je détestais est tellement bonne !"
+	},
+	"AteHumanMeatIngredient":  {
+		"title": "J'ai horreur de la viande humaine",
+		"description": "Il m'a fallu manger de la viande humaine. Je suis vraiment une personne horrible."
+	},
+	"Depressed":  {
+		"title": "Déprimé",
+		"description": "Ma vie est nulle et je la déteste !"
+	},
+	"HappyThoughts":  {
+		"title": "Pensées heureuses",
+		"description": "Tra-la-la-la-la. Youpi !"
+	},
+	"HadFun":  {
+		"title": "Vient de s'amuser",
+		"description": "Waouh, qu'est-ce que c'était amusant !"
+	},
+	"DislikeDarkness":  {
+		"title": "Peur du noir",
+		"description": "Je déteste être dans le noir. Ça me fait peur."
+	},
+	"LikeDarkness":  {
+		"title": "Adore le noir",
+		"description": "J'aime passer du temps dans l'obscurité."
+	},
+	"LowLight":  {
+		"title": "Lumière faible",
+		"description": "Cette lumière trop faible est dérangeante."
+	},
+	"NoCaptain": {
+		"title": "Pas de capitaine",
+		"description": "Comment peut-on espérer naviguer sans problèmes si nous n'avons pas de capitaine ?"
+	},
+	"HasCaptain": {
+		"title": "Avons un capitaine",
+		"description": "Je suis sûr que ce vaisseau fonctionnera beaucoup mieux maintenant que nous avons un bon capitaine."
+	},
+	"LostCaptain": {
+		"title": "Perte du capitaine",
+		"description": "Comment avons-nous pu perdre notre capitaine ? C'est une catastrophe."
+	},
+	"HasNoCaptainsChair": {
+		"title": "Pas de fauteuil de capitaine",
+		"description": "Il faut vraiment que je me procure un de ces fauteuils de capitaine."
+	},
+	"LowReserves":  {
+		"title": "Faibles réserves",
+		"description": "Nous avons peu de réserves de nourriture et d'eau à bord du navire, c'est inquiétant"
+	},
+	"Content":  {
+		"title": "Content",
+		"description": "J'ai de quoi boire et de la nourriture dans le ventre. Tout semble aller bien, du moins pour l'instant."
+	},
+	"UncomfortableInSpaceSuit":  {
+		"title": "Équipement spatial inconfortable",
+		"description": "Ce serait bien de pouvoir quitter cette combinaison spatiale pendant quelques heures."
+	},
+	"SleptInCold":  {
+		"title": "Froid durant le sommeil",
+		"description": "Je me les gelais pendant mon sommeil."
+	},
+	"SleptInHeat":  {
+		"title": "Chaud durant le sommeil",
+		"description": "J'avais trop chaud durant mon sommeil."
+	},
+	"SleptInCosyBed":  {
+		"title": "Dormi dans un lit douillet",
+		"description": "Mon lit était confortable et douillet."
+	},
+	"Rescued":  {
+		"title": "Sauvé",
+		"description": "Sauvetage réussi ! Quel soulagement, j'ai de la chance d'être en vie."
+	},
+	"NoPrivacy":  {
+		"title": "Pas d'intimité",
+		"description": "Je n'ai pas d'espace personnel qui me soit attribué."
+	},
+	"Unwell": {
+		"title": "Sous la vague",
+		"description": "Oh, je me sens si mal."
+	},
+	"NearDeath": {
+		"title": "A une vie dangereuse",
+		"description": "Vais-je bientôt mourir ?"
+	},
+	"Cramped":  {
+		"title": "A l'étroit",
+		"description": "Je peux à peine bouger dans cet endroit."
+	},
+	"Spacious":  {
+		"title": "Spacieux",
+		"description": "Il y a beaucoup de place ici pour nous tous."
+	},
+	"CleanShip":  {
+		"title": "Propre, ce vaisseau",
+		"description": "C'est agréable d'être sur un vaisseau aussi propre."
+	},
+	"DirtyShip":  {
+		"title": "Sale, ce vaisseau",
+		"description": "Ce bateau est sale et dégoûtant."
+	},
+	"DeadBodyNearby":  {
+		"title": "Cadavre à proximité",
+		"description": "Ce cadavre me met mal à l'aise."
+	}
+}

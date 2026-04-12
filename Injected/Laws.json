@@ -1,0 +1,26 @@
+﻿{
+	"Slavery": {
+		"title": "Esclavagisme",
+		"description": "Le trafic d'espèces est normal et n'est pas puni par la loi. L'achat et la vente d'esclaves sont donc devenus monnaie courante dans les territoires de cette faction et aux alentours."
+	},
+	"Cannibalism": {
+		"title": "Cannibalisme",
+		"description": "Certains ont recours au cannibalisme par nécessité et d'autres par besoin. Cette faction ne voit aucun inconvénient à cette pratique et l'a même rendu légale."
+	},
+	"Commerce": {
+		"title": "Commerce",
+		"description": "Un système commercial sophistiqué constitue leur épine dorsale, mettant l'accent sur le commerce équitable, la stabilité économique et la prospérité mutuelle. Tous les citoyens sont tenus de contribuer à l'économie en participant au commerce."
+	},
+	"Exploration": {
+		"title": "Exploration",
+		"description": "En tant qu'espèce motivée par l'exploration, tous les individus sont légalement tenus de servir à bord de tout vaisseau d'exploration envoyé."
+	},
+	"Expansionist": {
+		"title": "Expansionnisme",
+		"description": "Il est encouragé et légal d'essayer de coloniser d'autres segments du Foutoir. Les membres de la faction {faction_name} ont également l'obligation légale d'étudier et de documenter toute planète présentant un potentiel de terraformation."
+	},
+	"Banditry": {
+		"title": "Bandits",
+		"description": "Le banditisme est encouragé au sein de cette faction, ce qui comprend souvent des crimes tels que l'extorsion, le vol et le meurtre. Ceux qui se livrent à ce genre d'activités sont souvent appelés des bandits."
+	}
+}

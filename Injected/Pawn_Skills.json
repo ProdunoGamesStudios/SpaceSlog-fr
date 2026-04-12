@@ -1,0 +1,46 @@
+﻿{
+	"Engineering" : {
+		"title": "ingénierie",
+		"description": "Une compétence utile pour construire, maintenir et réparer des choses."
+	},
+	"Navigation" : {
+		"title": "navigation",
+		"description": "Accélère la vitesse des vaisseaux et peut devenir un meilleur capitaine."
+	},
+	"Ranged" : {
+		"title": "à distance",
+		"description": "Combat à distance, meilleure précision et efficacité des armes à feu et des armes embarquées."
+	},
+	"Melee" : {
+		"title": "mêlée",
+		"description": "Efficacité dans les combats rapprochés, à mains nues ou avec des armes."
+	},
+	"Social" : {
+		"title": "social",
+		"description": "Sympathie, négociation et capacité à s'entendre avec les autres."
+	},
+	"Operations" : {
+		"title": "opérateur",
+		"description": "Faire fonctionner divers composants du vaisseau, tels que les propulseurs."
+	},
+	"Cooking" : {
+		"title": "cuisine",
+		"description": "Capacité à cuisiner et à préparer des boissons à partir d'ingrédients bruts."
+	},
+	"Mining" : {
+		"title": "minage",
+		"description": "Efficace et rapide avec le matériel d'extraction."
+	},
+	"Science" : {
+		"title": "science",
+		"description": "Recherche et développement."
+	},
+	"Animals" : {
+		"title": "animaux",
+		"description": "Apprivoiser et dresser des animaux, peut-être aussi des extraterrestres."
+	},
+	"Medical" : {
+		"title": "médecine",
+		"description": "Utilisation de la pharmacopée et guérison d'autrui."
+	}
+}

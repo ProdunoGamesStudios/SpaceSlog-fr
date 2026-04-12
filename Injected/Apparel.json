@@ -1,0 +1,34 @@
+﻿{
+	"SpaceSuit": {
+		"title": "Combinaison spatiale",
+		"description": "Partie d'un équipement EVA (Activité Extra Véhiculaire) ; un casque est également nécessaire pour un fonctionnement complet. Ces combinaisons sont équipées de recycleurs intégrés qui nettoient les gaz résiduels. Il est extrêmement inconfortable de dormir dans ces combinaisons."
+	},
+	"JumpSuit": {
+		"title": "Salopette",
+		"description": "Vêtement qui couvre la partie supérieure et inférieure du corps, généralement pour le protéger de la saleté et de la crasse."
+	},
+	"FlakVest": {
+		"title": "Gilet pare-balles",
+		"description": "Gilet de protection fabriqué à partir de couches de fibres d'aramide. Conçu pour réduire l'impact des projectiles."
+	},
+	"Jacket": {
+		"title": "Blouson",
+		"description": "Vêtement destiné à couvrir la partie supérieure du corps."
+	},
+	"DusterJacket": {
+		"title": "Blouse de protection",
+		"description": "Une longue blouse qui couvre presque tout le corps."
+	},
+	"Jeans": {
+		"title": "Jeans",
+		"description": "Vêtement confortable qui couvre la partie inférieure du corps."
+	},
+	"Shirt": {
+		"title": "Chemise",
+		"description": "Vêtement confortable et léger qui couvre la partie supérieure du corps."
+	},
+	"CombatShirt": {
+		"title": "Chemise de combat",
+		"description": "Vêtement résistant qui couvre la partie supérieure du corps."
+	}
+}

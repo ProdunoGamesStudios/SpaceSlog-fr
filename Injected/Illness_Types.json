@@ -1,0 +1,110 @@
+﻿{
+	"Hypoxaemia": {
+		"title": "Hypoxémie",
+		"description": "Une condition qui se produit en raison d'un manque d'oxygène dans le sang.",
+		"stages": {
+			"Minor": {
+				"title": "Mineure"
+			},
+			"Moderate": {
+				"title": "Modérée"
+			},
+			"Major": {
+				"title": "Majeure"
+			},
+			"Severe": {
+				"title": "Sévère"
+			}
+		}
+	},
+	"Asphyxiation": {
+		"title": "Asphyxie",
+		"description": "La mort survient très rapidement en cas d'étouffement dû à l'absence d'oxygène dans le sang."
+	},
+	"Malnutrition": {
+		"title": "Malnutrition",
+		"description": "L'absence de nourriture pendant trop longtemps conduit à la malnutrition. Une malnutrition prolongée entraînera une augmentation des douleurs sévères et finalement la mort.",
+		"stages": {
+			"Minor": {
+				"title": "Mineure"
+			},
+			"Moderate": {
+				"title": "Modérée"
+			},
+			"Major": {
+				"title": "Majeure"
+			},
+			"Severe": {
+				"title": "Sévère"
+			}
+		}
+	},
+	"SpaceVirus": {
+		"title": "Atteinte par virus de l'espace",
+		"stages": {
+			"Minor": {
+				"title": "Mineure"
+			},
+			"Moderate": {
+				"title": "Modérée"
+			},
+			"Major": {
+				"title": "Majeure"
+			},
+			"Severe": {
+				"title": "Sévère"
+			}
+		}
+	},
+	"Hypovolaemia": {
+		"title": "Hypovolémie",
+		"description": "Cet état résulte d'une perte importante de liquide. Si les fluides ne sont pas reconstitués rapidement, il faut s'attendre à une forte perte de conscience et éventuellement à la mort.",
+		"stages": {
+			"Minor": {
+				"title": "Mineure"
+			},
+			"Moderate": {
+				"title": "Modérée"
+			},
+			"Major": {
+				"title": "Majeure"
+			},
+			"Severe": {
+				"title": "Sévère"
+			}
+		}
+	},
+	"Dementia": {
+		"title": "Démence",
+		"description": "Manifestation de la perte des facultés mentales.",
+		"stages": {
+			"Mild": {
+				"title": "Légère"
+			},
+			"Moderate": {
+				"title": "Modérée"
+			},
+			"Severe": {
+				"title": "Sévère"
+			}
+		}
+	},
+	"Exhaustion": {
+		"title": "Épuisement",
+		"description": "Bien qu'initialement léger, l'épuisement s'aggrave sans repos, entraînant un risque accru de perte de conscience.",
+		"stages": {
+			"Minor": {
+				"title": "Mineure"
+			},
+			"Moderate": {
+				"title": "Modérée"
+			},
+			"Major": {
+				"title": "Majeure"
+			},
+			"Severe": {
+				"title": "Sévère"
+			}
+		}
+	}
+}

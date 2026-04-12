@@ -1,0 +1,10 @@
+﻿{
+	"EnableTutorial": {
+		"title": "Activer le tutoriel",
+		"description": "Active le didacticiel interactif qui vous guidera à travers les bases du jeu. Fortement recommandé aux nouveaux joueurs.\n\nL'aide non interactive restera disponible."
+	},
+	"SkipTutorial": {
+		"title": "Sauter le tutoriel",
+		"description": "Ignore le didacticiel interactif. Déconseillé aux nouveaux joueurs.\n\nL'aide non interactive restera disponible."
+	}
+}

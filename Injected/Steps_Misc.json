@@ -1,0 +1,10 @@
+﻿{
+	"TutorialWelcomeStep1": {
+		"title": "Bienvenue dans le tutoriel",
+		"description": "Bienvenue pour votre premier jour dans le Foutoir !\n\nCe tutoriel vous fournira une formation de base sur la manière de diriger votre équipage et de commencer à construire votre vaisseau.\n\nVous pouvez déplacer ce menu de tutoriel à tout moment en [color=LIGHT_GREEN]cliquant et glissant[/color] à l'intérieur de la [color=PURPLE]barre supérieure[/color] à l'aide de la touche {select}."
+	},
+	"FinishStep1": {
+		"title": "Tutoriel terminé",
+		"description": "Vous avez terminé le tutoriel !\n\nIl vous reste encore beaucoup à apprendre, mais ne vous découragez pas : il vous faudra peut-être plusieurs essais avant de maîtriser tous les mécanismes.\n\nSi vous avez besoin d'aide supplémentaire, vous pouvez toujours consulter le [color=PURPLE]Manuel d'utilisation[/color] en cliquant sur le bouton [color=PURPLE]Informations[/color] surligné et en accédant à l'onglet [color=PURPLE]Manuel d'utilisation[/color].\n\n[i]Notez également que ce tutoriel continuera d'être enrichi et amélioré au fil du temps[/i]."
+	}
+}

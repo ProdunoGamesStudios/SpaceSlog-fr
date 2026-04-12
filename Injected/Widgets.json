@@ -1,0 +1,63 @@
+﻿{
+	"PowerReceiverSwitch": {
+		"title": "Commutateur de puissance."
+	},
+	"PowerSourceSwitch": {
+		"title": "Commutateur de puissance."
+	},
+	"AutoRefuel": {
+		"title": "Commutateur de ravitaillement automatique."
+	},
+	"Cancel": {
+		"title": "Annule plan",
+		"description": "Annule et supprime le plan courant."
+	},
+	"Deconstruct": {
+		"title": "Commutateur de déconstruction."
+	},
+	"Command": {
+		"title": "Commutateur de commande."
+	},
+	"DeleteZone": {
+		"title": "Supprime zone.",
+		"description": "Supprime cette zone."
+	},
+	"ExpandZone": {
+		"title": "Étendre zone.",
+		"description": "Agrandit la taille cette zone."
+	},
+	"ReduceZone": {
+		"title": "Réduire zone.",
+		"description": "Réduit la taille de cette zone."
+	},
+	"ChangeColour": {
+		"title": "Changer couleur.",
+		"description": "Change la couleur de cette zone."
+	},
+	"ZoneVisibility": {
+		"title": "Visibilité de la zone."
+	},
+	"Forbid": {
+		"title": "Commutateur d’interaction."
+	},
+	"ForcedMine": {
+		"title": "Commutateur de minage."
+	},
+	"ForcedHarvest": {
+		"title": "Force la moisson."
+	},
+	"ForceShoot": {
+		"title": "Tir forcé.",
+		"description": "Force à tirer sur la cible."
+	},
+	"ForceMelee": {
+		"title": "Mêlée forcée",
+		"description": "Force les mêlées."
+	},
+	"OperateVent": {
+		"title": "Commutateur actif"
+	},
+	"Hunt": {
+		"title": "Activer la chasse."
+	}
+}

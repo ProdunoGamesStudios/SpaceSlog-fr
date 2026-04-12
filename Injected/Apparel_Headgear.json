@@ -1,0 +1,18 @@
+﻿{
+	"SpaceHelmet": {
+		"title": "Casque spatial",
+		"description": "Partie d'une combinaison EVA (Activités Extra-Véhiculaires) ; la combinaison spatiale en complément est nécessaire pour équipement complet. Il est extrêmement inconfortable de dormir avec."
+	},
+	"CowboyHat": {
+		"title": "Chapeau de cowboy",
+		"description": "Considéré autant comme un accessoire de mode que comme un moyen pratique de protéger la tête contre les intempéries."
+	},
+	"BeanieHat": {
+		"title": "Bonnet",
+		"description": "Excellent pour vous aider à garder la tête au chaud."
+	},
+	"CombatHelmet": {
+		"title": "Casque de combat",
+		"description": "Casque rigide conçu pour protéger la tête au combat."
+	}
+}

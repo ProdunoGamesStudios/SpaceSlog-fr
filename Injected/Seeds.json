@@ -1,0 +1,22 @@
+﻿{
+	"PotatoSeeds": {
+		"title": "Germes de pommes de terre",
+		"description": "Germes utilisés pour faire pousser des pommes de terre."
+	},
+	"CarrotSeeds": {
+		"title": "Graines de carottes",
+		"description": "Graines utilisées pour faire pousser des carottes."
+	},
+	"HerbSeeds": {
+		"title": "Plants d'herbe",
+		"description": "Plants utilisés pour faire pousser des herbes."
+	},
+	"RiceSeeds": {
+		"title": "Grains de riz",
+		"description": "Grains utilisés pour faire pousser du riz."
+	},
+	"WheatSeeds": {
+		"title": "Grains de blé",
+		"description": "Grains utilisés pour faire pousser du blé."
+	}
+}

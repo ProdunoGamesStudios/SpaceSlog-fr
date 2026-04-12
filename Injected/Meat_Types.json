@@ -1,0 +1,14 @@
+﻿{
+	"Human": {
+		"title": "Viande",
+		"description": "Épaisse et rouge."
+	},
+	"Worm": {
+		"title": "Viande",
+		"description": "Verte et gluante."
+	},
+	"SmallAnimal": {
+		"title": "Viande",
+		"description": "Épaisse et rouge."
+	}
+}

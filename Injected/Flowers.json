@@ -1,0 +1,14 @@
+﻿{
+	"FlowersA": {
+		"title": "Fleurs roses",
+		"description": "Des fleurs roses."
+	},
+	"FlowersB": {
+		"title": "Fleurs",
+		"description": "Des fleurs."
+	},
+	"FlowersC": {
+		"title": "Fleurs blanches",
+		"description": "Des fleurs blanches."
+	}
+}

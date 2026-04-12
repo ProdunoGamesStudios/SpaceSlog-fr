@@ -1,0 +1,26 @@
+﻿{
+	"WheatPlant": {
+		"title": "Germe de blé",
+		"description": "Une plante qui produit du blé une fois cultivée."
+	},
+	"RicePlant": {
+		"title": "Germe de riz",
+		"description": "Une plante qui produit du riz une fois cultivée."
+	},
+	"PotatoPlant": {
+		"title": "Plant de pomme de terre",
+		"description": "Un plant qui produit des pommes de terre une fois cultivé."
+	},
+	"CarrotPlant": {
+		"title": "Plant de carotte",
+		"description": "Un plant qui produit des carottes une fois cultivé."
+	},
+	"HerbPlant": {
+		"title": "Plant d'herbe",
+		"description": "Un plant qui produit de l'herbe une fois cultivé."
+	},
+	"HopsPlant": {
+		"title": "Plant de houblon",
+		"description": "Un plant qui produit du houblon une fois cultivé."
+	}
+}

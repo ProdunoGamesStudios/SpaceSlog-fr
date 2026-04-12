@@ -1,0 +1,158 @@
+﻿{
+	"LowGravity" : {
+		"title": "Préfère la gravité basse",
+		"description": "{pawn_name} ayant passé la majeure partie de sa vie sur un vaisseau-colonie, ses os et les muscles se sont habitués à la gravité artificielle que l'on trouve couramment sur les grands vaisseaux. La gravité y étant relativement faible, {pawn_name} a plus de mal que les autres dans les zones à forte gravité."
+	},
+	"HighGravity" : {
+		"title": "Préfère la gravité haute",
+		"description": "Après des années de vie sur une planète où la gravité est plus élevée que d'habitude, {pawn_name} préfère désormais les environnements où la gravité est plus élevée."
+	},
+	"Gay" : {
+		"title": "Gay",
+		"description": "{pawn_name} préfère les personnes du même genre que le sien."
+	},
+	"Bisexual" : {
+		"title": "Bisexuel",
+		"description": "Les hommes et les femmes attirent tout autant {pawn_name}."
+	},
+	"Murderous" : {
+		"title": "Sanguinaire",
+		"description": "Il se sait que {pawn_name} a tué d'autres personnes en certaines occasions."
+	},
+	"Ugly": {
+		"title": "Moche",
+		"description": "Regarder {pawn_name} est une insulte à la beauté."
+	},
+	"Pretty": {
+		"title": "Beauté",
+		"description": "{pawn_name} est naturellement agréable à regarder."
+	},
+	"PickPocket": {
+		"title": "Pickpocket",
+		"description": "{pawn_name} n'a aucun sens de la propriété."
+	},
+	"Claustrophobic": {
+		"title": "Claustrophobe",
+		"description": "Il est extrêmement stressant pour {pawn_name} de se retrouver dans un espace confiné."
+	},
+	"SocialButterfly": {
+		"title": "Papillon social",
+		"description": "{pawn_name} s'épanouit en compagnie d'autres personnes et n'aime pas la solitude."
+	},
+	"Reclusive": {
+		"title": "Solitaire",
+		"description": "{pawn_name} préfère éviter la compagnie des autres."
+	},
+	"Creative": {
+		"title": "Artiste",
+		"description": "{pawn_name} a l'œil pour le domaine artistique et les autres activités créatives."
+	},
+	"Ambitious": {
+		"title": "Ambition",
+		"description": "{pawn_name} a de grandes ambitions personnelles.\n\nPréfère se voir attribuer un rôle de haut rang."
+	},
+	"Fearless": {
+		"title": "Intrépide",
+		"description": "{pawn_name} préfère ne pas reculer devant un combat.\n\nNe s'enfuira pas du combat."
+	},
+	"LoudSnorer": {
+		"title": "Ronflement sonore",
+		"description": "{pawn_name} ronfle très fort et devrait probablement dormir dans l'isolement pour éviter d'ennuyer les autres."
+	},
+	"Jealous": {
+		"title": "Jalousie",
+		"description": "{pawn_name} n'aime pas que les autres soient mieux lotis que sa petite personne."
+	},
+	"Unhygienic": {
+		"title": "Pas hygiénique",
+		"description": "{pawn_name} ne se soucie pas beaucoup de son hygiène personnelle.\n\nRépand deux fois plus de saleté que la normale."
+	},
+	"NeatFreak": {
+		"title": "Obsession du rangement",
+		"description": "{pawn_name} aime de façon obsessionnelle l'ordre et la propreté."
+	},
+	"Mumbler": {
+		"title": "Marmonne",
+		"description": "{pawn_name} adore se parler à voix basse, ce qui ennuie parfois les autres."
+	},
+	"Depressive": {
+		"title": "Déprime",
+		"description": "{pawn_name} souffre d'un trouble de la personnalité caractérisé par des sentiments d'inutilité, de faible estime de soi et d'absence de joie.\n\nPossède un affaiblissement permanent de l'humeur."
+	},
+	"Chatterbox": {
+		"title": "Moulin à paroles",
+		"description": "{pawn_name} adore parler, ce que certains peuvent trouver rasoir mais d'autres apprécier."
+	},
+	"Earther": {
+		"title": "Terrestre",
+		"description": "{pawn_name} préfère vivre sur une planète."
+	},
+	"Spacer": {
+		"title": "Spacien",
+		"description": "{pawn_name} préfère vivre dans l'immensité de l'espace."
+	},
+	"Lazy": {
+		"title": "Paresse",
+		"description": "{pawn_name} travaille généralement plus lentement que les autres et a tendance à vouloir dormir davantage."
+	},
+	"HardWorker": {
+		"title": "Travail incessant",
+		"description": "{pawn_name} croit au travail acharné et aime travailler plus vite que les autres."
+	},
+	"Nervous": {
+		"title": "Paquet de nerfs",
+		"description": "{pawn_name} a tendance à laisser ses nerfs prendre le dessus, ce qui entraîne souvent des résultats indésirables."
+	},
+	"Tinkerer": {
+		"title": "Bricolage",
+		"description": "Pour le meilleur ou pour le pire, {pawn_pronoun} aime bricoler."
+	},
+	"Greedy": {
+		"title": "Avide",
+		"description": "{pawn_name} en veut toujours plus que les autres.\n\nA plus de chances de manger."
+	},
+	"Creepy": {
+		"title": "Bizarre",
+		"description": "{pawn_name} a tendance à mettre son entourage mal à l'aise."
+	},
+	"HighlyStrung": {
+		"title": "Versatile",
+		"description": "{pawn_name} réagit rapidement aux changements d'humeur.\n\nLes changements d'humeur sont plus rapides que la normale."
+	},
+	"Simple": {
+		"title": "Bébête",
+		"description": "Ce qui manque à {pawn_name} en termes d'intelligence est compensé par la joie.\n\nEn permanence de bonne humeur."
+	},
+	"QuickLearner": {
+		"title": "Apprend vite",
+		"description": "{pawn_name} a une capacité naturelle à apprendre rapidement."
+	},
+	"HighPainThreshold": {
+		"title": "Seuil de douleur élevée",
+		"description": "{pawn_name} a un seuil de tolérance élevé à la douleur."
+	},
+	"LowPainThreshold": {
+		"title": "Seuil de douleur bas",
+		"description": "{pawn_name} a un seuil de tolérance bas à la douleur."
+	},
+	"Cannibal": {
+		"title": "Cannibale",
+		"description": "{pawn_name} préfère manger de la viande de sa propre espèce.\n\nN'aura pas de mauvaises pensées s'il mange ceux de son espèce."
+	},
+	"Persuasive": {
+		"title": "Diplomate",
+		"description": "{pawn_name} a un très grand talent pour la négociation et une capacité naturelle à influencer les autres."
+	},
+	"Pushover": {
+		"title": "Influençable",
+		"description": "{pawn_name} a du mal à s'affirmer et se soumet facilement aux exigences des autres."
+	},
+	"Nyctophobia": {
+		"title": "Nyctophobie",
+		"description": "{pawn_name} a peur de l'obscurité."
+	},
+	"Nyctophilia": {
+		"title": "Nyctophilie",
+		"description": "{pawn_name} adore l'obscurité."
+	}
+}

@@ -1,0 +1,149 @@
+﻿{
+	"Hungry": {
+		"title": "A faim"
+	},
+	"Thirsty": {
+		"title": "A soif"
+	},
+	"Tired": {
+		"title": "Est fatigué"
+	},
+	"HasFood": {
+		"title": "A de la nourriture"
+	},
+	"HasDrink": {
+		"title": "A de quoi boire"
+	},
+	"Fallback": {
+		"title": "Solution de repli"
+	},
+	"HasPrefab": {
+		"title": "Quelque chose doit être construit"
+	},
+	"HasRepairable": {
+		"title": "Quelque chose doit être réparé"
+	},
+	"HasDirt": {
+		"title": "Quelque chose doit être nettoyé"
+	},
+	"HasFire": {
+		"title": "Un feu doit être éteint"
+	},
+	"ThingToHaul": {
+		"title": "Quelque chose doit être transporté"
+	},
+	"ThingToCombine": {
+		"title": "Quelque chose doit être combiné"
+	},
+	"NeedsMatsPrefab": {
+		"title": "A les matériaux"
+	},
+	"NeedsMatsRecipe": {
+		"title": "A les matériaux"
+	},
+	"HasDeconstruction": {
+		"title": "Quelque chose doit être déconstruit"
+	},
+	"HasMineable": {
+		"title": "Quelque chose doit être exploité"
+	},
+	"SomewhereToSleep": {
+		"title": "A un endroit pour dormir"
+	},
+	"SomewhereToRestAndHeal": {
+		"title": "A un endroit pour se reposer et guérir"
+	},
+	"PawnNeedsRescue": {
+		"title": "Un agent doit être secouru"
+	},
+	"IsGreedy": {
+		"title": "Avide"
+	},
+	"IsNotFearless": {
+		"title": "N'est pas intrépide"
+	},
+	"SomewhereToRoam": {
+		"title": "Un espace de liberté"
+	},
+	"MyHealth": {
+		"title": "Ma santé"
+	},
+	"TargetHealth": {
+		"title": "Objectifs de santé"
+	},
+	"ThingNeedsRefuelling": {
+		"title": "Quelque chose doit être rechargé"
+	},
+	"DeadPawn": {
+		"title": "Un agent mort doit être déplacé"
+	},
+	"EquipSpacesuit": {
+		"title": "Besoin de s'équiper d'une combinaison spatiale"
+	},
+	"HasFullPressuredSuit": {
+		"title": "A une combinaison pressurisée"
+	},
+	"IsCaptain": {
+		"title": "Est capitaine"
+	},
+	"HasEntertainment": {
+		"title": "A de l'amusement"
+	},
+	"PawnNeedsHealing": {
+		"title": "Un agent doit être guéri"
+	},
+	"CrewNeedsFeeding": {
+		"title": "Un membre d'équipage a besoin de manger"
+	},
+	"AnimalNeedsFeeding": {
+		"title": "Un animal a besoin de se nourrir"
+	},
+	"CrewNeedsHydrating": {
+		"title": "Un membre d'équipage a besoin de s'hydrater"
+	},
+	"AnimalNeedsHydrating": {
+		"title": "Un animal a besoin de s'hydrater"
+	},
+	"PrefabObstruction": {
+		"title": "Un obstacle doit être déplacé"
+	},
+	"Aggroed": {
+		"title": "Sommes-nous agressés ?"
+	},
+	"IsNotPlayerEntity": {
+		"title": "Sommes-nous une entité du joueur ?"
+	},
+	"HasAttackTarget": {
+		"title": "Avons-nous une cible à attaquer ?"
+	},
+	"IsHostileEnemyNearby": {
+		"title": "Un ennemi à proximité ?"
+	},
+	"IsNotHostileEnemyNearby": {
+		"title": "Un ennemi à proximité ?"
+	},
+	"SomethingToSow": {
+		"title": "Quelque chose à semer ?"
+	},
+	"SomethingToHarvest": {
+		"title": "Quelque chose à récolter ?"
+	},
+	"SomethingToHarvestRecipe": {
+		"title": "Existe-t-il une recette pour la récolte ?"
+	},
+	"ThingToHunt": {
+		"title": "Y a-t-il quelque chose à chasser ?"
+	},
+	"HasRangedWeapon": {
+		"title": "Avons-nous une arme à distance ?"
+	},
+	"HasCaptainsChair": {
+		"title": "Avons-nous un fauteuil de capitaine ?"
+	},
+	"IsShipMoving": {
+		"title": "Le vaisseau se déplace-t-il ?"
+	},
+	"HasBreedingPartner": {
+		"title": "A un partenaire de reproduction"
+	}
+}

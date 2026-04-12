@@ -1,0 +1,22 @@
+﻿{
+	"None": {
+		"title": "Ne mange pas et ne boit pas",
+		"description": "Ne consomme ni nourriture ni boisson."
+	},
+	"Herbivore": {
+		"title": "herbivore",
+		"description": "Se nourrit de plantes."
+	},
+	"Carnivore": {
+		"title": "carnivore",
+		"description": "Mange de la viande."
+	},
+	"Omnivore": {
+		"title": "omnivore",
+		"description": "Il se nourrit aussi bien de végétaux que de viande."
+	},
+	"Lithophagy": {
+		"title": "lithophagie",
+		"description": "Se nourrit de roches."
+	}
+}

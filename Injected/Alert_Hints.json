@@ -1,0 +1,50 @@
+﻿{
+	"AlertCrewmanNeedsRescue": {
+		"title": "Un membre d'équipage doit être secouru",
+		"description": "L'un de vos membres d'équipage doit être secouru.\n\nVous devez vous assurer que vous disposez d'un lit vide pour qu'il puisse se reposer, que la zone est sûre et contient de l'oxygène.\n\nSi vous n'avez pas de matériel, vous pouvez placer gratuitement un endroit pour dormir."
+	},
+	"AlertNeedCrewBeds": {
+		"title": "Votre équipage n'a pas de lits disponibles",
+		"description": "Les membres de l'équipage dorment mieux s'ils disposent d'un lit. Plus le lit est bon, moins ils auront besoin de dormir.\n\nSi vous n'avez pas de matériel, vous pouvez placer un endroit pour dormir gratuitement."
+	},
+	"AlertNeedAirSource": {
+		"title": "Source d'air manquante",
+		"description": "Vous avez besoin d'une source d'air pour remplir vos pièces d'oxygène.\n\nChaque pièce avec de l'atmosphère nécessite de l'air fourni par un ventilateur relié par l'intermédiaire d'une gaine.\n\nEssayez d'abord de construire un support de vie, puis connectez-le à un ventilateur d'air via des conduits."
+	},
+	"AlertNeedAirVent": {
+		"title": "Une alimentation en air n'a pas de ventilateur d'air",
+		"description": "L'alimentation en air est activée, mais elle ne peut pas fournir d'air parce qu'il n'y a pas de ventilateur d'air connecté.\n\nVérifiez que vous avez construit un ventilateur d'air et que le ventilateur et l'alimentation en air sont côte à côte ou qu'ils sont connectés par des conduits."
+	},
+	"AlertLowFood": {
+		"title": "Il reste peu de nourriture",
+		"description": "Vous manquez cruellement de nourriture.\n\nVous pouvez cultiver, découper, échanger ou préparer de la nourriture."
+	},
+	"AlertLowDrink": {
+		"title": "Il reste peu de boisson",
+		"description": "Vous manquez cruellement de boissons.\n\nVous pouvez obtenir plus de boissons en faisant fondre de la glace dans des tonneaux ou en faisant du commerce avec les vaisseaux de passage."
+	},
+	"AlertNoStockpile": {
+		"title": "Pas de zone de stockage",
+		"description": "Vous n'avez pas de zone de stockage, ce qui signifie que vous ne pouvez pas stocker de matériaux.\n\nUtilisez le menu en haut à gauche pour sélectionner un espace de stockage et le placer à l'intérieur de votre vaisseau. Sinon vous pouvez mettre une zone de stockage temporaire à l'extérieur de votre vaisseau."
+	},
+	"AlertLowMood": {
+		"title": "Mauvaise humeur",
+		"description": "Un ou plusieurs membres de votre équipage sont de mauvaise humeur.\n\nOuvrez le panneau de moral dans le menu des personnages et évaluez les humeurs à rectifier."
+	},
+	"AlertBreach": {
+		"title": "Navire percé !",
+		"description": "Une ou plusieurs salles de votre vaisseau ont une brèche. L'atmosphère de ces salles va désormais s'échapper dans l'espace !\n\nColmatez la brèche avec une structure de vaisseau afin de limiter toute perte atmosphérique supplémentaire.\n\nL'absence d'atmosphère peut entraîner l'asphyxie de votre équipage et la mort de toute flore."
+	},
+	"AlertIdleCrew": {
+		"title": "Équipage inactif",
+		"description": "Tous les membres de votre équipage sont inactifs et n'ont rien à faire.\n\nOuvrez le menu Équipe pour attribuer des ordres de travail et des horaires.\n\nSi l'un des membres de l'équipage a reçu un ordre, il n'effectuera pas ses tâches quotidiennes habituelles."
+	},
+	"AlertUrgentMedicalTreatment": {
+		"title": "Soins médicaux urgents",
+		"description": "Un ou plusieurs membres de votre équipage ont besoin de soins médicaux urgents.\n\nAssurez-vous qu'ils soient soignés avec une trousse médicale dès que possible."
+	},
+	"AlertBlackAlert": {
+		"title": "Alerte noire activée",
+		"description": "Votre vaisseau est en état d'alerte noire. Cela signifie que votre équipage ne pourra pas quitter le vaisseau.\n\nVous pouvez désactiver l'alerte noire dans le menu des systèmes du vaisseau."
+	}
+}

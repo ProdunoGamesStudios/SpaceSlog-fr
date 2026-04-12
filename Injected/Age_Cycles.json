@@ -1,0 +1,11 @@
+﻿{
+	"Baby": {
+		"title": "Bébé"
+	},
+	"Juvenile": {
+		"title": "Jeune"
+	},
+	"Adult": {
+		"title": "Adulte"
+	}
+}

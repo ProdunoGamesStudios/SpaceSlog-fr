@@ -1,0 +1,14 @@
+﻿{
+	"Loner": {
+		"title": "Solitaire",
+		"description": "De nature plutôt solitaire, {pawn_name} préfère généralement la solitude aux interactions sociales, restant souvent à l'écart et évitant les grands groupes. Le ronronnement discret du moteur du navire lui est bien plus agréable que le brouhaha des autres membres d'équipage."
+	},
+	"EasyGoing": {
+		"title": "Facile à vivre",
+		"description": "{pawn_name} est une personne facile à vivre et généralement appréciée, ce qui lui permet de s'entendre facilement avec les autres. Si le choix lui était donné, {pawn_pronoun} préférerait sans doute la compagnie des autres plutôt que la solitude."
+	},
+	"PeoplePerson": {
+		"title": "Personne sociable",
+		"description": "{pawn_name} est extrêmement sociable et apprécie vraiment la compagnie des autres. Certains disent que c'est un leader naturel et l'âme de la fête, se faisant des amis partout."
+	}
+}

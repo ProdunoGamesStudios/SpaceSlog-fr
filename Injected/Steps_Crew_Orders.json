@@ -1,0 +1,18 @@
+﻿{
+	"CrewOrdersStep1": {
+		"title": "Ordres à l'équipage",
+		"description": "Nous devons donner plus de travail à l'équipage.\n\nPour ce faire, nous pouvons définir des affectations à l'aide des différentes commandes du menu [color=PURPLE]Ordres[/color].\n\nCommencez par ouvrir le menu [color=PURPLE]Ordres[/color] en cliquant sur le bouton [color=PURPLE]Ordres[/color] mis en évidence."
+	},
+	"CrewOrdersStep2": {
+		"description": "Les [color=KHAKI]débris de vaisseau[/color] peuvent être démantelés pour en récupérer les matières premières. Pour que votre équipage puisse se rendre sur place et démanteler des [color=KHAKI]débris de vaisseau[/color], vous devez les désigner pour démantèlement.\n\nPour ce faire, utilisez le bouton de commande [color=PURPLE]Démanteler[/color]."
+	},
+	"CrewOrdersStep3": {
+		"description": "À présent, [color=LIGHT_GREEN]cliquez et faites glisser[/color] en utilisant {select} sur les [color=KHAKI]débris de vaisseau[/color] pour les sélectionner en vue de leur démantèlement.\n\nSélectionnez au moins 2 [color=KHAKI]débris de vaisseau[/color] à démanteler.\n\nVous devrez peut-être effectuer un zoom arrière et déplacer la caméra pour en trouver."
+	},
+	"CrewOrdersStep4": {
+		"description": "Nous allons maintenant faire la même chose pour les [color=KHAKI]asteroÏdes[/color]. Vous en trouverez plusieurs types différents dans le Foutoir et vous pourrez les distinguer visuellement grâce à la couleur de leurs gisements de minerai. \n\nCette fois-ci, nous allons sélectionner le bouton de commande [color=PURPLE]Miner[/color] dans le menu [color=PURPLE]Ordres[/color]."
+	},
+	"CrewOrdersStep5": {
+		"description": "Les [color=KHAKI]astéroïdes[/color] devront également être sélectionnés pour l'exploitation minière.\n\nN'hésitez pas à [color=LIGHT_GREEN]cliquer et glisser[/color] avec {select} sur au moins 2 [color=KHAKI]astéroïdes[/color] : votre équipage commencera à les exploiter dès qu'ils seront disponibles."
+	}
+}

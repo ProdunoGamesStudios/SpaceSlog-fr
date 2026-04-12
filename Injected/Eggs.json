@@ -1,0 +1,14 @@
+﻿{
+	"FertilisedSpacewormEggs": {
+		"title": "Oeufs de vers de l'espace (fertilisés)",
+		"description": "Les œufs de ver de l'espace constituent désormais un aliment de base pour les humains : c'est dégoûtant, mais nutritif. Ils peuvent éclore si on les laisse assez longtemps."
+	},
+	"UnfertilisedChickenEggs": {
+		"title": "Oeufs de poule (non fertilisés)",
+		"description": "Les œufs de poule peuvent être consommés comme source de nutriments. Cet œuf n'est pas fécondé et ne donnera pas d'oisillon."
+	},
+	"FertilisedChickenEggs": {
+		"title": "Œufs de poule (fécondés)",
+		"description": "Les œufs de poule peuvent être consommés comme aliment nutritif. Cet œuf est fécondé et peut éclore s'il est laissé suffisamment longtemps."
+	}
+}

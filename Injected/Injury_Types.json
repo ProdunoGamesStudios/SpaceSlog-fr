@@ -1,0 +1,177 @@
+﻿{
+	"BrainDamage": {
+		"title": "Lésion cérébrale"
+	},
+	"Haemorrhage": {
+		"title": "Hémorragie",
+		"description": "Ce personnage perd du sang. Plus la perte de sang est importante, plus ce personnage mourra rapidement. Le sang se régénérera naturellement une fois l'hémorragie soignée.",
+		"stages": {
+			"Minor": {
+				"title": "Mineure"
+			},
+			"Moderate": {
+				"title": "Modérée"
+			},
+			"Major": {
+				"title": "Majeure"
+			},
+			"Severe": {
+				"title": "Sévère"
+			}
+		}
+	},
+	"Bruise": {
+		"title": "Ecchymose",
+		"description": "Une ecchymose causée par un traumatisme contondant.",
+		"stages": {
+			"Small": {
+				"title": "Petite"
+			},
+			"Large": {
+				"title": "Grande"
+			}
+		}
+	},
+	"Cut": {
+		"title": "Coupure",
+		"description": "Une blessure causée par un objet tranchant.",
+		"stages": {
+			"Superficial": {
+				"title": "Superficielle"
+			},
+			"Small": {
+				"title": "Petite"
+			},
+			"Large": {
+				"title": "Grande"
+			}
+		}
+	},
+	"Puncture": {
+		"title": "Perforation",
+		"description": "Une blessure causée par un objet pointu et aiguisé.",
+		"stages": {
+			"Small": {
+				"title": "Petite"
+			},
+			"Medium": {
+				"title": "Moyenne"
+			},
+			"Large": {
+				"title": "Grande"
+			}
+		}
+	},
+	"Gunshot": {
+		"title": "Blessure d'arme à feu",
+		"description": "Une blessure causée par une balle.",
+		"stages": {
+			"Small": {
+				"title": "Petite"
+			},
+			"Medium": {
+				"title": "Moyenne"
+			},
+			"Large": {
+				"title": "Grande"
+			}
+		}
+	},
+	"Bite": {
+		"title": "Morsure",
+		"description": "Une blessure par morsure.",
+		"stages": {
+			"Small": {
+				"title": "Petite"
+			},
+			"Medium": {
+				"title": "Moyenne"
+			},
+			"Large": {
+				"title": "Grande"
+			}
+		}
+	},
+	"Scratch": {
+		"title": "Égratignure",
+		"description": "Une blessure par griffure.",
+		"stages": {
+			"Superficial": {
+				"title": "Superficielle"
+			},
+			"Small": {
+				"title": "Petite"
+			},
+			"Large": {
+				"title": "Grande"
+			}
+		}
+	},
+	"Stab": {
+		"title": "Entaille",
+		"description": "Une blessure par couteau.",
+		"stages": {
+			"Small": {
+				"title": "Petite"
+			},
+			"Medium": {
+				"title": "Moyenne"
+			},
+			"Large": {
+				"title": "Grande"
+			}
+		}
+	},
+	"Gash": {
+		"title": "Déchirure",
+		"description": "Une blessure ouverte.",
+		"stages": {
+			"Superficial": {
+				"title": "Superficielle"
+			},
+			"Shallow": {
+				"title": "Peu profonde"
+			},
+			"Deep": {
+				"title": "Profonde"
+			}
+		}
+	},
+	"Burn": {
+		"title": "Brûlure",
+		"description": "Une blessure causée par la chaleur.",
+		"stages": {
+			"Small": {
+				"title": "Petite"
+			},
+			"Large": {
+				"title": "Grande"
+			}
+		}
+	},
+	"Fracture": {
+		"title": "Fracture",
+		"description": "Un os cassé.",
+		"stages": {
+			"Small": {
+				"title": "Petite"
+			}
+		}
+	},
+	"Severance": {
+		"title": "Rupture",
+		"description": "Cette partie du corps a été sectionnée."
+	},
+	"Crushed": {
+		"title": "Écrasement",
+		"description": "Cette partie du corps a été écrasée."
+	},
+	"Destroyed": {
+		"title": "Destruction",
+		"description": "Cette partie du corps a été détruite."
+	},
+	"Slaughter": {
+		"title": "Carnage",
+		"description": "Ceci a été tué."
+	}
+}

@@ -1,0 +1,56 @@
+﻿{
+	"FrontLeftWing": {
+		"title": "Aile avant gauche"
+	},
+	"FrontRightWing": {
+		"title": "Aile avant droite"
+	},
+	"FrontLeftPaw": {
+		"title": "Patte avant gauche"
+	},
+	"FrontRightPaw": {
+		"title": "Patte avant droite"
+	},
+	"RearLeftPaw": {
+		"title": "Patte arrière gauche"
+	},
+	"RearRightPaw": {
+		"title": "Patte arrière droite"
+	},
+	"Tail": {
+		"title": "Queue"
+	},
+	"FrontLeftClaws": {
+		"title": "Griffes avant gauche"
+	},
+	"FrontRightClaws": {
+		"title": "Griffes avant droites"
+	},
+	"RearLeftClaws": {
+		"title": "Griffes arrière gauches"
+	},
+	"RearRightClaws": {
+		"title": "Griffes arrière droites"
+	},
+	"FrontLeftLeg": {
+		"title": "Jambe avant gauche"
+	},
+	"MiddleLeftLeg": {
+		"title": "Jambe milieu gauche"
+	},
+	"RearLeftLeg": {
+		"title": "Jambe arrière gauche"
+	},
+	"FrontRightLeg": {
+		"title": "Jambe avant droite"
+	},
+	"MiddleRightLeg": {
+		"title": "Jambe milieu droite"
+	},
+	"RearRightLeg": {
+		"title": "Jambe arrière droite"
+	},
+	"Beak": {
+		"title": "Bec"
+	}
+}

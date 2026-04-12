@@ -1,0 +1,29 @@
+﻿{
+	"ForceShoot": {
+		"title": "Tir forcé"
+	},
+	"FollowAndMelee": {
+		"title": "Suivre en mêlée"
+	},
+	"FinishWithMeleeWeapon": {
+		"title": "Suivre en mêlée"
+	},
+	"FollowAndShoot": {
+		"title": "Suivre et tirer"
+	},
+	"Hunting": {
+		"title": "Chasser des créatures"
+	},
+	"EnemyRestrain": {
+		"title": "Retenir"
+	},
+	"Restrain": {
+		"title": "Retenir"
+	},
+	"FinishOffNoWeapon": {
+		"title": "Achever la créature"
+	},
+	"Slaughter": {
+		"title": "Abattre l'animal"
+	}
+}

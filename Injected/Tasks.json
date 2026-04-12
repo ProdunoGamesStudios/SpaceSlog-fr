@@ -1,0 +1,179 @@
+﻿{
+	"Idle": {
+		"title": "Sans activité"
+	},
+	"Pickup": {
+		"title": "Ramassage"
+	},
+	"PickupEntityB": {
+		"title": "Ramassage"
+	},
+	"DropIntoBed": {
+		"title": "Se mettre au lit"
+	},
+	"Drop": {
+		"title": "Larguer"
+	},
+	"DropAtTargetB": {
+		"title": "Larguer"
+	},
+	"ForceDrop": {
+		"title": "Larguer de force"
+	},
+	"Heal": {
+		"title": "Guérir"
+	},
+	"MoveTo": {
+		"title": "Déplacement"
+	},
+	"MoveToPathB": {
+		"title": "Déplacement"
+	},
+	"Wait": {
+		"title": "Attendre"
+	},
+	"EatFood": {
+		"title": "Manger"
+	},
+	"Drink": {
+		"title": "Boire"
+	},
+	"FindPathToTarget": {
+		"title": "Trouver un chemin vers la cible"
+	},
+	"FindPathToTargetB": {
+		"title": "Trouver un chemin vers la cible"
+	},
+	"FindPathToTargetBFalse": {
+		"title": "Trouver un chemin vers la cible"
+	},
+	"FindPathToTargetCell": {
+		"title": "Trouver un chemin vers la cellule cible"
+	},
+	"FindPathToTargetCellTrue": {
+		"title": "Trouver un chemin vers la cellule cible"
+	},
+	"FindBestStorageCell": {
+		"title": "Trouver la meilleure cellule de stockage"
+	},
+	"GetClosestFuel": {
+		"title": "Trouver un chemin vers le carburant le plus proche"
+	},
+	"GetDeadPawnDropSpot": {
+		"title": "Trouver un endroit pour déposer un agent mort"
+	},
+	"Refuel": {
+		"title": "Faire le plein"
+	},
+	"RefuelTargetB": {
+		"title": "Faire le plein"
+	},
+	"Clean": {
+		"title": "Nettoyer"
+	},
+	"Reserve": {
+		"title": "Réserver"
+	},
+	"ReserveEntityB": {
+		"title": "Réserver"
+	},
+	"ReserveCell": {
+		"title": "Réserver une cellule"
+	},
+	"Sleep": {
+		"title": "Dormir"
+	},
+	"RestUntilHealed": {
+		"title": "Se reposer jusqu'à la guérison"
+	},
+	"Equip": {
+		"title": "S'équiper"
+	},
+	"UnEquip": {
+		"title": "Enlever"
+	},
+	"Slip": {
+		"title": "Glisser"
+	},
+	"Trip": {
+		"title": "Voyager"
+	},
+	"Sing": {
+		"title": "Chanter"
+	},
+	"Wave": {
+		"title": "Flotter"
+	},
+	"Chat": {
+		"title": "Papoter"
+	},
+	"SowAtTargetB": {
+		"title": "Semer"
+	},
+	"HarvestPlant": {
+		"title": "Récolter"
+	},
+	"HarvestBrew": {
+		"title": "Récolter"
+	},
+	"Water": {
+		"title": "Arroser"
+	},
+	"ClosestMoveCellToPos": {
+		"title": "Déplacement forcé"
+	},
+	"Strip": {
+		"title": "Déshabiller"
+	},
+	"Mine": {
+		"title": "Miner"
+	},
+	"Deconstruct": {
+		"title": "Déconstruire"
+	},
+	"Repair": {
+		"title": "Réparation"
+	},
+	"Build": {
+		"title": "Construire"
+	},
+	"DestroyAsset": {
+		"title": "Détruire un bien"
+	},
+	"SitAtChair": {
+		"title": "Assis sur une chaise"
+	},
+	"PlayArcadeMachine": {
+		"title": "Jouer à une machine d'arcade"
+	},
+	"TendHeal": {
+		"title": "Guérir"
+	},
+	"TendFeed": {
+		"title": "Nourrir"
+	},
+	"TendHydrate": {
+		"title": "Arroser"
+	},
+	"FindPlaceToIngest": {
+		"title": "Trouver un endroit où ingérer"
+	},
+	"BackToShip": {
+		"title": "Cherche un moyen de retourner au vaisseau"
+	},
+	"Butcher": {
+		"title": "Dépecer"
+	},
+	"StampFire": {
+		"title": "Éteindre un feu"
+	},
+	"MateWithPartner": {
+		"title": "Accoupler avec un partenaire"
+	},
+	"FollowAndMoveTo": {
+		"title": "Suivre et se déplacer vers"
+	},
+	"InsertGetMaterials": {
+		"title": "Rassembler du matériel"
+	}
+}

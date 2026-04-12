@@ -1,0 +1,35 @@
+﻿{
+	"MainMenu": {
+		"title": "Dernière Chance pour l'Humanité"
+	},
+	"Track1": {
+		"title": "La Voie Andromède"
+	},
+	"Track2": {
+		"title": "Fusées Dansantes"
+	},
+	"Track3": {
+		"title": "Origines Sombres"
+	},
+	"Track4": {
+		"title": "À la Dérive"
+	},
+	"Track5": {
+		"title": "Exploration du Vide"
+	},
+	"Track6": {
+		"title": "Cinq Lunes"
+	},
+	"Track7": {
+		"title": "À une Année-Lumière d'ici"
+	},
+	"Track8": {
+		"title": "Ombre Lunaire"
+	},
+	"Track9": {
+		"title": "Matière Changeante"
+	},
+	"Track10": {
+		"title": "Soleil Mauve"
+	}
+}

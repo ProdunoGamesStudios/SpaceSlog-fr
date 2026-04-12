@@ -1,0 +1,42 @@
+﻿{
+	"Ducting": {
+		"title": "Conduit atmosphérique",
+		"description": "Conduit conçu pour diriger le mouvement de l'air vers/depuis d'autres composants atmosphériques, tels qu'un ventilateur et un système de survie."
+	},
+	"AirVent": {
+		"title": "Ventilateur d'air",
+		"description": "Envoie des gaz dans une pièce à partir d'une source d'air connectée. Doit être raccordé à une alimentation en air par l'intermédiaire d'une gaine."
+	},
+	"HeatVent": {
+		"title": "Ventilateur de radiateur",
+		"description": "Évacue une petite quantité de chaleur de toutes les pièces reliées par des conduits et des ventilateurs sous forme d'énergie infrarouge."
+	},
+	"LargeHeatVent": {
+		"title": "Grand ventilateur de radiateur",
+		"description": "Évacue une grande quantité de chaleur de toutes les pièces reliées par des conduits et des ventilateurs sous forme d'énergie infrarouge."
+	},
+	"TransferVent": {
+		"title": "Ventilateur de transfert",
+		"description": "Permet à l'air de circuler entre deux pièces adjacentes, égalisant ainsi les températures et les gaz. Doit être placé par dessus une structure de vaisseau."
+	},
+	"LifeSupport": {
+		"title": "Support de vie",
+		"description": "Fournit une petite quantité d'oxygène, tout en filtrant et nettoyant les gaz dangereux et le CO2 de l'air. Un ventilateur d'air doit y être connecté via un conduit pour pouvoir travailler."
+	},
+	"OxygenGenerator": {
+		"title": "Générateur d'oxygène",
+		"description": "Génère un peu d'oxygène. Un ventilateur d'air doit y être connecté via un conduit pour fonctionner."
+	},
+	"LargeOxygenGenerator": {
+		"title": "Grand générateur d'oxygène",
+		"description": "Génère beaucoup d'oxygène. Un ventilateur d'air doit y être connecté via un conduit pour fonctionner."
+	},
+	"GasScrubber": {
+		"title": "Épurateur de gaz",
+		"description": "Filtre et nettoie les gaz dangereux et le CO2 de l'atmosphère. Un ventilateur d'air doit y être connecté via un conduit pour fonctionner."
+	},
+	"OxygenTank": {
+		"title": "Réservoir d'oxygène",
+		"description": "Stocke une petite quantité d'oxygène depuis un fournisseur d'oxygène. Doit être connecté via un conduit pour fonctionner."
+	}
+}

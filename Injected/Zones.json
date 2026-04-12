@@ -1,0 +1,10 @@
+﻿{
+	"Stockpile": {
+		"title": "Stock",
+		"description": "Placez cela dans votre vaisseau pour stocker votre cargaison."
+	},
+	"TempStockpile": {
+		"title": "Stock temporaire",
+		"description": "Peut être placé à l'extérieur du vaisseau dans l'espace pour stocker temporairement du fret. Tout objet laissé dans les réserves à l'extérieur du vaisseau sera abandonné lorsque vous quitterez la zone. Ne peut être placé qu'à l'arrêt."
+	}
+}

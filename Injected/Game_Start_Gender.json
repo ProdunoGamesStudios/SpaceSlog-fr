@@ -1,0 +1,8 @@
+﻿{
+	"Male": {
+		"description": "Votre capitaine est un homme."
+	},
+	"Female": {
+		"description": "Votre capitaine est une femme."
+	}
+}

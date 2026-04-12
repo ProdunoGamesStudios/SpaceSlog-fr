@@ -1,0 +1,62 @@
+﻿{
+	"Torso": {
+		"title": "Torse"
+	},
+	"Stomach": {
+		"title": "Estomac"
+	},
+	"Intestines": {
+		"title": "Intestins"
+	},
+	"LeftEar": {
+		"title": "Oreille gauche"
+	},
+	"RightEar": {
+		"title": "Oreille droite"
+	},
+	"Skull": {
+		"title": "Crâne"
+	},
+	"LeftLung": {
+		"title": "Poumon gauche"
+	},
+	"RightLung": {
+		"title": "Poumon droit"
+	},
+	"Ribs": {
+		"title": "Côtes"
+	},
+	"Heart": {
+		"title": "Coeur"
+	},
+	"Liver": {
+		"title": "Foie"
+	},
+	"Teeth": {
+		"title": "Dent"
+	},
+	"LeftKidney": {
+		"title": "Rein gauche"
+	},
+	"RightKidney": {
+		"title": "Rein droit"
+	},
+	"Head": {
+		"title": "Tête"
+	},
+	"Brain": {
+		"title": "Cerveau"
+	},
+	"LeftLeg": {
+		"title": "Jambe gauche"
+	},
+	"RightLeg": {
+		"title": "Jambe droite"
+	},
+	"LeftEye": {
+		"title": "Oeil gauche"
+	},
+	"RightEye": {
+		"title": "Oeil droit"
+	}
+}

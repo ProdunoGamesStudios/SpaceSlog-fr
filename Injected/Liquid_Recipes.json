@@ -1,0 +1,22 @@
+﻿{
+	"Water": {
+		"title": "Eau",
+		"description": "Faire fondre la glace pour avoir de l'eau."
+	},
+	"Wine": {
+		"title": "Vin",
+		"description": "Faire fermenter de l'eau et des baies ensemble pour créer du vin."
+	},
+	"VegetableBroth": {
+		"title": "Bouillon de légumes",
+		"description": "Préparer un savoureux bouillon d'herbes et de légumes."
+	},
+	"BasicMeatBroth": {
+		"title": "Bouillon de viande fade",
+		"description": "Préparer un bouillon de viande fade."
+	},
+	"BoneBroth": {
+		"title": "Bouillon d'os",
+		"description": "Préparer un bouillon d'os nutritif."
+	}
+}

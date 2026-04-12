@@ -1,0 +1,26 @@
+﻿{
+	"QualityMeal": {
+		"title": "Repas de qualité"
+	},
+	"BasicMeal": {
+		"title": "Repas ordinaire"
+	},
+	"Cooked": {
+		"title": "Plats cuisinés"
+	},
+	"Raw": {
+		"title": "Alimentation crue"
+	},
+	"AnimalFeed": {
+		"title": "Aliments pour animaux"
+	},
+	"Cannibal": {
+		"title": "Cannibale"
+	},
+	"Alcoholic": {
+		"title": "Alcoolique"
+	},
+	"Nothing": {
+		"title": "Rien"
+	}
+}

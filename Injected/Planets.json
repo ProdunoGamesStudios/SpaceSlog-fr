@@ -1,0 +1,38 @@
+﻿{
+	"Gaseous": {
+		"title": "Géante gazeuse",
+		"description": "Une planète composée principalement de gaz avec un noyau rocheux en fusion. Ces planètes sont inhospitalières pour la plupart des formes de vie et n'ont pas de surface sur laquelle atterrir."
+	},
+	"Desert": {
+		"title": "Planète désertique",
+		"description": "Une planète très sèche et sablonneuse, dont l'atmosphère peut être extrêmement inhospitalière ou relativement clémente. La plupart des planètes de type désertique ont peu ou pas de végétation, mais peuvent tout de même abriter la vie."
+	},
+	"Water": {
+		"title": "Planète d'eau",
+		"description": "Cette planète est principalement composée d'eau. Ces planètes peuvent parfois comporter de petites masses terrestres ou des îles sur lesquelles il est possible d'atterrir en toute sécurité. Cependant, en raison de leur composition chimique variable, la plupart des eaux présentes sur ces mondes ne sont pas potables."
+	},
+	"Magma": {
+		"title": "Planète magmatique",
+		"description": "Une planète recouverte de roche en fusion et de lave. Extrêmement chaude et inhospitalière pour la plupart des formes de vie. Un équipement spécial est généralement nécessaire pour s'y rendre."
+	},
+	"YellowDwarf": {
+		"title": "Naine jaune",
+		"description": "Une petite étoile chaude et stable qui émet beaucoup de lumière malgré sa taille modeste."
+	},
+	"WhiteDwarf": {
+		"title": "Naine blanche",
+		"description": "Une étoile très petite mais dense qui a épuisé la majeure partie de son combustible nucléaire. Ces étoiles sont initialement très chaudes, puis se refroidissent progressivement."
+	},
+	"RedDwarf": {
+		"title": "Naine rouge",
+		"description": "Une petite étoile froide et très stable. Ces propriétés font d'elles les étoiles les plus nombreuses statistiquement dans le Foutoir."
+	},
+	"RedGiant": {
+		"title": "Géante rouge",
+		"description": "Une étoile géante, relativement froide, de faible masse, qui émet beaucoup de lumière. Le lieu de naissance le plus courant des nébuleuses planétaires. "
+	},
+	"BlueGiant": {
+		"title": "Géante bleue",
+		"description": "Une étoile géante, éphémère et extrêmement chaude. Les géantes bleues émettent d'énormes quantités de chaleur et de rayonnement, ce qui les rend très dangereuses à approcher. Cependant, des ressources extrêmement rares et précieuses peuvent parfois être trouvées en orbite autour de ces étoiles."
+	}
+}

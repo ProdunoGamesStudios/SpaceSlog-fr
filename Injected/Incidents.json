@@ -1,0 +1,55 @@
+﻿{
+	"PassingShip": {
+		"title": "Vaisseau de passage",
+		"description": "Nos scanners ont détecté un vaisseau à proximité. Il devrait bientôt être à portée de communication."
+	},
+	"PassingShipPhysical": {
+		"title": "Passage physique d'un vaisseau",
+		"description": "Nos scanners ont détecté un vaisseau à proximité. Il devrait bientôt être à portée de communication."
+	},
+	"Asteroids": {
+		"title": "Champ d'astéroïdes",
+		"description": "Nous passons au-dessus d'un champ d'astéroïdes. Il va falloir quitter la haute combustion pour y accéder, mais nous devrons faire attention aux parasites et aux infections."
+	},
+	"Debris": {
+		"title": "Débris",
+		"description": "Nous détectons des débris à proximité, quitter la haute combustion pour fouiller l'épave afin de trouver des provisions ou voir s'il y a des survivants. Nous devons nous méfier des pirates dans la région."
+	},
+	"CryoChamber": {
+		"title": "Capsule cryogénique",
+		"description": "Il semble y avoir une chambre cryogénique flottant à proximité. Nous pourrions voir si quelqu'un se trouve à l'intérieur."
+	},
+	"HostileCreatureAssault": {
+		"title": "Assaut"
+	},
+	"PassingShipRescue": {
+		"title": "Sauvetage par un vaisseau de passage",
+		"description": "Nos scanners ont détecté un vaisseau à proximité. Il devrait bientôt être à portée de communication."
+	},
+	"PassingPlanet": {
+		"title": "Planète à proximité",
+		"description": "Une planète a été détectée à proximité."
+	},
+	"PassingStar": {
+		"title": "Étoile à proximité",
+		"description": "Une étoile a été détectée à proximité."
+	},
+	"Infestation": {
+		"title": "Invasion"
+	},
+	"MayDayPawn": {
+		"title": "SOS",
+		"description": "Vous êtes maintenant trop loin pour vous arrêter et sauver {pawn}."
+	},
+	"AbandonedFacility": {
+		"title": "Installation abandonnée",
+		"description": "Une installation a été détectée dans ce secteur. Nous devrions sortir de la vitesse de combustion élevée pour enquêter."
+	},
+	"HostileSwarm": {
+		"title": "Essaim hostile",
+		"description": "L'essaim hostile de {pawns} a maintenant pénétré dans ce secteur."
+	},
+	"TransportShipAssault": {
+		"title": "Assaut"
+	}
+}

@@ -1,0 +1,32 @@
+﻿{
+	"RedDye": {
+		"title": "Colorant rouge"
+	},
+	"CharcoalDye": {
+		"title": "Colorant charbon de bois"
+	},
+	"GreenDye": {
+		"title": "Colorant vert"
+	},
+	"BlueDye": {
+		"title": "Colorant bleu"
+	},
+	"LightBlueDye": {
+		"title": "Colorant bleu ciel"
+	},
+	"PurpleDye": {
+		"title": "Colorant pourpre"
+	},
+	"TanDye": {
+		"title": "Colorant brun"
+	},
+	"DarkTanDye": {
+		"title": "Colorant brun foncé"
+	},
+	"OrangeDye": {
+		"title": "Colorant orange"
+	},
+	"YellowDye": {
+		"title": "Colorant jaune"
+	}
+}

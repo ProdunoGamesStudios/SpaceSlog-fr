@@ -1,0 +1,62 @@
+﻿{
+	"FireControl": {
+		"title": "Pompier",
+		"description": "Essaie de combattre tous les incendies."
+	},
+	"Patient": {
+		"title": "Patient",
+		"description": "Utilise les lits pour se soigner quand malade ou blessé afin de retrouver la santé."
+	},
+	"Medical": {
+		"title": "Médecin",
+		"description": "Secourt, soigne et guérit les malades ou les blessés."
+	},
+	"Cook": {
+		"title": "Cuisinier",
+		"description": "Effectue toutes les activités de cuisson et de brassage."
+	},
+	"Botany": {
+		"title": "Botaniste",
+		"description": "S'occupe de toutes les plantes, ce qui inclut de planter des graines et récolter les cultures."
+	},
+	"Engineering": {
+		"title": "Ingénieur",
+		"description": "Effectue la maintenance et construit ou déconstruit tout ce qui est nécessaire."
+	},
+	"Janitor": {
+		"title": "Concierge",
+		"description": "Nettoie les sols et effectue de nombreuses tâches de base."
+	},
+	"Security": {
+		"title": "Gardien",
+		"description": "Surveille et gére les prisonniers."
+	},
+	"Science": {
+		"title": "Scientifique",
+		"description": "Effectue des travaux de recherche, de développement et d'autres activités scientifiques."
+	},
+	"AnimalHandler": {
+		"title": "Soigneur d'animaux",
+		"description": "Entraîne et soigne quotidiennement tous les animaux."
+	},
+	"Tailor": {
+		"title": "Couturier",
+		"description": "Crée des vêtements."
+	},
+	"Machining": {
+		"title": "Mécanicien",
+		"description": "Crée divers équipements et pièces de vaisseau."
+	},
+	"Labourer": {
+		"title": "Travailleur manuel",
+		"description": "Transporte les morts, l'équipement et les ressources où demandé. Remplit les machines indiquées."
+	},
+	"Mining": {
+		"title": "Mineur",
+		"description": "Réalise des tâches d'extraction."
+	},
+	"Hunting": {
+		"title": "Chasseur",
+		"description": "Chassera toutes les créatures indiquées comme gibier."
+	}
+}

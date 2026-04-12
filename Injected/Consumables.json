@@ -1,0 +1,78 @@
+﻿{
+	"RawMeat": {
+		"title": "Viande crue",
+		"description": "De la viande crue. Elle est meilleure une fois cuite."
+	},
+	"CookedMeat": {
+		"title": "Viande cuite",
+		"description": "De la viande cuite. Ça fait un bon repas."
+	},
+	"Berries": {
+		"title": "Baies",
+		"description": "Baies sauvages, probablement très toxiques."
+	},
+	"Fungus": {
+		"title": "Champignon",
+		"description": "Champignon sauvage. Peut être toxique."
+	},
+	"Rice": {
+		"title": "Riz",
+		"description": "Du riz, cultivé à partir de graines."
+	},
+	"Potato": {
+		"title": "Pomme de terre",
+		"description": "Pomme de terre, cultivée à partir de graines."
+	},
+	"Wheat": {
+		"title": "Blé",
+		"description": "Une culture de base, indispensable à la production alimentaire. Relativement facile à cultiver et à récolter."
+	},
+	"Herbs": {
+		"title": "Herbes",
+		"description": "Peuvent être cultivées et utilisées pour élaborer divers produits comestibles."
+	},
+	"Hops": {
+		"title": "Houblon",
+		"description": "Un ingrédient essentiel pour brasser de la bière."
+	},
+	"RootVegetables": {
+		"title": "Légumes-racines",
+		"description": "Peuvent être cultivés et utilisés pour préparer divers bouillons."
+	},
+	"PackagedMeals": {
+		"title": "Plat préparé",
+		"description": "Un repas nutritif tout prêt."
+	},
+	"Bread": {
+		"title": "Pain",
+		"description": "Un aliment de base à base de blé."
+	},
+	"Bone": {
+		"title": "Os",
+		"description": "Os provenant de restes de squelettes. Peuvent servir à préparer des bouillons."
+	},
+	"VegetableBroth": {
+		"title": "Bouillon de légumes",
+		"description": "Un bouillon savoureux à base d'herbes et de légumes."
+	},
+	"BasicMeatBroth": {
+		"title": "Bouillon de viande nature",
+		"description": "Un bouillon de viande fade."
+	},
+	"BoneBroth": {
+		"title": "Bouillon d'os",
+		"description": "Un bouillon d'os nourrissant."
+	},
+	"Water": {
+		"title": "Eau",
+		"description": "De l'eau filtrée ordinaire."
+	},
+	"Ale": {
+		"title": "Bière",
+		"description": "Une boisson alcoolisée populaire mais de fabrication rudimentaire."
+	},
+	"Wine": {
+		"title": "Vin de baies",
+		"description": "Une boisson alcoolisée raffinée et fruitée."
+	}
+}

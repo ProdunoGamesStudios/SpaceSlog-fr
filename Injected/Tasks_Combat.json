@@ -1,0 +1,32 @@
+﻿{
+	"ReserveCombatTarget": {
+		"title": "Enregistrer une cible à combattre"
+	},
+	"FollowAndMelee": {
+		"title": "Suivre en mêlée"
+	},
+	"FinishWithMeleeWeapon": {
+		"title": "Terminer la mêlée"
+	},
+	"FinishOffNoWeapon": {
+		"title": "En finir"
+	},
+	"FollowAndShoot": {
+		"title": "Suivre et tirer"
+	},
+	"Shoot": {
+		"title": "Tirer"
+	},
+	"MeleeBuilding": {
+		"title": "Création de mêlée"
+	},
+	"Melee": {
+		"title": "Mêlée"
+	},
+	"SecureAsPrisoner": {
+		"title": "Retenir"
+	},
+	"Slaughter": {
+		"title": "Abattre"
+	}
+}

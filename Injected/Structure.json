@@ -1,0 +1,26 @@
+﻿{
+	"MetalHull": {
+		"title": "Structure de vaisseau",
+		"description": "Une coque structurelle de base nécessaire pour permettre la pose du pont intérieur. Placez-la en premier, puis ajoutez le pont supérieur pour créer des pièces."
+	},
+	"MetalFloor": {
+		"title": "Revêtement de pont",
+		"description": "Revêtement intérieur utilisé pour créer des pièces à l'intérieur de votre vaisseau. Doit être placé au-dessus d'une structure du vaisseau."
+	},
+	"BlastDoor": {
+		"title": "Porte de sas",
+		"description": "Une porte automatique motorisée et étanche à l'air qui peut être utilisée sans alimentation électrique, mais dont le fonctionnement sera plus lent. Elle ne laissera pas s'échapper l'atmosphère vers l'espace extérieur."
+	},
+	"ArmouredBlastDoor": {
+		"title": "Porte blindée pour sas",
+		"description": "Une porte automatique motorisée et renforcée, étanche à l'air, qui peut être utilisée sans alimentation électrique, mais dont le fonctionnement sera plus lent. Elle ne laissera pas s'échapper l'atmosphère vers l'espace extérieur."
+	},
+	"MetalHullCorner": {
+		"title": "Paroi blindée de coque",
+		"description": "Coque blindée utilisée à l'extérieur des navires. Elle utilise une structure poreuse pour gagner en légèreté, ce qui l'empêche de retenir l'atmosphère."
+	},
+	"MetalHullAngle": {
+		"title": "Paroi blindée de coque",
+		"description": "Coque blindée utilisée à l'extérieur des navires. Elle utilise une structure poreuse pour gagner en légèreté, ce qui l'empêche de retenir l'atmosphère."
+	}
+}

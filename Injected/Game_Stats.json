@@ -1,0 +1,18 @@
+﻿{
+	"Wealth": {
+		"title": "Richesse totale",
+		"description": "Votre richesse totale cumulée."
+	},
+	"DistanceTravelled": {
+		"title": "Distance parcourue",
+		"description": "Nombre de miles à travers lesquels vous avez voyagé dans le slog."
+	},
+	"TravelPoints": {
+		"title": "Points de voyage",
+		"description": "Le nombre de points de voyage dont vous disposez. Il est calculé à partir de la distance totale parcourue."
+	},
+	"DaysPassed": {
+		"title": "Jours passés",
+		"description": "Le nombre total de jours écoulés depuis le début du jeu."
+	}
+}

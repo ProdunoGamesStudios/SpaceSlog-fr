@@ -1,0 +1,14 @@
+﻿{
+	"Custom": {
+		"title": "Sur mesure",
+		"description": "Un rôle créé sur mesure."
+	},
+	"Captain": {
+		"title": "Capitaine",
+		"description": "Choisir un bon capitaine contribuera à garantir que votre équipage soit heureux, discipliné et moins enclin à se mutiner."
+	},
+	"Quartermaster": {
+		"title": "Quartier-maître",
+		"description": "Un quartier-maître est plus susceptible d'initier des échanges commerciaux ou diplomatiques."
+	}
+}

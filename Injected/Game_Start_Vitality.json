@@ -1,0 +1,14 @@
+﻿{
+	"YoungAge": {
+		"title": "Jeune",
+		"description": "Votre capitaine est jeune, avec beaucoup d'entrain, et possède sans doute encore une certaine naïveté. Encore un peu novice, les événements pourraient parfois dépasser ses capacités."
+	},
+	"MiddleAge": {
+		"title": "D'âge mûr",
+		"description": "Votre capitaine est d'âge mûr. {pawn_pronoun} a de l'expérience et une compétence certaine, ayant passé suffisamment de temps aux commandes pour gérer la plupart des situations."
+	},
+	"OldAge": {
+		"title": "Àgé.",
+		"description": "Votre capitaine a un âge avancé , mais en a la sagesse. Cependant, qui dit âge dit inévitablement courbatures, et {pawn_name} en souffre autant que n'importe qui d'autre. Il faut toutefois lui rendre hommage d'avoir vécu jusqu'à cet âge en ces temps si difficiles."
+	}
+}

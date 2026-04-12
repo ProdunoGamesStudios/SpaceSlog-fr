@@ -1,0 +1,6 @@
+﻿{
+	"ArcadeMachine": {
+		"title": "Machine d'arcade",
+		"description": "Une machine de jeu basique qui peut être utilisée par les agents pour réduire leur stress."
+	}
+}

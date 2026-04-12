@@ -1,0 +1,38 @@
+﻿{
+	"MiningSpeed": {
+		"title": "Vitesse de minage",
+		"description": "La vitesse à laquelle cette créature peut frapper lors de l'extraction."
+	},
+	"SowingSpeed": {
+		"title": "Vitesse de semis",
+		"description": "La vitesse avec laquelle cette créature peut semer."
+	},
+	"BuildingSpeed": {
+		"title": "Vitesse de construction",
+		"description": "Vitesse à laquelle cette créature peut construire, réparer ou démolir des choses."
+	},
+	"HealingSpeed": {
+		"title": "Vitesse de guérison",
+		"description": "La vitesse à laquelle cette créature peut guérir lorsqu'elle est soignée."
+	},
+	"Trading": {
+		"title": "Commerce",
+		"description": "Dans quelle mesure cette créature est capable de négocier avec les autres pour obtenir un meilleur accord."
+	},
+	"MeleeSpeed": {
+		"title": "Vitesse en mêlée",
+		"description": "La vitesse à laquelle cette créature peut frapper lorsqu'elle utilise une arme de mêlée."
+	},
+	"RangedSpeed": {
+		"title": "Vitesse d'arme à distance",
+		"description": "La rapidité avec laquelle cette créature peut frapper lorsqu'elle utilise une arme à distance."
+	},
+	"RangedAccuracy": {
+		"title": "Précision à distance",
+		"description": "Précision de cette créature lorsqu'elle tire des projectiles."
+	},
+	"MeleeAccuracy": {
+		"title": "Précision en mêlée",
+		"description": "Précision de cette créature lorsqu'elle utilise une arme de mêlée."
+	}
+}

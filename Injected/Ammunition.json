@@ -1,0 +1,18 @@
+﻿{
+	"Torpedoes": {
+		"title": "Torpilles",
+		"description": "Utilisées avec l'armement des vaisseaux. Peuvent être dévastatrices si elles sont tirées sur d'autres vaisseaux spatiaux."
+	},
+	"RailGunSmallSlugs": {
+		"title": "Petits projectiles de canon électromagnétique",
+		"description": "Une munition relativement légère."
+	},
+	"RailGunLargeSlugs": {
+		"title": "Grands projectiles de canon électromagnétique",
+		"description": "Munitions lourdes qui peuvent causer d'importants dégâts à des cibles lointaines."
+	},
+	"SmallCalibreRounds": {
+		"title": "Munitions de petit calibre",
+		"description": "Petites rustines fabriquées en carbone pour se protéger contre les brèches accidentelles."
+	}
+}

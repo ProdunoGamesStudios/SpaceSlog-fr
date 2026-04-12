@@ -1,0 +1,35 @@
+﻿{
+	"Incapacitated": {
+		"title": "Ce personnage est incapable de bouger, probablement à cause d'une blessure."
+	},
+	"Death": {
+		"title": "Ce personnage est mort."
+	},
+	"Collapsed": {
+		"title": "Ce personnage s'est effondré suite à une perte de conscience."
+	},
+	"Idle": {
+		"title": "Ce personnage n'a rien à faire."
+	},
+	"Injured": {
+		"title": "Ce personnage a une blessure ou une lésion."
+	},
+	"Ill": {
+		"title": "Ce personnage souffre d'une maladie."
+	},
+	"Bleeding": {
+		"title": "Ce personnage saigne d'une ou plusieurs blessures."
+	},
+	"BleedingWound": {
+		"title": "Cette blessure saigne. Elle finira peut-être par s'arrêter d'elle-même, mais vous pourrez l'arrêter immédiatement en la soignant dès maintenant."
+	},
+	"Away": {
+		"title": "Ce personnage est parti du vaisseau."
+	},
+	"MentalBreak": {
+		"title": "Ce personnage traverse actuellement une crise psychologique."
+	},
+	"Tended": {
+		"title": "Tout ou partie de ces blessures ont été soignées et sont en train de guérir."
+	}
+}

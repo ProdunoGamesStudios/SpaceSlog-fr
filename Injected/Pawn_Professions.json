@@ -1,0 +1,98 @@
+﻿{
+	"Engineer" : {
+		"title": "Ingénieur",
+		"description": "{pawn_name} n'avait pas particulièrement envie d'être ingénieur, mais l'occasion de bien gagner sa vie s'est présentée et {pawn_pronoun} l'a saisie."
+	},
+	"Doctor" : {
+		"title": "Docteur",
+		"description": "{pawn_name} a passé plusieurs années à l'école de médecine puis a servi sur un vaisseau de colons pendant un certain temps. Maintenant cet agent offre ses services à ceux qui en ont besoin."
+	},
+	"Marine" : {
+		"title": "Marine",
+		"description": "{pawn_name} a su très tôt qu'{pawn_pronoun} voulait servir dans les forces armées. Le fait de pouvoir voir des parties de l'univers que d'autres n'ont pas vues en est probablement l'un des plus grands attraits."
+	},
+	"Labourer" : {
+		"title": "Manœuvre",
+		"description": "Grandir sur une planète pauvre est difficile et l'éducation y est limitée. {pawn_name} a eu de la chance et a réussi à se bâtir une carrière dans le travail manuel. Ce n'est pas une vie très glamour mais au moins c'est une vie."
+	},
+	"Pilot" : {
+		"title": "Pilote",
+		"description": "Rejoindre l'école de pilotage est tout ce que {pawn_name} voulait faire. Qui aurait cru qu'{pawn_pronoun} aurait finalement les talents nécessaires pour ça ?"
+	},
+	"Miner" : {
+		"title": "Mineur",
+		"description": "L'exploitation minière dans l'espace lointain est extrêmement dangereuse et {pawn_name} a eu sa part de danger dans le passé."
+	},
+	"AnimalHandler" : {
+		"title": "Préposé aux animaux",
+		"description": "{pawn_name} a grandi sur un vaisseau de colons qui avait une surabondance d'animaux. Alors que d'autres préféraient essayer de les tuer en tant que nuisibles, {pawn_pronoun} les sauvait et les soignait s'ils étaient malades ou blessés. Parfois même, {pawn_pronoun} leur apprenait des techniques ou des tours."
+	},
+	"Scientist" : {
+		"title": "Scientifique",
+		"description": "On a plus que jamais besoin de scientifiques, {pawn_name} a su tirer parti de ce besoin et en faire une carrière très rentable."
+	},
+	"Grower" : {
+		"title": "Agriculture",
+		"description": "Passer beaucoup de temps avec les plantes et tout ce qui est organique est la passion de {pawn_name} depuis son plus jeune âge."
+	},
+	"Retired" : {
+		"title": "En retraite",
+		"description": "{pawn_name} a gagné à la loterie de la vie et a réussi à vieillir, {pawn_pronoun} vit maintenant une retraite bien méritée."
+	},
+	"Student" : {
+		"title": "Étudiant",
+		"description": "{pawn_name} étudie toujours dans l'espoir de s'améliorer, bien que personne ne sache vraiment pourquoi, et il est probable qu'{pawn_pronoun} n'en sache rien non plus."
+	},
+	"Professor" : {
+		"title": "Professeur",
+		"description": "En consacrant beaucoup de temps à s'éduquer et à s'améliorer, {pawn_name} a obtenu le titre de professeur."
+	},
+	"Merchant" : {
+		"title": "Marchand",
+		"description": "{pawn_name} prend la suite d'une longue lignée de commerçants après avoir décidé de poursuivre sur les traces de ses ancêtres."
+	},
+	"Pirate" : {
+		"title": "Pirate",
+		"description": "{pawn_name} vit une vie de pirate, récupérant tout ce qu'{pawn_pronoun} peut, gagnant tout ce qu'{pawn_pronoun} peut partout où {pawn_pronoun} le peut."
+	},
+	"Slave" : {
+		"title": "Esclave",
+		"description": "{pawn_name} a vécu une vie de pauvreté, devant faire des choses horribles après une vente au plus offrant. Il n'y a pas de mots pour décrire tout ce qu'{pawn_pronoun} a dû endurer."
+	},
+	"Slaver" : {
+		"title": "Esclavagiste",
+		"description": "{pawn_name} parcourt généralement le slog à la recherche de pauvres gens à asservir et à vendre, ou s'empare simplement de ceux qui ont la malchance de se trouver au mauvais endroit au mauvais moment."
+	},
+	"BountyHunter" : {
+		"title": "Chasseur de primes",
+		"description": "{pawn_name} vit la vie d'un assassin et chassera n'importe quoi ou n'importe qui pour un bon prix. Ce n'est pas un travail pour tout le monde, mais il paie bien."
+	},
+	"OffworldDetective" : {
+		"title": "Détective",
+		"description": "{pawn_name} a grandi sur les vaisseaux de la colonie après avoir perdu ses parents très tôt. Essayer de survivre sans être adulte signifiait avoir beaucoup d'ennuis. C'est ce qui lui a fait comprendre qu'il valait mieux « être la botte que recevoir la botte »."
+	},
+	"PlanetDrifter" : {
+		"title": "Vadrouilleur de planètes",
+		"description": "Être vadrouilleur de planètes est moins un travail qu'un mode de vie. {pawn_name} se déplace de planète en planète, prenant n'importe quel travail qu'{pawn_pronoun} peut trouver. Parfois {pawn_pronoun} monte dans un vaisseau sans même savoir quelle destination se trouve au bout du voyage."
+	},
+	"Spacefarer" : {
+		"title": "Voyageur de l'espace",
+		"description": "{pawn_name} parcourt le slog. Bien qu'il s'agisse davantage d'un passe-temps que d'un travail, {pawn_name} vous ferait probablement croire le contraire."
+	},
+	"Planetologist" : {
+		"title": "Planétologue",
+		"description": "{pawn_name} étudie les écosystèmes des planètes. Enfant, {pawn_pronoun} rêvait de toutes les masses rocheuses étranges et merveilleuses qui peuvent exister. Maintenant, {pawn_pronoun} les voit de ses propres yeux."
+	},
+	"Consor" : {
+		"title": "Partenaire",
+		"description": "En tant que partenaire, {pawn_name} a été formé dès son plus jeune âge à l'art du partenariat, c'est-à-dire à l'art de divertir ou de s'occuper d'autrui, intimement ou psychologiquement. La plupart des partenaires ont également reçu une formation de base en matière d'autodéfense."
+	},
+	"Prisoner" : {
+		"title": "Prisonnier",
+		"description": "En prison pour un crime qu'{pawn_pronoun} proclame n'avoir pas commis, mais c'est ce que disent tous les prisonniers."
+	},
+	"Chef" : {
+		"title": "Chef cuisinier",
+		"description": "{pawn_name} a toujours eu une passion pour la cuisine et la combinaison de saveurs différentes, sans cesse à la recherche du plat parfait."
+	}
+}

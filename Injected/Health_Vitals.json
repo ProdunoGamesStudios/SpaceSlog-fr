@@ -1,0 +1,18 @@
+﻿{
+	"Consciousness": {
+		"title": "Conscience",
+		"description": "Mesure du niveau d'éveil et de réactivité de ce personnage. Si cette valeur est trop faible, le personnage s'effondrera, tombera dans le coma ou mourra."
+	},
+	"Blood": {
+		"title": "Sang",
+		"description": "Représentation de la quantité de sang dans le corps de ce personnage. Une perte de sang trop importante entraînera la mort."
+	},
+	"Pain": {
+		"title": "Douleur",
+		"description": "Mesure de l'intensité de la douleur ressentie par ce personnage. Une douleur trop intense peut provoquer l'effondrement de ce personnage."
+	},
+	"Mobility": {
+		"title": "Mobilité",
+		"description": "Montre la mobilité actuelle du personnage, représentant sa capacité à se déplacer et à effectuer des actions physiques."
+	}
+}

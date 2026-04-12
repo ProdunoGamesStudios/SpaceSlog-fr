@@ -1,0 +1,20 @@
+﻿{
+	"Miniscule": {
+		"title": "Minuscule."
+	},
+	"Tiny": {
+		"title": "Tout petit."
+	},
+	"Small": {
+		"title": "Petit."
+	},
+	"Medium": {
+		"title": "Moyen."
+	},
+	"Large": {
+		"title": "Grand."
+	},
+	"Massive": {
+		"title": "Très grand."
+	}
+}

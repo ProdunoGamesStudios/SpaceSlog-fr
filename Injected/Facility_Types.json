@@ -1,0 +1,14 @@
+﻿{
+	"PlayerShip": {
+		"title": "Vaisseau du joueur"
+	},
+	"TradeShip": {
+		"title": "Vaisseau de commerce"
+	},
+	"PirateShip": {
+		"title": "Vaisseau pirate"
+	},
+	"SlaveShip": {
+		"title": "Vaisseau esclave"
+	}
+}

@@ -1,0 +1,50 @@
+﻿{
+	"Farming": {
+		"title": "Fermier",
+		"description": "Une grande partie des terres et de la population de la faction {faction_name} est investie dans l'agriculture."
+	},
+	"Mining": {
+		"title": "Exploitant",
+		"description": "Avec une abondance de minéraux ou de métaux rares, la faction {faction_name} consacre des ressources considérables à l'extraction et à la transformation."
+	},
+	"Capitalist": {
+		"title": "Capitaliste",
+		"description": "Tout appartient à quelqu'un, et s'il y a une demande pour quelque chose, il y a de l'argent à gagner."
+	},
+	"Unassimilable": {
+		"title": "Patriote",
+		"description": "Extrêmement patriote envers la cause. Incapable de se laisser prendre ou absorber."
+	},
+	"Explorer": {
+		"title": "Explorateur",
+		"description": "Une curiosité innée et un sens de l'aventure sans limite se trouvent facilement parmi la population de la faction {faction_name}."
+	},
+	"Rebellious": {
+		"title": "Rebelle",
+		"description": "Les règles sont faites pour être transgressées, et ici les règles sont bien transgressées !"
+	},
+	"Psychotic": {
+		"title": "Psychotique",
+		"description": "Comment peut-on savoir ce qui est réel et ce qui est dans votre tête ? Ceux de la faction {faction_name} ne peuvent certainement pas vous le dire."
+	},
+	"Obtruder": {
+		"title": "Prosélyte",
+		"description": "Essaie continuellement de forcer ou d'imposer ses propres idées aux autres."
+	},
+	"Defiant": {
+		"title": "Déterminé",
+		"description": "N'est pas disposé à négocier dans les échanges ou à céder à des pots-de-vin."
+	},
+	"Militar": {
+		"title": "Militaire",
+		"description": "Il est communément admis ici que le seul moyen d'assurer la survie dans un univers hostile est de disposer d'une armée disciplinée."
+	},
+	"Mechanical": {
+		"title": "Mécanique",
+		"description": "La faction {faction_name} compte parmi ses membres certains des meilleurs ingénieurs du slog."
+	},
+	"Scientific": {
+		"title": "Scientifique",
+		"description": "Un mode de pensée solide et analytique leur permet de mieux comprendre la galaxie qui les entoure."
+	}
+}

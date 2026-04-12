@@ -1,0 +1,140 @@
+﻿{
+	"Build": {
+		"title": "Construire des bâtiments"
+	},
+	"Deconstruct": {
+		"title": "Déconstruire des bâtiments"
+	},
+	"Repair": {
+		"title": "Réparer des bâtiments"
+	},
+	"Mine": {
+		"title": "Exploiter des astéroïdes"
+	},
+	"Refuel": {
+		"title": "Remplir"
+	},
+	"Eat": {
+		"title": "Manger"
+	},
+	"Drink": {
+		"title": "Boire"
+	},
+	"Sleep": {
+		"title": "Dormir"
+	},
+	"Roam": {
+		"title": "Vadrouiller"
+	},
+	"Idle": {
+		"title": "Inactif"
+	},
+	"StampFire": {
+		"title": "Éteindre les incendies"
+	},
+	"Clean": {
+		"title": "Nettoyer la saleté"
+	},
+	"SelfTend": {
+		"title": "Tendre à l'autonomie"
+	},
+	"RestUntilHealed": {
+		"title": "Se reposer (en tant que patient)"
+	},
+	"Rescue": {
+		"title": "Sauver une créature alliée effondrée"
+	},
+	"Haul": {
+		"title": "Transporter vers le stock"
+	},
+	"Combine": {
+		"title": "Combiner des objets"
+	},
+	"HaulObstruction": {
+		"title": "Déplacer un obstacle"
+	},
+	"HaulToPrefab": {
+		"title": "Transporter vers le chantier"
+	},
+	"HaulToRecipe": {
+		"title": "Transporter vers la recette"
+	},
+	"Research": {
+		"title": "Conduire des recherches"
+	},
+	"FindAtmosphere": {
+		"title": "Trouver une atmosphère sûre"
+	},
+	"FindSafeTemperature": {
+		"title": "Trouver une température de sécurité"
+	},
+	"DoGoodMood": {
+		"title": "Créer de la bonne humeur"
+	},
+	"DoSocial": {
+		"title": "Faire du social"
+	},
+	"MoveDead": {
+		"title": "Se débarrasser des créatures mortes"
+	},
+	"EquipSpacesuit": {
+		"title": "S'équiper d'une combinaison spatiale"
+	},
+	"ForceMove": {
+		"title": "Déplacement forcé"
+	},
+	"Equip": {
+		"title": "S'équiper"
+	},
+	"UnEquip": {
+		"title": "Enlever"
+	},
+	"Strip": {
+		"title": "Dépouiller une créature"
+	},
+	"DestroyAsset": {
+		"title": "Détruire un objet"
+	},
+	"UseEntertainment": {
+		"title": "S'amuser"
+	},
+	"SitAtChair": {
+		"title": "Assis"
+	},
+	"HealPawn": {
+		"title": "Guérir un patient ou un animal"
+	},
+	"FeedPatient": {
+		"title": "Nourrir un patient"
+	},
+	"HydratePatient": {
+		"title": "Hydrater un patient"
+	},
+	"FeedAnimal": {
+		"title": "Nourir un animal"
+	},
+	"HydrateAnimal": {
+		"title": "Hydrater un animal"
+	},
+	"Butcher": {
+		"title": "Dépecer une créature"
+	},
+	"Flee": {
+		"title": "Fuir"
+	},
+	"SowPlant": {
+		"title": "Semer un plant"
+	},
+	"HarvestPlant": {
+		"title": "Moissonner une plantation"
+	},
+	"HarvestBrew": {
+		"title": "Brasser la récolte"
+	},
+	"SitOnCaptainsChair": {
+		"title": "S'asseoir sur le fauteuil du capitaine."
+	},
+	"Breed": {
+		"title": "Reproduire"
+	}
+}

@@ -1,0 +1,34 @@
+﻿{
+	"StrandedShipParts": {
+		"title": "Épave de vaisseau",
+		"description": "Une partie de votre vaisseau s'est détachée du vaisseau mère !\n\nToute [color=KHAKI]structure du vaisseau[/color] ou tout autre [color=KHAKI]construction[/color] qui n'est PAS reliée à une partie du vaisseau mère sera considérée comme détachée et sera laissée sur place lors du passage en [color=KHAKI]mode haute combustion[/color]."
+	},
+	"PlaceFloorLesson": {
+		"title": "Revêtement de pont",
+		"description": "Le [color=KHAKI]revêtement de pont[/color] ne peut être placé qu'au-dessus d'une [color=KHAKI]structure de vaisseau[/color]. Assurez-vous d'avoir placé suffisamment de [color=KHAKI]structure de vaisseau[/color] pour couvrir la surface où vous voulez placer du [color=KHAKI]revêtement de pont[/color]."
+	},
+	"PlaceHullMountedBuilding": {
+		"title": "Bâtiments montés sur coque",
+		"description": "Les [color=KHAKI]bâtiments montés sur coque[/color] doivent être placés au-dessus d'une [color=KHAKI]structure du vaisseau[/color] ou de [color=KHAKI]blindage de coque[/color]. Assurez-vous d'avoir placé suffisamment de [color=KHAKI]structure de vaisseau[/color] ou de [color=KHAKI]blindage de coque[/color] pour couvrir la zone où vous souhaitez placer les [color=KHAKI]bâtiments montés sur coque[/color]."
+	},
+	"PlaceInternalDoor": {
+		"title": "Portes internes",
+		"description": "Chaque porte intérieure laissera lentement s'échapper l'atmosphère lorsqu'elle est placée sur une [color=KHAKI]structure de vaisseau[/color] externe (près de l'espace). Utilisez plutôt une [color=KHAKI]porte de sas[/color] à cet endroit, sauf si vous prévoyez d'enfermer cette porte à l'intérieur d'une pièce."
+	},
+	"EnteredHighBurn": {
+		"title": "Haute combustion",
+		"description": "Vous avez enfin réussi à entrer en [color=KHAKI]haute combustion[/color] !\n\nLes explorateurs envoyés par la Terre Mère racontaient à quel point leurs expéditions étaient périlleuses et mortelles lorsqu’ils voyageaient et vivaient dans l’espace. Cette époque allait être connue sous le nom de [i]Foutoir de l'Espace[/i].\n\nC'est maintenant à votre tour de suivre leurs traces, d'explorer et de documenter le grand inconnu : le vide impitoyable, froid et sombre... le [i]Foutoir[/i]."
+	},
+	"Exploration": {
+		"title": "Haute combustion",
+		"description": "Sachez que votre équipage ne peut pas sortir du vaisseau en raison des pressions extrêmement élevées. Toute réparation extérieure ou exploration personnelle de l'équipage doit avoir lieu lorsque le vaisseau n'est pas en [color=KHAKI]haute combustion[/color].\n\nVous recevrez des notifications lorsque vous passerez près d'un élément intéressant, ou vous pourrez en repérer un vous-même. Ce sont de bonnes occasions de sortir de la [color=KHAKI]haute combustion[/color] et d'explorer.\n\nN'oubliez pas que sortir de la [color=KHAKI]haute combustion[/color] vous rend vulnérable pendant que vous attendez que votre jauge de poussée se recharge."
+	},
+	"HarshSpace": {
+		"title": "Haute combustion",
+		"description": "L'espace est un environnement hostile et impitoyable, alors préparez-vous à perdre de nombreux membres d'équipage, voire votre vaisseau tout entier.\n\nPlus vous voyagerez et explorerez, plus vous découvrirez de l'inconnu.\n\nBonne chance !"
+	},
+	"Breach": {
+		"title": "Brèches",
+		"description": "Votre vaisseau a subi une brèche ! Toute tuile endommagée entraînera une fuite d'atmosphère dans les salles adjacentes.\n\nVous devrez colmater rapidement la brèche en construisant des [color=KHAKI]structures de vaisseau[/color] supplémentaires au-dessus de la zone endommagée.\n\nNotez que si l'[color=PURPLE]alerte noire[/color] est activée, votre équipage ne pourra pas intervenir sur les tuiles endommagées."
+	}
+}

@@ -1,0 +1,18 @@
+﻿{
+	"WorkSpeedModifier": {
+		"title": "Modificateur de vitesse de travail",
+		"description": "Ajuste la vitesse à laquelle cette créature peut effectuer des tâches liées au travail."
+	},
+	"LearningModifier": {
+		"title": "Modificateur d'apprentissage",
+		"description": "Ajuste la quantité d'expérience gagnée."
+	},
+	"PainThresholdModifier": {
+		"title": "Modificateur du seuil de douleur",
+		"description": "Règle le moment où un personnage s'évanouit sous l'effet de la douleur."
+	},
+	"BribePriceModifier": {
+		"title": "Modificateur du prix des pots-de-vin",
+		"description": "Ajuste le nombre de pièces nécessaires pour corrompre quelqu'un."
+	}
+}

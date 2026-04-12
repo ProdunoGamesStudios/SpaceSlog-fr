@@ -1,0 +1,98 @@
+﻿{
+	"Coins": {
+		"title": "Pièces",
+		"description": "La devise standard utilisée partout dans le slog."
+	},
+	"Diamond": {
+		"title": "Diamant de l'espace",
+		"description": "Une matière première industrielle extrêmement rare. Utilisée de préférence comme matériau de construction plutôt que dans la joaillerie en raison de sa dureté supérieure."
+	},
+	"FuelCell": {
+		"title": "Pile à combustible",
+		"description": "Contient du plutonium. Assure la stabilité du plutonium jusqu'à ce qu'il soit nécessaire de l'utiliser."
+	},
+	"Uranium": {
+		"title": "Uranium",
+		"description": "Une matière extrêmement dense qui peut être raffinée en plutonium pour ensuite être stockée dans des piles à combustible."
+	},
+	"Titanium": {
+		"title": "Titane",
+		"description": "Alliage métallique relativement léger mais durable. Il peut être utilisé pour construire une grande variété de structures, d'armes et d'autres machines."
+	},
+	"Glass": {
+		"title": "Verre",
+		"description": "Matériau transparent couramment utilisé pour les fenêtres. Il est fragile et peut se briser facilement."
+	},
+	"Silver": {
+		"title": "Argent",
+		"description": "Un type de métal blanc souvent utilisé dans la construction, mais moins résistant que d'autres métaux."
+	},
+	"Alloys": {
+		"title": "Alliages",
+		"description": "Ces alliages sont exceptionnellement légers et durables, mais extrêmement rares et coûteux."
+	},
+	"Gold": {
+		"title": "Or",
+		"description": "Un métal brillant de grande valeur. Il n'est pas aussi résistant que les autres métaux, mais il est joli."
+	},
+	"Silicon": {
+		"title": "Silicium",
+		"description": "Un élément polyvalent essentiel pour les composants électroniques et informatiques."
+	},
+	"Ruby": {
+		"title": "Rubis",
+		"description": "Une pierre précieuse rare et vibrante."
+	},
+	"Emerald": {
+		"title": "Émeraude",
+		"description": "Une pierre précieuse verte rare."
+	},
+	"Logs": {
+		"title": "Bûches de bois dur",
+		"description": "Récolté sur certains types d'arbres de certaines planètes. Peut être utilisé pour construire des structures et des armes."
+	},
+	"Cloth": {
+		"title": "Tissu",
+		"description": "Une chose douce et confortable créée à partir de fibres de coton."
+	},
+	"Linen": {
+		"title": "Lin",
+		"description": "Un tissu solide et durable créé à partir de fibres de lin."
+	},
+	"Leather": {
+		"title": "Cuir",
+		"description": "Matériau solide, flexible et durable créé à partir de peaux d'animaux."
+	},
+	"Wool": {
+		"title": "Laine",
+		"description": "Fibre naturelle respirante. Idéal pour l'isolation."
+	},
+	"CarbonFibre": {
+		"title": "Tissu en fibre de carbone",
+		"description": "Matériau solide, flexible et durable créé à partir du carbone."
+	},
+	"Concrete": {
+		"title": "Béton",
+		"description": "Matériau artificiel extrêmement lourd mais résistant. Ce n'est probablement pas le meilleur choix pour les vaisseaux spatiaux."
+	},
+	"Sandstone": {
+		"title": "Grès",
+		"description": "Type de roche relativement tendre qui peut se briser facilement."
+	},
+	"Rock": {
+		"title": "Pierre",
+		"description": "Un morceau de matériau naturel composé de minéraux."
+	},
+	"Carbon": {
+		"title": "Carbone",
+		"description": "Le carbone peut être utilisé pour créer de la fibre de carbone."
+	},
+	"Granite": {
+		"title": "Granit",
+		"description": "Un type de roche extrêmement dure."
+	},
+	"Ice": {
+		"title": "Glace",
+		"description": "Peut être utilisée pour produire de l'oxygène ou fondue pour produire de l'eau."
+	}
+}

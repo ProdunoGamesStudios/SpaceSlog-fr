@@ -1,0 +1,26 @@
+﻿{
+	"Cables": {
+		"title": "Câble électrique",
+		"description": "Câble utilisé pour transporter l'électricité depuis sa source jusqu'à un récepteur."
+	},
+	"SmallGenerator": {
+		"title": "Petit générateur",
+		"description": "Consomme du plutonium stocké dans des piles à combustible pour produire une petite quantité d'électricité."
+	},
+	"LargeGenerator": {
+		"title": "Grand générateur",
+		"description": "Consomme du plutonium stocké dans des piles à combustible pour produire une grande quantité d'électricité. Ce générateur est environ 10 % plus efficace que plusieurs petits générateurs pour produire la même puissance."
+	},
+	"SmallSolarPanel": {
+		"title": "Petit panneau solaire",
+		"description": "Génère une petite quantité d'électricité à partir de sources de lumière naturelle, comme une étoile."
+	},
+	"LargeSolarPanel": {
+		"title": "Grand panneau solaire",
+		"description": "Génère une quantité moyenne d'électricité à partir de sources de lumière naturelle, comme une étoile."
+	},
+	"Battery": {
+		"title": "Batterie",
+		"description": "Stocke l'excès d'électricité et la redistribue dans le réseau lorsque cela est nécessaire. Il est recommandé d'équiper votre vaisseau d'au moins une batterie dès que possible."
+	}
+}

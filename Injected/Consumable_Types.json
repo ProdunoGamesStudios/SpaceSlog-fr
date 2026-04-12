@@ -1,0 +1,35 @@
+﻿{
+	"Meat": {
+		"title": "viande"
+	},
+	"Fruit": {
+		"title": "fruit"
+	},
+	"Grain": {
+		"title": "graine"
+	},
+	"Vegetable": {
+		"title": "légume"
+	},
+	"AnimalProduce": {
+		"title": "Produits d'origine animale"
+	},
+	"Fungus": {
+		"title": "champignon"
+	},
+	"Plant": {
+		"title": "plante"
+	},
+	"Corpse": {
+		"title": "cadavre"
+	},
+	"Seed": {
+		"title": "graine"
+	},
+	"Rock": {
+		"title": "roche"
+	},
+	"Fluid": {
+		"title": "liquide"
+	}
+}

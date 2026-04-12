@@ -1,0 +1,30 @@
+﻿{
+	"PowerMenu": {
+		"title": "Menu Puissance",
+		"description": "Tout ce qui concerne la production et la distribution d'énergie sur votre vaisseau se trouve dans le menu [color=PURPLE]Puissance[/color].\n\nDe nombreux éléments nécessitent pour fonctionner de l'énergie qui peut être fournie par un [color=KHAKI]générateur électrique[/color].\nAssurez-vous que chaque élément est connecté au générateur à l'aide de [color=KHAKI]câbles[/color].\n\nUn [color=KHAKI]câble[/color] [color=RED]rouge[/color] indique la connexion à chaque machine, veillez donc à ce que tous les [color=KHAKI]câbles[/color] [color=RED]rouges[/color] soient reliés entre eux."
+	},
+	"AtmosphereMenu": {
+		"title": "Menu Atmosphère",
+		"description": "Le menu [color=PURPLE]Atmosphère[/color] contient tous les éléments dont vous avez besoin pour créer et maintenir une atmosphère respirable sur votre vaisseau.\n\nVotre vaisseau doit être hermétique et maintenir une atmosphère adéquate.\n\nN'oubliez pas que toute brèche, y compris les portes ouvertes, entraînera une fuite d'atmosphère.\n\nDe nombreux types d'équipement répertoriés ici nécessiteront l'installation de [color=KHAKI]conduits atmosphériques[/color]. Pour ce faire, placez des [color=KHAKI]conduits atmosphériques[/color] entre les points d'extrémité [color=RED]rouges[/color] sur les bâtiments."
+	},
+	"ShipSystemsMenu": {
+		"title": "Menu Moniteur système",
+		"description": "Le menu [color=PURPLE]Systèmes du vaisseau[/color] vous permet de voir en un coup d'œil si votre vaisseau fonctionne correctement.\n\nVous pouvez consulter diverses informations sur votre vaisseau et modifier son nom enregistré qui sert à vous identifier dans tout le [i]Foutoir[/i].\n\nAppuyez sur [color=PURPLE]Alerte noire[/color] pour ordonner à tout l'équipage de regagner le navire et d'y rester jusqu'à ce que l'alerte soit désactivée.\n\nVotre indicateur de [color=PURPLE]taux de combustion[/color] se trouve aussi dans ce menu."
+	},
+	"CrewMenu": {
+		"title": "Menu Équipage",
+		"description": "Tous les membres de l'équipage de votre vaisseau, accompagnés d'une brève présentation de chacun d'entre eux, sont répertoriés dans le menu [color=PURPLE]Équipage[/color].\n\nIci vous pouvez consulter et attribuer des [color=KHAKI]rôles[/color], créer des [color=KHAKI]rôles[/color] personnalisés et attribuer des raccourcis clavier. Vous pouvez également définir des [color=KHAKI]horaires[/color] et attribuer des [color=KHAKI]tâches[/color].\n\nEn sélectionnant un membre d'équipage, vous ouvrirez son menu individuel, où vous pourrez consulter des informations plus détaillées à son sujet."
+	},
+	"Schedules": {
+		"title": "Planning",
+		"description": "Vous pouvez définir des [color=KHAKI]horaires[/color] pour chaque membre d'équipage afin de vous assurer qu'ils dorment et travaillent à des heures appropriées. Pour ce faire, sélectionnez le panneau [color=PURPLE]Horaires[/color] dans le menu Équipage.\n\nVous pouvez ensuite sélectionner le bouton [color=PURPLE]planning[/color] souhaité et remplir les cases horaires de la grille de planning.\n\nVotre équipage s'efforcera de respecter son [color=KHAKI]planning[/color], mais donnera la priorité aux tâches indispensables à sa survie, telles que manger, boire et dormir lorsque cela est nécessaire."
+	},
+	"Jobs": {
+		"title": "Métiers",
+		"description": "Vous pouvez attribuer à chaque membre d'équipage des priorités spécifiques afin de vous assurer qu'ils s'attaquent à ces tâches en premier. Pour ce faire, accédez au panneau [color=PURPLE]Missions[/color] dans le menu [color=PURPLE]Équipage[/color].\n\n[color=LIGHT_GREEN]Cliquez[/color] sur chaque case pour régler la priorité. En passant votre souris sur l'icône au-dessus, vous verrez quelles tâches correspondent à chaque priorité.\n\nUn chiffre plus bas indique une priorité plus élevée."
+	},
+	"Stockpiles": {
+		"title": "Stocks",
+		"description": "Vous pouvez ajuster la priorité de chaque [color=KHAKI]stock[/color] dans le menu [color=PURPLE]Stocks[/color]. Cela indique à votre équipage quel [color=KHAKI]stock[/color] doit être rempli en premier.\n\nVous pouvez également définir des restrictions sur les objets pouvant être stockés dans chaque [color=KHAKI]stock[/color] en sélectionnant les catégories souhaitées dans le menu [color=PURPLE]Stocks[/color]."
+	}
+}

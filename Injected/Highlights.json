@@ -1,0 +1,26 @@
+﻿{
+	"Debug": {
+		"title": "Debug"
+	},
+	"Tile": {
+		"title": "Tuile"
+	},
+	"Edge": {
+		"title": "Bordure"
+	},
+	"Range": {
+		"title": "Portée"
+	},
+	"Room": {
+		"title": "Pièce"
+	},
+	"Zone": {
+		"title": "Zone"
+	},
+	"Chevron": {
+		"title": "Chevron"
+	},
+	"Blueprint": {
+		"title": "Plan"
+	}
+}

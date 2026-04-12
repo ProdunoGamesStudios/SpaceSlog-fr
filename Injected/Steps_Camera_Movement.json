@@ -1,0 +1,12 @@
+﻿{
+	"CameraMovementStep1": {
+		"title": "Mouvement de caméra",
+		"description": "Utilisez {move_up}, {move_left}, {move_down} et {move_right} pour déplacer la caméra. Vous pouvez également [color=LIGHT_GREEN]cliquer et glisser[/color] avec la {camera_scroll}.\n\nAppuyez sur {quick_scroll} pour vous déplacer plus rapidement."
+	},
+	"CameraMovementStep2": {
+		"description": "{scroll_up} et {scroll_down} permettent de faire un zoom avant et arrière."
+	},
+	"CameraMovementStep3": {
+		"description": "Appuyer sur {reset_camera} recentre la caméra sur votre vaisseau."
+	}
+}

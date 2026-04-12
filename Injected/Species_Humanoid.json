@@ -1,0 +1,10 @@
+﻿{
+	"Human": {
+		"title": "Humain",
+		"description": "Les humains sont un type d'humanoïde. Dotés d'un grand cerveau complexe, ils sont assez intelligents et maîtrisent l'utilisation d'outils. Généralement connus pour être principalement originaires de la Terre, ils parlent le plus souvent la langue maternelle des Terriens. Les Terriens ont passé des générations sur Terre."
+	},
+	"HumanSpacer": {
+		"title": "Humain spacien",
+		"description": "Les humains sont un type d'humanoïde. Dotés d'un grand cerveau complexe, ils sont assez intelligents et maîtrisent l'utilisation d'outils. Généralement connus pour être principalement originaires de la Terre, ils parlent le plus souvent la langue maternelle des Terriens. Les spaciens ont passé des générations dans l'espace."
+	}
+}

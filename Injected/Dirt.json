@@ -1,0 +1,34 @@
+﻿{
+	"Dirt": {
+		"title": "Poussière",
+		"description": "Saleté et crasse. de façon générale."
+	},
+	"Slime": {
+		"title": "Bave",
+		"description": "Dégueulasse et visqueuse."
+	},
+	"Puke": {
+		"title": "Vomi",
+		"description": "Liquides corporels avec morceaux."
+	},
+	"BodilyFluids": {
+		"title": "Fluides corporels",
+		"description": "Liquides corporels clairs et visqueux."
+	},
+	"Ash": {
+		"title": "Cendres",
+		"description": "Résidu fin et poudreux laissé après la combustion."
+	},
+	"Rubble": {
+		"title": "Gravats",
+		"description": "Débris provenant de structures démolies ou endommagées."
+	},
+	"RottenFlesh": {
+		"title": "Chair pourrie",
+		"description": "Matière organique en décomposition."
+	},
+	"Blood": {
+		"title": "Sang",
+		"description": "Fluide corporel."
+	}
+}

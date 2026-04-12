@@ -1,0 +1,18 @@
+﻿{
+	"Human": {
+		"title": "Peau",
+		"description": "Imperméable, mais fragile."
+	},
+	"Serpent": {
+		"title": "Peau",
+		"description": "Plutôt épaisse."
+	},
+	"ScaledSerpent": {
+		"title": "Peau",
+		"description": "Plutôt épaisse."
+	},
+	"SmallAnimal": {
+		"title": "Peau",
+		"description": "Plutôt épaisse."
+	}
+}

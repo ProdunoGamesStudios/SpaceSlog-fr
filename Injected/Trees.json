@@ -1,0 +1,18 @@
+﻿{
+	"CactusTree": {
+		"title": "Cactus",
+		"description": "Une plante de type cactus."
+	},
+	"BirchTree": {
+		"title": "Bouleau",
+		"description": "Arbre de type bouleau."
+	},
+	"FernTree": {
+		"title": "Fougère",
+		"description": "Plante de type fougère."
+	},
+	"OakTree": {
+		"title": "Chêne",
+		"description": "Arbre de type chêne."
+	}
+}

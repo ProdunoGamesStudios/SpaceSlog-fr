@@ -1,0 +1,18 @@
+﻿{
+	"Tantrum": {
+		"title": "Accès de colère",
+		"description": "Fait une crise de colère."
+	},
+	"Delirious": {
+		"title": "Délire",
+		"description": "Hébété et confus."
+	},
+	"Catatonic": {
+		"title": "Catatonie",
+		"description": "Catatonique."
+	},
+	"Breakdown": {
+		"title": "Dépression",
+		"description": "Fait une dépression."
+	}
+}

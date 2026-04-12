@@ -1,13 +1,15 @@
-{
-	"created_by": "Created by",
-	"music_and_sounds": "Music and Sounds",
-	"art": "Art",
-	"moderators": "Moderators",
-	"community_testers": "Community testers",
-	"translations": "Translations",
-	"polish": "Polish language",
-	"french": "French language",
-	"game_engine": "Game Engine",
-	"special_thanks": "Special Thanks",
-	"thanks_for_playing": "Thank you for playing!"
+﻿{
+		"created_by": "Créé par",
+		"team": "Équipe",
+		"music_and_sounds": "Musique et sons",
+		"art": "Art",
+		"planet_shaders": "Shaders de planète",
+		"community_testers": "Testeurs de la communauté",
+		"translations": "Traductions",
+		"polish": "Traduction en polonais",
+		"french": "Traduction en français",
+		"ukrainian": "Traduction en ukrainien",
+		"game_engine": "Moteur du jeu",
+		"special_thanks": "Remerciements spéciaux",
+		"thanks_for_playing": "Merci pour avoir joué à SpaceSlog !"
 }

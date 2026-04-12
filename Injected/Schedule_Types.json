@@ -1,0 +1,18 @@
+﻿{
+	"Anything": {
+		"title": "N'importe quoi",
+		"description": "Peut faire n'importe quoi."
+	},
+	"Work": {
+		"title": "Travail",
+		"description": "N'effectuera que des tâches professionnelles dans la mesure du possible."
+	},
+	"Sleep": {
+		"title": "Sommeil",
+		"description": "Ne fera qu'essayer de dormir si c'est possible."
+	},
+	"Entertainment": {
+		"title": "Divertissement",
+		"description": "N'entamera que des activités de divertissement si c'est possible."
+	}
+}

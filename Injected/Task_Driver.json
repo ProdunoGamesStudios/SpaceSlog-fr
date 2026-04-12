@@ -1,0 +1,154 @@
+﻿{
+	"Roam": {
+		"title": "Vadrouiller",
+		"description": "Se promène."
+	},
+	"Idle": {
+		"title": "Ne rien faire",
+		"description": "Reste dans le coin."
+	},
+	"Eat": {
+		"title": "Manger",
+		"description": "Mange {object_a}."
+	},
+	"Drink": {
+		"title": "Boire",
+		"description": "Bois {object_a}."
+	},
+	"Clean": {
+		"title": "Nettoyer",
+		"description": "Nettoie {object_a}."
+	},
+	"Sleep": {
+		"title": "Dormir",
+		"description": "Dors."
+	},
+	"InvoluntarySleep": {
+		"title": "Dormir",
+		"description": "Se repose."
+	},
+	"ForceMove": {
+		"title": "Obligé de bouger",
+		"description": "Bouge."
+	},
+	"Pickup": {
+		"title": "Prendre",
+		"description": "Prends {object_a}."
+	},
+	"Haul": {
+		"title": "Transporter",
+		"description": "Transporte {object_a}."
+	},
+	"Combine": {
+		"title": "Combiner",
+		"description": "Combine {object_a}."
+	},
+	"Refuel": {
+		"title": "Faire le plein",
+		"description": "Recharge {object_b} avec {object_a}."
+	},
+	"MoveDeadPawn": {
+		"title": "Déplacer un agent mort",
+		"description": "S'occupe de {object_a}."
+	},
+	"Equip": {
+		"title": "S'équiper",
+		"description": "S'équipe de {object_a}."
+	},
+	"UnEquip": {
+		"title": "Enlever",
+		"description": "Enlève {object_a}."
+	},
+	"CollectMaterials": {
+		"title": "Collecter des matériaux",
+		"description": "Collecte {object_a}."
+	},
+	"Strip": {
+		"title": "Déshabiller",
+		"description": "Enlève tous les objets  de l'inventaire des {object_a}."
+	},
+	"Deconstruct": {
+		"title": "Déconstruire",
+		"description": "Déconstruit {object_a}."
+	},
+	"Repair": {
+		"title": "Réparer",
+		"description": "Répare {object_a}."
+	},
+	"Mine": {
+		"title": "Miner",
+		"description": "Mine {object_a}."
+	},
+	"DestroyAsset": {
+		"title": "Détruire un bien",
+		"description": "Détruit {object_a}."
+	},
+	"HaulToPrefab": {
+		"title": "Transporter vers préfabriqué",
+		"description": "Transporte {object_a} vers {object_b}."
+	},
+	"Build": {
+		"title": "Construire",
+		"description": "Construit {object_a}."
+	},
+	"Rescue": {
+		"title": "Sauver",
+		"description": "Sauve {object_b}."
+	},
+	"RestUntilHealed": {
+		"title": "Se reposer",
+		"description": "Se repose."
+	},
+	"UseEntertainment": {
+		"title": "Jouer à une machine d'arcade",
+		"description": "Joue avec {object_a}."
+	},
+	"SitAtChair": {
+		"title": "S'asseoir.",
+		"description": "S'asseoir."
+	},
+	"TendHeal": {
+		"title": "Guérir un agent",
+		"description": "Guérit {object_b} avec {object_a}."
+	},
+	"TendFeed": {
+		"title": "Guérir un agent",
+		"description": "Nourrit {object_b} avec {object_a}."
+	},
+	"TendHydrate": {
+		"title": "Guérir un agent",
+		"description": "Réhydrate {object_b} avec {object_a}."
+	},
+	"GetBackToShip": {
+		"title": "Revenir au vaisseau",
+		"description": "Retourne au vaisseau."
+	},
+	"Butcher": {
+		"title": "Dépecer",
+		"description": "Dépèce {object_a}."
+	},
+	"SowPlant": {
+		"title": "Semer une plante",
+		"description": "Sème {object_a}."
+	},
+	"HarvestPlant": {
+		"title": "Récolter une plantation",
+		"description": "Moissonne {object_a}."
+	},
+	"HarvestBrew": {
+		"title": "Brasser une boisson",
+		"description": "Moissonne {object_a}."
+	},
+	"SitOnCaptainsChair": {
+		"title": "S'asseoir sur le fauteuil du capitaine",
+		"description": "Assis sur mon fauteuil."
+	},
+	"Breed": {
+		"title": "Copuler",
+		"description": "Copuler avec {object_a}."
+	},
+	"SelfTend": {
+		"title": "Entretien personnel",
+		"description": "S'entretenir avec {object_a}."
+	}
+}

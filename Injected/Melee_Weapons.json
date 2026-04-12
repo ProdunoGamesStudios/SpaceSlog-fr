@@ -1,0 +1,34 @@
+﻿{
+	"Gladius": {
+		"title": "Glaive",
+		"description": "Une épée courte principalement utilisée pour poignarder en combat rapproché. Sa conception est ancienne, mais toujours efficace."
+	},
+	"Sword": {
+		"title": "Épée",
+		"description": "Une épée ordinaire utilisée pour trancher en combat rapproché. Son poids et son tranchant acéré en font un excellent choix pour trancher les membres et découper vos ennemis."
+	},
+	"Knife": {
+		"title": "Couteau",
+		"description": "Un petit couteau utilisé pour la protection personnelle. Capable de causer des dommages raisonnables, malgré sa petite taille."
+	},
+	"Bat": {
+		"title": "Batte",
+		"description": "Une batte initialement conçue pour le sport, mais qui constitue une excellente arme. Sa taille et son poids sont parfaits pour frapper et causer de graves contusions et des fractures."
+	},
+	"RoundShield": {
+		"title": "Bouclier rond",
+		"description": "Un bouclier rond robuste utilisé pour bloquer les attaques, mais qui peut également servir à frapper les ennemis."
+	},
+	"Hatchet": {
+		"title": "Hachette",
+		"description": "Une petite hache simple et légère qui se manie d'une seule main. Idéale pour taillader rapidement vos ennemis."
+	},
+	"Spear": {
+		"title": "Lance",
+		"description": "Une arme longue et bien équilibrée, à deux mains, en forme de perche. Elle s'utilise en enfonçant son extrémité pointue dans vos adversaires."
+	},
+	"BattleAxe": {
+		"title": "Hache de bataille",
+		"description": "Une hache à deux mains, grande et lourde, qui nécessite une prise ferme pour être maniée. Lente à balancer, mais capable d'infliger de lourds dégâts de coupe."
+	}
+}

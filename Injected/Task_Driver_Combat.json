@@ -1,0 +1,46 @@
+﻿{
+	"FollowAndMelee": {
+		"title": "Suivre en mêlée",
+		"description": "Attaque {object_a}."
+	},
+	"FollowAndShoot": {
+		"title": "Suivre et tirer",
+		"description": "Attaque {object_a}."
+	},
+	"Hunt": {
+		"title": "Chasser",
+		"description": "Chasse {object_a}."
+	},
+	"Flee": {
+		"title": "Fuir",
+		"description": "En fuite."
+	},
+	"MeleeBuilding": {
+		"title": "Déclenchement de mêlée",
+		"description": "Attaque {object_a}."
+	},
+	"ForceShoot": {
+		"title": "Obliger de tirer",
+		"description": "Tire sur {object_a}."
+	},
+	"StampFire": {
+		"title": "Éteindre le feu",
+		"description": "Éteint {object_a}."
+	},
+	"Restrain": {
+		"title": "Retenir",
+		"description": "Retient {object_a}."
+	},
+	"Slaughter": {
+		"title": "Abattre",
+		"description": "Abat {object_a}."
+	},
+	"FinishOffNoWeapon": {
+		"title": "Achever",
+		"description": "Achever {object_a}."
+	},
+	"FinishWithMeleeWeapon": {
+		"title": "Terminer la mêlée",
+		"description": "Attaque {object_a}."
+	}
+}

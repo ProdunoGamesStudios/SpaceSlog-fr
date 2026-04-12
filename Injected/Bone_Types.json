@@ -1,0 +1,18 @@
+﻿{
+	"Human": {
+		"title": "Os",
+		"description": "Constitué de tissu conjonctif et de cellules osseuses spécialisées."
+	},
+	"Serpent": {
+		"title": "Os",
+		"description": "Mince mais flexible."
+	},
+	"Rodent": {
+		"title": "Os",
+		"description": "Mince et fragile."
+	},
+	"Bird": {
+		"title": "Os",
+		"description": "Mince et fragile."
+	}
+}

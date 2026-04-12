@@ -1,0 +1,12 @@
+﻿{
+	"BuildPowerGeneratorStep1": {
+		"title": "Construire un générateur électrique",
+		"description": "Maintenant que votre équipage a terminé l'agrandissement du vaisseau, il va avoir besoin d'énergie.\n\nCommencez par sélectionner le bouton [color=PURPLE]Énergie[/color] mis en surbrillance dans le menu [color=PURPLE]Construction[/color]."
+	},
+	"BuildPowerGeneratorStep2": {
+		"description": "Sélectionnez maintenant le bouton [color=PURPLE]Générateur d'électricité[/color] mis en surbrillance."
+	},
+	"BuildPowerGeneratorStep3": {
+		"description": "Vous trouverez ci-dessous de plus amples informations, notamment le type de carburant et les compétences requises.\n\nVous pouvez également sélectionner les matériaux principaux et secondaires utilisés pour la construction, mais les valeurs par défaut devraient suffire pour l'instant.\nSi les chiffres apparaissent en [color=RED]rouge[/color], cela signifie que tous nos matériaux se trouvent hors du vaisseau.\n\nPlacez cet élément à l'intérieur de votre vaisseau, sur n'importe quel espace disponible au sol."
+	}
+}
