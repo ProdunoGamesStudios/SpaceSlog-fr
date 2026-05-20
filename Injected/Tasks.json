@@ -182,7 +182,10 @@
 	"PlanBatchHaulToPrefab": {
 		"title": "Planifier le transport du lot vers le préfabriqué"
 	},
-	"InsertGetMaterials": {
-		"title": "Rassembler du matériel"
+	"BatchedPickup": {
+		"title": "Définir le prochain enlèvement"
+	},
+	"BatchedHaul": {
+		"title": "Définir le prochain lot"
 	}
 }
