@@ -1,8 +1,8 @@
 ﻿{
 	"PrimaryMaterial": {
-		"title": "Matériel principal"
+		"title": "Matériau primaire"
 	},
 	"SecondaryMaterial": {
-		"title": "Matériel secondaire"
+		"title": "Matériau secondaire"
 	}
 }

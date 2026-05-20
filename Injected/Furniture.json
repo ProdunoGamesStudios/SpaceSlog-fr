@@ -15,6 +15,10 @@
 		"title": "Lit double",
 		"description": "Un endroit chaud et confortable où deux humanoïdes peuvent dormir côte à côte."
 	},
+	"AnimalSleepingSpot": {
+		"title": "Lieu de repos pour animaux",
+		"description": "Un abri ou un coin pour dormir, simple et peu confortable, destiné à un petit animal."
+	},
 	"SmallAnimalBed": {
 		"title": "Lit pour animaux",
 		"description": "Un endroit confortable où un petit animal peut dormir."

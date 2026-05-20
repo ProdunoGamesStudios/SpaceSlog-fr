@@ -1,0 +1,26 @@
+﻿{
+	"PackagedMeal": {
+		"title": "Plat préparé",
+		"description": "Se préparer un plat pré-emballé."
+	},
+	"BatchedPackagedMeal": {
+		"title": "Lot de plats préparés",
+		"description": "Préparer un lot de plats pré-emballés."
+	},
+	"TastyPackagedMeal": {
+		"title": "Plat préparé appétissant",
+		"description": "Se préparer un plat pré-emballé appétissant."
+	},
+	"BatchedTastyPackagedMeal": {
+		"title": "Lot de plats préparés appétissants",
+		"description": "Préparer un lot de plats pré-emballés appétissants."
+	},
+	"CookedMeat": {
+		"title": "Viande cuite",
+		"description": "Préparer une pièce de viande cuite."
+	},
+	"BatchedCookedMeat": {
+		"title": "Lot de viande cuite",
+		"description": "Préparer un lot de viande cuite."
+	}
+}

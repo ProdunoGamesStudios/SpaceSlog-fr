@@ -67,6 +67,14 @@
 		"title": "J'ai horreur de la viande humaine",
 		"description": "Il m'a fallu manger de la viande humaine. Je suis vraiment une personne horrible."
 	},
+	"AteRawFood":  {
+		"title": "J'ai mangé des aliments crus",
+		"description": "J'ai dû manger des aliments crus. J'aurais préféré qu'ils soient cuits d'une manière ou d'une autre."
+	},
+	"AteTastyFood":  {
+		"title": "Je viens de manger un repas vraiment délicieux",
+		"description": "Waouh, ce repas était vraiment délicieux !"
+	},
 	"Depressed":  {
 		"title": "Déprimé",
 		"description": "Ma vie est nulle et je la déteste !"

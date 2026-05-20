@@ -43,6 +43,10 @@
 		"title": "Plat préparé",
 		"description": "Un repas nutritif tout prêt."
 	},
+	"TastyPackagedMeals": {
+		"title": "Plat préparé appétissant",
+		"description": "Un délicieux repas nutritif tout prêt. Contient des herbes aromatiques ajoutées pour rehausser le goût."
+	},
 	"Bread": {
 		"title": "Pain",
 		"description": "Un aliment de base à base de blé."

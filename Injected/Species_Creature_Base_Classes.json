@@ -1,4 +1,8 @@
 ﻿{
+	"Rodent": {
+		"title": "Rongeur",
+		"description": "Un petit rongeur très adaptable. On le trouve parfois comme passager clandestin à bord des navires."
+	},
 	"Chicken": {
 		"title": "Volaille"
 	}

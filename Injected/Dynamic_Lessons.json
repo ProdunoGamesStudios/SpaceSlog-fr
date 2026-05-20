@@ -8,8 +8,8 @@
 		"description": "Le [color=KHAKI]revêtement de pont[/color] ne peut être placé qu'au-dessus d'une [color=KHAKI]structure de vaisseau[/color]. Assurez-vous d'avoir placé suffisamment de [color=KHAKI]structure de vaisseau[/color] pour couvrir la surface où vous voulez placer du [color=KHAKI]revêtement de pont[/color]."
 	},
 	"PlaceHullMountedBuilding": {
-		"title": "Bâtiments montés sur coque",
-		"description": "Les [color=KHAKI]bâtiments montés sur coque[/color] doivent être placés au-dessus d'une [color=KHAKI]structure du vaisseau[/color] ou de [color=KHAKI]blindage de coque[/color]. Assurez-vous d'avoir placé suffisamment de [color=KHAKI]structure de vaisseau[/color] ou de [color=KHAKI]blindage de coque[/color] pour couvrir la zone où vous souhaitez placer les [color=KHAKI]bâtiments montés sur coque[/color]."
+		"title": "Structures sur coque",
+		"description": "Les [color=KHAKI]structures sur coque[/color] doivent être placées au-dessus d'une [color=KHAKI]structure du vaisseau[/color] ou de [color=KHAKI]blindage de coque[/color]. Assurez-vous d'avoir placé suffisamment de [color=KHAKI]structure de vaisseau[/color] ou de [color=KHAKI]blindage de coque[/color] pour couvrir la zone où vous souhaitez placer les [color=KHAKI]structures sur coque[/color]."
 	},
 	"PlaceInternalDoor": {
 		"title": "Portes internes",

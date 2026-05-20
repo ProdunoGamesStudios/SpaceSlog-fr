@@ -8,7 +8,7 @@
 		"description": "Sélectionnez une pièce en [color=LIGHT_GREEN]double-cliquant[/color] ou  en faisant {alternate_select} + {select} sur n'importe quelle tuile de sol à l'intérieur de celle-ci.\n\nUne fois sélectionnée, un menu apparaîtra dans lequel vous pourrez modifier le nom de la pièce et consulter diverses informations la concernant.\n\nC'est dans ce menu que vous pouvez également définir le type de chambre. Cette information sera nécessaire pour attribuer des chambres spécifiques à votre équipage, ainsi que pour diverses autres fonctions."
 	},
 	"BrewingAtABarrelStep1": {
-		"title": "Fabrication de produits alimentaires et de boissons",
+		"title": "Préparer plats et boissons",
 		"description": "Les [color=KHAKI]tonneaux[/color] permettent de préparer toute une gamme de boissons et de plats.\n\nPour utiliser un [color=KHAKI]tonneau[/color], appuyez sur le bouton [img=0] dans le menu, puis sélectionnez [color=PURPLE]Préparer les commandes[/color]. Cela ouvrira un nouveau menu dans lequel vous pourrez choisir parmi les recettes disponibles, en augmentant ou en diminuant la quantité souhaitée.\n\nUne fois que vous êtes satisfait de votre sélection, appuyez sur [color=PURPLE]Envoyer les commandes[/color] pour lancer la production.\n\nAssurez-vous que votre [color=KHAKI]tonneau[/color] n'est pas interdit afin que votre équipage puisse interagir avec lui."
 	},
 	"TransponderStep1":{

@@ -7,6 +7,14 @@
 		"title": "Vitesse de semis",
 		"description": "La vitesse avec laquelle cette créature peut semer."
 	},
+	"CraftingSpeed": {
+		"title": "Vitesse de fabrication",
+		"description": "Vitesse à laquelle cette créature peut fabriquer ou raffiner."
+	},
+	"CookingSpeed": {
+		"title": "Vitesse de cuisson",
+		"description": "Vitesse à laquelle cette créature peut cuire ou brasser."
+	},
 	"BuildingSpeed": {
 		"title": "Vitesse de construction",
 		"description": "Vitesse à laquelle cette créature peut construire, réparer ou démolir des choses."

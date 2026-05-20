@@ -13,6 +13,10 @@
 	},
 	"SmallAnimal": {
 		"title": "Peau",
-		"description": "Plutôt épaisse."
+		"description": "Plutôt fragile."
+	},
+	"SmallAnimalFeathered": {
+		"title": "Peau",
+		"description": "Plutôt fragile."
 	}
 }

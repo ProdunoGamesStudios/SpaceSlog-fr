@@ -1,0 +1,26 @@
+﻿{
+	"UraniumAsteroid": {
+		"title": "Astéroïde d'uranium",
+		"description": "Un astéroïde contenant de l'uranium. L'uranium est considéré comme une matière dangereuse à extraire, principalement en raison de ses effets sur la faune locale."
+	},
+	"GoldAsteroid": {
+		"title": "Astéroïde d'or",
+		"description": "Un astéroïde qui contient de l'or."
+	},
+	"TitaniumAsteroid": {
+		"title": "Astéroïde de titanium",
+		"description": "Un astéroïde qui contient du titanium."
+	},
+	"SiliconAsteroid": {
+		"title": "Astéroïde de silicium",
+		"description": "Un astéroïde qui contient du silicium."
+	},
+	"IceAsteroid": {
+		"title": "Astéroïde de glace",
+		"description": "Un astéroïde qui contient de la glace."
+	},
+	"RockAsteroid": {
+		"title": "Astéroïde de roches",
+		"description": "Un astéroïde qui contient des roches."
+	}
+}

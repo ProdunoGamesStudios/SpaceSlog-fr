@@ -87,6 +87,10 @@
 		"title": "Transporter vers préfabriqué",
 		"description": "Transporte {object_a} vers {object_b}."
 	},
+	"HaulToRecipe": {
+		"title": "Retour à la recette",
+		"description": "Transporte {object_a} vers {object_b}."
+	},
 	"Build": {
 		"title": "Construire",
 		"description": "Construit {object_a}."
@@ -139,6 +143,18 @@
 		"title": "Brasser une boisson",
 		"description": "Moissonne {object_a}."
 	},
+	"CookRecipe": {
+		"title": "Recette de cuisine",
+		"description": "En train de cuisiner."
+	},
+	"RefineRecipe": {
+		"title": "Recette de raffinage",
+		"description": "Raffiner."
+	},
+	"CraftRecipe": {
+		"title": "Recette de construction",
+		"description": "En train de construire."
+	},
 	"SitOnCaptainsChair": {
 		"title": "S'asseoir sur le fauteuil du capitaine",
 		"description": "Assis sur mon fauteuil."
@@ -150,5 +166,13 @@
 	"SelfTend": {
 		"title": "Entretien personnel",
 		"description": "S'entretenir avec {object_a}."
+	},
+	"PlanBatchHaulToPrefab": {
+		"title": "Planifier le transport groupé vers le préfabriqué",
+		"description": "Planification des livraisons groupées au préfabriqué."
+	},
+	"HaulToPrefabPreReserved": {
+		"title": "Livrer vers un préfabriqué réservé à l'avance",
+		"description": "Transporte {object_a} vers {object_b}."
 	}
 }

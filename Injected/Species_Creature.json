@@ -1,8 +1,4 @@
 ﻿{
-	"Rat": {
-		"title": "Rat",
-		"description": "Petit rongeur adaptable. On le trouve parfois comme passager clandestin sur les vaisseaux."
-	},
 	"Hen": {
 		"description": "Une poule. Elle peut pondre des œufs si elle a un coq avec lequel s'accoupler, ou être abattue pour sa viande."
 	},

@@ -62,7 +62,7 @@
 		"toggle_headgear": "Basculer armure de tête",
 		"toggle_headgear_on": "Enlever armure de tête",
 		"toggle_headgear_off": "Montrer armure de tête",
-		"randomise_selected_pawn": "Mettre des données aléatoires pour cet agent.",
+		"randomise_selected_pawn": "Mettre des données aléatoires pour cet agent.\n\nNota : Vous ne pouvez pas faire cela pour votre capitaine.",
 		"recruit_pawn": "Recruter cet agent",
 		"max_recruits": "Recrues max",
 
@@ -76,6 +76,8 @@
 		"various_items_selected": "Plusieurs sélectionnés",
 
 		"category": "Catégorie",
+		"input": "Entrée",
+		"output": "Sortie",
 
 		"cargo_space_data": "Volume de chargement.\n\nVolume de chargement utilisé : {space_used}\nVolume de chargement total possible : {space_available}",
 		"hull_total": "État actuel de la coque par rapport au maximum possible.\n\nSanté actuelle de la coque : {current_hp}\nSanté maximale de la coque : {max_hp}",
@@ -414,6 +416,11 @@
 
 		"bribe_successful": "Votre corruption a réussi !",
 		"bribe_unsuccessful": "Votre corruption n'a pas réussi !",
+		"relations_reduced": "Les relations entre les factions {faction_1} et {faction_2} ont été réduites de {amount}.",
+		"relations_increased": "Les relations entre les factions {faction_1} et {faction_2} ont été augmentées de {amount}.",
+		"player_relations_reduced": "Vos relations avec la faction {faction} ont diminué de {amount}.",
+		"player_relations_increased": "Vos relations avec la faction {faction} ont augmenté de {amount}.",
+
 		"ship_cannot_afford_this": "Ce commerçant ne peut pas se permettre d'acheter cela !",
 		"player_not_enough_credits": "Vous n'avez pas assez de pièces pour acheter cela !",
 		"no_credits_no_bribe": "Vous ne pouvez pas vous permettre de faire cela !",

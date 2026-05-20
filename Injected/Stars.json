@@ -1,0 +1,22 @@
+﻿{
+	"YellowDwarf": {
+		"title": "Naine jaune",
+		"description": "Une petite étoile chaude et stable qui émet beaucoup de lumière malgré sa taille modeste."
+	},
+	"WhiteDwarf": {
+		"title": "Naine blanche",
+		"description": "Une étoile très petite mais très dense qui a épuisé la majeure partie de son combustible nucléaire. Ces étoiles sont très chaudes au départ et se refroidissent progressivement."
+	},
+	"RedDwarf": {
+		"title": "Naine rouge",
+		"description": "Une petite étoile froide et très stable. Ces caractéristiques font d'elles les étoiles les plus nombreuses statistiquement dans le Foutoir."
+	},
+	"RedGiant": {
+		"title": "Géante rouge",
+		"description": "Une étoile géante, relativement froide et de faible masse, qui émet beaucoup de lumière. C'est le lieu de formation le plus courant des nébuleuses planétaires. "
+	},
+	"BlueGiant": {
+		"title": "Géante bleue",
+		"description": "Une étoile massive, à la durée de vie courte et extrêmement chaude. Les géantes bleues émettent d'énormes quantités de chaleur et de rayonnement, ce qui rend leur proximité très dangereuse. Cependant, on trouve parfois en orbite autour de ces étoiles des ressources extrêmement rares et précieuses."
+	}
+}

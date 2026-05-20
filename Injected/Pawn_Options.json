@@ -131,6 +131,18 @@
 	"HarvestBrew": {
 		"title": "Brasser la récolte"
 	},
+	"CookRecipe": {
+		"title": "Cuisiner la recette"
+	},
+	"RefineRecipe": {
+		"title": "Améliorer la recette"
+	},
+	"CraftRecipe": {
+		"title": "Fabriquer la recette"
+	},
+	"ButcherAtTable": {
+		"title": "Dépecer à table"
+	},
 	"SitOnCaptainsChair": {
 		"title": "S'asseoir sur le fauteuil du capitaine."
 	},

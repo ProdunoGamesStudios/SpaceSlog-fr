@@ -17,7 +17,7 @@
 	},
 	"AlertLowFood": {
 		"title": "Il reste peu de nourriture",
-		"description": "Vous manquez cruellement de nourriture.\n\nVous pouvez cultiver, découper, échanger ou préparer de la nourriture."
+		"description": "Vous manquez cruellement de nourriture.\n\nVous pouvez cultiver, découper ou échanger de la nourriture."
 	},
 	"AlertLowDrink": {
 		"title": "Il reste peu de boisson",
@@ -46,5 +46,9 @@
 	"AlertBlackAlert": {
 		"title": "Alerte noire activée",
 		"description": "Votre vaisseau est en état d'alerte noire. Cela signifie que votre équipage ne pourra pas quitter le vaisseau.\n\nVous pouvez désactiver l'alerte noire dans le menu des systèmes du vaisseau."
+	},
+	"AlertExtremeShipHeat": {
+		"title": "Chaleur de vaisseau extrême",
+		"description": "Une ou plusieurs de vos pièces sont extrêmement chaudes et pourraient provoquer des incendies.\n\nL'installation de bouches d'aération peut contribuer à faire baisser la température à l'intérieur de votre vaisseau."
 	}
 }

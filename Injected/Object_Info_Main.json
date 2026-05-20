@@ -13,5 +13,23 @@
 	},
 	"Comfort": {
 		"title": "Confort"
+	},
+	"WorkToBuild": {
+		"title": "Travail à fabriquer"
+	},
+	"WorkToMake": {
+		"title": "Travail à faire"
+	},
+	"MovementCost": {
+		"title": "Coût du déplacement"
+	},
+	"Cover": {
+		"title": "Protection de base"
+	},
+	"RestEffectiveness": {
+		"title": "Efficacité de base du repos"
+	},
+	"ProductionModifier": {
+		"title": "Modifieur de production"
 	}
 }

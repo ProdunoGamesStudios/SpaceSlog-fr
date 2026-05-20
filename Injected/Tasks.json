@@ -14,8 +14,11 @@
 	"Drop": {
 		"title": "Larguer"
 	},
-	"DropAtTargetB": {
-		"title": "Larguer"
+	"DropAtRecipe": {
+		"title": "Consulter la recette"
+	},
+	"DropAtPrefab": {
+		"title": "Larguer au préfabriqué"
 	},
 	"ForceDrop": {
 		"title": "Larguer de force"
@@ -113,8 +116,11 @@
 	"HarvestPlant": {
 		"title": "Récolter"
 	},
-	"HarvestBrew": {
-		"title": "Récolter"
+	"DoCooking": {
+		"title": "Recette de raffinage"
+	},
+	"DoCrafting": {
+		"title": "Suivre la recette"
 	},
 	"Water": {
 		"title": "Arroser"
@@ -172,6 +178,9 @@
 	},
 	"FollowAndMoveTo": {
 		"title": "Suivre et se déplacer vers"
+	},
+	"PlanBatchHaulToPrefab": {
+		"title": "Planifier le transport du lot vers le préfabriqué"
 	},
 	"InsertGetMaterials": {
 		"title": "Rassembler du matériel"

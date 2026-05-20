@@ -22,5 +22,13 @@
 	"Aeroponics": {
 		"title": "Serre aéroponique",
 		"description": " Un endroit pour faire pousser des plantes et des légumes. Tout ce qui pousse ici commencera à pourrir si la serre n'est pas alimentée."
+	},
+	"Refinery": {
+		"title": "Raffinerie",
+		"description": "Un lieu où l'on transforme les matières premières en ressources exploitables. Le raffinage est le processus qui consiste à éliminer toutes les impuretés d'un matériau."
+	},
+	"ElectricCooker": {
+		"title": "Cuiseur électrique",
+		"description": "Un endroit où cuisiner les aliments avec de l'électricité."
 	}
 }
