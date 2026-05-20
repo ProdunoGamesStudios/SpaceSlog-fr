@@ -1,7 +1,7 @@
 ﻿{
 	"Engineer" : {
 		"title": "Ingénieur",
-		"description": "{pawn_name} n'avait pas particulièrement envie d'être ingénieur, mais l'occasion de bien gagner sa vie s'est présentée et {pawn_pronoun} l'a saisie."
+		"description": "{pawn_name} n'avait pas particulièrement envie de pratiquer l’ingénierie, mais l'occasion de bien gagner sa vie s'est présentée et {pawn_pronoun} l'a saisie."
 	},
 	"Doctor" : {
 		"title": "Docteur",
@@ -32,7 +32,7 @@
 		"description": "On a plus que jamais besoin de scientifiques, {pawn_name} a su tirer parti de ce besoin et en faire une carrière très rentable."
 	},
 	"Grower" : {
-		"title": "Agriculture",
+		"title": "Agriculteur",
 		"description": "Passer beaucoup de temps avec les plantes et tout ce qui est organique est la passion de {pawn_name} depuis son plus jeune âge."
 	},
 	"Retired" : {
@@ -61,7 +61,7 @@
 	},
 	"Slaver" : {
 		"title": "Esclavagiste",
-		"description": "{pawn_name} parcourt généralement le slog à la recherche de pauvres gens à asservir et à vendre, ou s'empare simplement de ceux qui ont la malchance de se trouver au mauvais endroit au mauvais moment."
+		"description": "{pawn_name} parcourt généralement le Foutoir à la recherche de pauvres gens à asservir et à vendre, ou s'empare simplement de ceux qui ont la malchance de se trouver au mauvais endroit au mauvais moment."
 	},
 	"BountyHunter" : {
 		"title": "Chasseur de primes",
@@ -77,7 +77,7 @@
 	},
 	"Spacefarer" : {
 		"title": "Voyageur de l'espace",
-		"description": "{pawn_name} parcourt le slog. Bien qu'il s'agisse davantage d'un passe-temps que d'un travail, {pawn_name} vous ferait probablement croire le contraire."
+		"description": "{pawn_name} voyage à travers le Foutoir. Bien qu'il s'agisse davantage d'un passe-temps que d'un travail, {pawn_name} vous ferait probablement croire le contraire."
 	},
 	"Planetologist" : {
 		"title": "Planétologue",

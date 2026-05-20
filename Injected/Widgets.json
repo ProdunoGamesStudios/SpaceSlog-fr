@@ -1,22 +1,32 @@
 ﻿{
 	"PowerReceiverSwitch": {
-		"title": "Commutateur de puissance."
+		"title": "Commutateur de puissance.",
+		"pressed_state_text": "Éteint. Il ne sera plus alimenté en électricité.",
+		"depressed_state_text": "Allumé. Il va commencer à être alimenté s'il est branché sur le réseau électrique et si l'alimentation est suffisante."
 	},
 	"PowerSourceSwitch": {
-		"title": "Commutateur de puissance."
+		"title": "Commutateur de puissance.",
+		"pressed_state_text": "Éteint. Il ne sera alors plus alimenté en électricité.",
+		"depressed_state_text": "Allumé. Il commencera alors à alimenter le réseau auquel il est connecté s'il dispose d'une alimentation suffisante."
 	},
 	"AutoRefuel": {
-		"title": "Commutateur de ravitaillement automatique."
+		"title": "Commutateur de ravitaillement automatique.",
+		"pressed_state_text": "Éteint. Votre équipage ne réapprovisionnera plus automatiquement le carburant.",
+		"depressed_state_text": "Allumé. Votre équipe se chargera automatiquement de faire le plein lorsque cela sera nécessaire."
 	},
 	"Cancel": {
 		"title": "Annule plan",
 		"description": "Annule et supprime le plan courant."
 	},
 	"Deconstruct": {
-		"title": "Commutateur de déconstruction."
+		"title": "Commutateur de démantèlement.",
+		"pressed_state_text": "Annuler la désignation pour démantèlement.",
+		"depressed_state_text": "Désigner pour démantèlement."
 	},
 	"Command": {
-		"title": "Commutateur de commande."
+		"title": "Commutateur de commande.",
+		"pressed_state_text": "Cliquez ici pour renvoyer ce membre d'équipage.\nIl reprendra de lui-même ses tâches quotidiennes habituelles.",
+		"depressed_state_text": "Cliquez ici pour donner des ordres à ce membre d'équipage.\nLes membres d'équipage sous vos ordres obéiront à vos instructions, mais n'effectueront pas de leur propre initiative les tâches quotidiennes habituelles."
 	},
 	"DeleteZone": {
 		"title": "Supprime zone.",
@@ -35,16 +45,24 @@
 		"description": "Change la couleur de cette zone."
 	},
 	"ZoneVisibility": {
-		"title": "Visibilité de la zone."
+		"title": "Visibilité de la zone.",
+		"pressed_state_text": "Cliquez ici pour masquer cette zone.",
+		"depressed_state_text": "Cliquez ici pour afficher cette zone."
 	},
 	"Forbid": {
-		"title": "Commutateur d’interaction."
+		"title": "Commutateur d’interaction.",
+		"depressed_state_text": "Votre équipage ne peut pas interagir avec cet élément. Cliquez pour autoriser.",
+		"pressed_state_text": "Votre équipage peut interagir avec cet élément. Cliquez pour l'interdire."
 	},
 	"ForcedMine": {
-		"title": "Commutateur de minage."
+		"title": "Commutateur de minage.",
+		"pressed_state_text": "Annulez la désignation de minage.",
+		"depressed_state_text": "Désignez ceci pour minage."
 	},
 	"ForcedHarvest": {
-		"title": "Force la moisson."
+		"title": "Force la moisson.",
+		"pressed_state_text": "Annuler la récolte forcée.",
+		"depressed_state_text": "Forcez ceci à être récolté."
 	},
 	"ForceShoot": {
 		"title": "Tir forcé.",
@@ -55,9 +73,13 @@
 		"description": "Force les mêlées."
 	},
 	"OperateVent": {
-		"title": "Commutateur actif"
+		"title": "Commutateur actif",
+		"depressed_state_text": "L'air ne passera pas par là. Cliquez pour ouvrir.",
+		"pressed_state_text": "De l'air circule à cet endroit. Cliquez pour fermer."
 	},
 	"Hunt": {
-		"title": "Activer la chasse."
+		"title": "Activer la chasse.",
+		"pressed_state_text": "Annulez la chasse de cette créature.",
+		"depressed_state_text": "Désignez cette créature pour être chassée."
 	}
 }

@@ -4,8 +4,8 @@
 		"description": "Annule tout travail désigné."
 	},
 	"Deconstruct": {
-		"title": "Déconstruire",
-		"description": "Désigner les bâtiments ou les débris à déconstruire."
+		"title": "Démanteler",
+		"description": "Désigner les bâtiments ou les débris à démanteler."
 	},
 	"DoMining": {
 		"title": "Miner.",

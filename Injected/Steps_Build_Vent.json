@@ -1,9 +1,11 @@
 ﻿{
 	"BuildVentStep1": {
 		"title": "Fabriquer un ventilateur",
-		"description": "Maintenant que votre vaisseau dispose d'un système de survie opérationnel, il aura besoin d'un [color=KHAKI]ventilateur d'air[/color] pour évacuer les gaz vers les pièces auxquelles il est relié.\n\nSélectionnez le bouton [color=PURPLE]Ventilateur d'air[/color] mis en surbrillance dans le menu [color=PURPLE]Atmosphère[/color]."
+		"description": "Maintenant que votre vaisseau dispose d'un support de vie opérationnel, il aura besoin d'un [color=KHAKI]ventilateur d'air[/color] pour évacuer les gaz vers les pièces auxquelles il est relié.\n\nSélectionnez le bouton [color=PURPLE]Ventilateur d'air[/color] mis en surbrillance dans le menu [color=PURPLE]Atmosphère[/color].",
+		"step_text_one": "Sélectionnez le bouton Ventilateur d'air"
 	},
 	"BuildVentStep2": {
-		"description": "Placez maintenant cet élément à l'intérieur de votre vaisseau, sur n'importe quelle [color=KHAKI]plaque de pont[/color] disponible.\n\nCela devra être relié à votre [color=KHAKI]système de survie[/color] via des [color=KHAKI]conduits atmosphériques[/color] ; toutefois, si vous les placez l'un à côté de l'autre, ils se connecteront automatiquement."
+		"description": "Placez maintenant cet élément à l'intérieur de votre vaisseau, sur n'importe quelle [color=KHAKI]plaque de pont[/color] disponible.\n\nCela devra être relié à votre [color=KHAKI]système de survie[/color] via des [color=KHAKI]conduits atmosphériques[/color] ; toutefois, si vous les placez l'un à côté de l'autre, ils se connecteront automatiquement.",
+		"step_text_one": "Placez le ventilateur"
 	}
 }

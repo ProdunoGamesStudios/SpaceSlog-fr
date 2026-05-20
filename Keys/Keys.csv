@@ -36,7 +36,7 @@ UI_SELECTED,Sélectionné
 UI_BACKSTORY,Passé
 UI_LAWS,Lois
 UI_CHARACTERISTICS,Caractéristiques
-UI_MEDICAL_CONDITIONS,Conditions médicales
+UI_MEDICAL_CONDITIONS,Pb médicaux
 UI_NONE,Aucun
 UI_VOCATION,Vocation
 UI_PARTY_SKILLS,Compétences de groupe
@@ -235,3 +235,11 @@ UI_RESTORE_DEFAULTS,Rétablir paramètres par défaut
 UI_AWAITING_KEY_PRESS,En attente d'un appui sur une touche...
 UI_SET_NEW_KEYBIND,Définir nouveau raccourci clavier
 UI_CREATE_CAPTAIN,Créer un capitaine
+UI_OPEN_WORKSHOP,Open Steam workshop{***}
+UI_OPEN_MOD_IO,Open Mod.io{***}
+UI_UPLOAD_MOD,Upload mod{***}
+UI_UNSUBSCRIBE,Unsubscribe{***}
+UI_UPLOAD_TO_WORKSHOP,Upload Steam workshop{***}
+UI_UPLOAD_TO_MOD_IO,Upload Mod.io{***}
+UI_REQUEST_CODE,Request code{***}
+UI_EXCHANGE_CODE,Exchange code{***}

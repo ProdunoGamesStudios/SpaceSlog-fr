@@ -1,15 +1,18 @@
 ﻿{
 	"PlaceTempStockpileStep1": {
 		"title": "Stocks",
-		"description": "Mettons l'équipage au travail !\nUn [color=KHAKI]stock temporaire[/color] placé à l'extérieur de votre vaisseau permettra à votre équipage de stocker les matériaux dont il a besoin pour travailler.\n\nCommencez par cliquer sur le bouton [color=PURPLE]Zones[/color] mis en évidence."
+		"description": "Mettons l'équipage au travail !\nUn [color=KHAKI]stock temporaire[/color] placé à l'extérieur de votre vaisseau permettra à votre équipage de stocker les matériaux dont il a besoin pour travailler.\n\nCommencez par cliquer sur le bouton [color=PURPLE]Zones[/color] mis en évidence.",
+		"step_text_one": "Ouvrez le menu Zones"
 	},
 	"PlaceTempStockpileStep2": {
-		"description": "Pour créer un [color=KHAKI]stock temporaire[/color], commencez par sélectionner le bouton [color=PURPLE]Stock temporaire[/color].\n\nEnsuite, [color=LIGHT_GREEN]cliquez et glissez[/color] sur n'importe quel espace vide à l'extérieur, à gauche ou à droite de votre vaisseau, à l'aide de la touche {select}. [color=LIGHT_GREEN]En relâchant le bouton[/color], vous placerez le [color=KHAKI]stock temporaire[/color].\n\nAssurez-vous que votre [color=KHAKI]stock temporaire[/color] couvre au moins 20 cases."
+		"description": "Pour créer un [color=KHAKI]stock temporaire[/color], commencez par sélectionner le bouton [color=PURPLE]Stock temporaire[/color].\n\nEnsuite, [color=LIGHT_GREEN]cliquez-déplacez[/color] sur n'importe quel espace vide à l'extérieur, à gauche ou à droite de votre vaisseau, à l'aide de la touche {select}. [color=LIGHT_GREEN]En relâchant le bouton[/color], vous placerez le [color=KHAKI]stock temporaire[/color].\n\nAssurez-vous que votre [color=KHAKI]stock temporaire[/color] couvre au moins 20 cases."
 	},
 	"PlaceTempStockpileStep3": {
-		"description": "Utilisez {action} si vous n'êtes pas sur un menu, ou {ui_cancel} pour annuler le placement d'un [color=KHAKI]stock temporaire[/color].\nCette commande fonctionne également dans la plupart des menus et lors de la sélection ou du placement d'éléments."
+		"description": "Utilisez {action} si vous n'êtes pas sur un menu, ou {ui_cancel} pour annuler le placement d'un [color=KHAKI]stock temporaire[/color].\nCette commande fonctionne également dans la plupart des menus et lors de la sélection ou du placement d'éléments.",
+		"step_text_one": "Quittez le placement de stock"
 	},
 	"PlaceTempStockpileStep4": {
-		"description": "À terme, vous devrez créer un [color=KHAKI]stock permanent[/color] à l'intérieur de votre vaisseau, car dès que vous quitterez ce secteur, tous les objets se trouvant dans un [color=KHAKI]stock temporaire[/color] seront abandonnés.\n\nVous pouvez également limiter les objets pouvant être stockés dans un [color=KHAKI]stock permanent[/color] en les interdisant dans le menu des stocks sélectionnés. \n\nVous pouvez désormais reprendre le jeu en appuyant soit sur le bouton [color=PURPLE]Jouer[/color] en haut à droite, soit en appuyant sur {speed_paused}. Votre équipage transférera alors les ressources de l'intérieur de votre vaisseau vers le nouveau [color=KHAKI]Stock[/color]."
+		"description": "À terme, vous devrez créer un [color=KHAKI]stock permanent[/color] à l'intérieur de votre vaisseau, car dès que vous quitterez ce secteur, tous les objets se trouvant dans un [color=KHAKI]stock temporaire[/color] seront abandonnés.\n\nVous pouvez également limiter les objets pouvant être stockés dans un [color=KHAKI]stock permanent[/color] en les interdisant dans le menu des stocks sélectionnés. \n\nVous pouvez désormais reprendre le jeu en appuyant soit sur le bouton [color=PURPLE]Jouer[/color] en haut à droite, soit en appuyant sur {speed_paused}. Votre équipage transférera alors les ressources de l'intérieur de votre vaisseau vers le nouveau [color=KHAKI]Stock[/color].",
+		"step_text_one": "Sortez de la pause"
 	}
 }

@@ -1,10 +1,10 @@
 ﻿{
 	"PowerUpStep1": {
 		"title": "Démarrage",
-		"description": "Avec un peu de chance, votre [color=KHAKI]générateur électrique[/color] et votre [color=KHAKI]système de survie[/color] devraient désormais être terminés. n\nSi ce n'est pas le cas, vous pouvez cliquer sur les préfabriqués à l'intérieur de votre vaisseau pour voir quels matériaux sont nécessaires et s'ils sont disponibles ; sinon, désignez davantage de [color=KHAKI]débris de vaisseau[/color] à démanteler.\n\nVous pouvez appuyer sur [color=PURPLE]Continuer[/color] une fois que le résultat vous convient."
+		"description": "Avec un peu de chance, votre [color=KHAKI]générateur électrique[/color] et votre [color=KHAKI]support de vie[/color] devraient désormais être terminés.\n\nSi ce n'est pas le cas, vous pouvez cliquer sur les préfabriqués à l'intérieur de votre vaisseau pour voir quels matériaux sont nécessaires et s'ils sont disponibles. Sinon, désignez davantage de [color=KHAKI]débris de vaisseau[/color] à démanteler.\n\nVous pouvez appuyer sur [color=PURPLE]Continuer[/color] une fois que le résultat vous convient."
 	},
 	"PowerUpStep2": {
 		"title": "Démarrage",
-		"description": "Si vous avez terminé, votre [color=KHAKI]générateur électrique[/color] et votre [color=KHAKI]système de survie[/color] devraient être opérationnels.\n\nS'ils ne se sont pas mis en marche, vérifiez vos connexions et assurez-vous qu'ils disposent de suffisamment de [color=KHAKI]carburant[/color].\n\nVous pouvez cliquer sur [color=PURPLE]Continuer[/color] une fois que tout est en ordre."
+		"description": "Si vous avez terminé, votre [color=KHAKI]générateur électrique[/color] et votre [color=KHAKI]support de vie[/color] devraient être opérationnels.\n\nS'ils ne se sont pas mis en marche, vérifiez vos connexions et assurez-vous qu'ils disposent de suffisamment de [color=KHAKI]carburant[/color].\n\nVous pouvez cliquer sur [color=PURPLE]Continuer[/color] une fois que tout est en ordre."
 	}
 }

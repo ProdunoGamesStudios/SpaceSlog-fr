@@ -1,7 +1,7 @@
 ﻿{
 	"Ducting": {
 		"title": "Conduit atmosphérique",
-		"description": "Conduit conçu pour diriger le mouvement de l'air vers/depuis d'autres composants atmosphériques, tels qu'un ventilateur et un système de survie."
+		"description": "Conduit conçu pour diriger le mouvement de l'air vers/depuis d'autres composants atmosphériques, tels qu'un ventilateur et un support de vie."
 	},
 	"AirVent": {
 		"title": "Ventilateur d'air",

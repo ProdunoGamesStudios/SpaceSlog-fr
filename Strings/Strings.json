@@ -64,6 +64,7 @@
 		"toggle_headgear_off": "Montrer armure de tête",
 		"randomise_selected_pawn": "Mettre des données aléatoires pour cet agent.",
 		"recruit_pawn": "Recruter cet agent",
+		"max_recruits": "Recrues max",
 
 		"scenario_default_description": "Choisissez votre histoire pour continuer...",
 		"select": "Sélectionner",
@@ -74,13 +75,13 @@
 		"ship_arrived": "La vaisseau {ship_name} est maintenant à distance de communication",
 		"various_items_selected": "Plusieurs sélectionnés",
 
-		"category": "Categorie",
+		"category": "Catégorie",
 
 		"cargo_space_data": "Volume de chargement.\n\nVolume de chargement utilisé : {space_used}\nVolume de chargement total possible : {space_available}",
 		"hull_total": "État actuel de la coque par rapport au maximum possible.\n\nSanté actuelle de la coque : {current_hp}\nSanté maximale de la coque : {max_hp}",
 		"power_total": "Puissance utilisée par rapport à la puissance disponible.\n\nPuissance utilisée : {power_used} {unit}\nPuissance disponible : {total_power} {unit}",
 		"stored_power_total": "Puissance stockée par rapport au stockage disponible.\n\nPuissance stockée : {current_stored} {unit}\nStockage disponible : {total_storage} {unit}",
-		"heat_total": "Température la plus élevée actuellement enregistrée sur le navire : {current_temp}.\n\nUne température plus élevée augmente le risque d'incendie.\n\n [color=GRAY]Ceci concerne également les portes.[/color]",
+		"heat_total": "Température la plus élevée actuellement enregistrée sur le navire : {current_temp}.\n\nUne température plus élevée augmente le risque d'incendie.\n\n[color=GRAY]Ceci concerne également les portes.[/color]",
 		"atmosphere_total": "Ensemble de l'air respirable par rapport à la pression interne maximale.",
 		"gas_total": "Quantité de gaz générée par rapport à la quantité totale qu'il est possible de produire.\n\nGaz généré : {gas_used} {unit}\nGaz qu'il est possible de produire : {total_gas} {unit}",
 		"stored_gas_total": "Quantité de gaz stockée par rapport au stockage disponible.\n\nTotal du gaz stocké : {current_stored} {unit}\nStockage total disponible : {total_storage} {unit}",
@@ -90,8 +91,8 @@
 		"en_power_receiver": "La quantité de puissance prélevée sur le réseau par rapport à la quantité nécessaire.",
 		"en_battery": "Quantité de puissance stockée par rapport à la quantité qui peut l'être.",
 		"en_work_to_build": "Quantité de travail restant à faire pour construire cet objet.",
-		"flag_for_deconstruction": "Demande d'annulation de déconstruction.",
-		"flag_for_deconstruction_cancel": "Demande pour que cet objet soit déconstruit.",
+		"flag_for_deconstruction": "Demande d'annulation de démantèlement.",
+		"flag_for_deconstruction_cancel": "Demande pour que cet objet soit démantelé.",
 		"cancel_blueprint": "Annuler ce plan.",
 
 		"first_name": "Prénom",
@@ -344,6 +345,15 @@
 		"mod_game_version": "Pour la version de jeu",
 		"mod_author": "Auteur",
 		"version": "Version %s",
+		"where_to_upload": "Sélectionnez où uploader votre module.",
+		"authentication_required": "Authentification requise...",
+		"enter_email_address": "Veuillez entrer une adresse mail pour recevoir votre code d’authentification.",
+		"enter_valid_email_address": "Veuillez entrer une adresse mail valide.",
+		"enter_authentication_code": "Veuillez saisir le code d'authentification reçu dans votre email.",
+		"sending_security_code": "Code de sécurité en cours d'envoi...",
+		"code_must_be_five_characters": "Le code de sécurité doit faire 5 caractères.",
+		"verifying_code": "Code en cours de vérification...",
+		"authentication_successful": "Authentification réussie !",
 
 		"reducing_mood": "Réduire l'humeur de",
 		"increasing_mood": "Augmenter l'humeur de",
@@ -377,7 +387,7 @@
 		"red_alert_started": "ALERTE ROUGE DÉCLENCHÉE !",
 		"red_alert_finished": "ALERTE ROUGE TERMINÉE !",
 		"nothing_to_cancel": "Il n'y a rien à annuler.",
-		"nothing_to_deconstruct": "Il n'y a rien à déconstruire ici.",
+		"nothing_to_deconstruct": "Il n'y a rien à démanteler ici.",
 		"nothing_selected_to_mine": "Il n'y a rien de sélectionné pour miner.",
 		"nothing_selected_to_harvest": "Rien de ce qui est sélectionné ne peut être moissonné.",
 		"nothing_selected_to_hunt": "Il n'y a rien de sélectionné pour être chassé.",
@@ -458,24 +468,24 @@
 		"female_reflexive": "elle-même",
 		"other_reflexive": "eux-mêmes",
 		"male_object": "le",
-		"female_object": "sa",
+		"female_object": "la",
 		"other_object": "les"
 	},
 
 	"date": {
-		"st": "er",
-		"nd": "ème",
-		"rd": "ème",
-		"th": "ème",
-		"month_1": "premier tiers",
-		"month_2": "deuxième tiers",
-		"month_3": "dernier tiers",
+		"st": " ",
+		"nd": " ",
+		"rd": " ",
+		"th": " ",
+		"month_1": "premier trimestre",
+		"month_2": "trimestre médian",
+		"month_3": "dernier trimestre",
 		"time_display": "Date spatiale :\nHeure : {hours}\nJour : {day}\nMois : {month} ({month_text})\nAnnée : {year}",
 		"seconds": "secondes",
 		"minutes": "minutes",
 		"hours": "heures",
 		"days": "jours",
-		"start_date": "{day} {month} {year}"
+		"start_date": "{day}{month} {year}"
 	},
 
 	"default": {
@@ -484,8 +494,8 @@
 
 	"backstory": {
 		"health_state": "est {health_status}",
-		"joined_crew": "{pawn_name} a rejoint votre équipage le {day} jour du {month} {year}.",
-		"age_gender_and_species_status": "est un {species} du genre {gender} qui a vu le jour le {day} jour du {month} {year}, ce qui lui fait un âge de {age} ans"
+		"joined_crew": "{pawn_name} a rejoint votre équipage le {day}du {month} {year}.",
+		"age_gender_and_species_status": "est un {species} du genre {gender} qui a vu le jour le {day}du {month} {year}, ce qui lui fait un âge de {age} ans"
 	},
 
 	"debug": {
@@ -538,9 +548,9 @@
 
 	"game_speed": {
 		"pause": "Pause",
-		"normal_speed": "Vitesse 1X",
-		"fast_speed": "Vitesse 3X",
-		"faster_speed": "Vitesse 5X"
+		"normal_speed": "Vitesse x1",
+		"fast_speed": "Vitesse x3",
+		"faster_speed": "Vitesse x5"
 	},
 
 	"captain_creation": {
@@ -553,13 +563,13 @@
 		"rough_age": "Votre capitaine est...",
 
 		"childhood": "Enfance",
-		"as_a_child": "Enfant, votre capitaine était très apprécié pour...",
+		"as_a_child": "Enfant, on connaissait votre capitaine pour son...",
 
 		"adolescence": "Adolescence",
 		"growing_up_your_captain": "En grandissant, votre capitaine était surtout…",
 
 		"profession": "Profession",
-		"as_a_professional": "Professionnellement, on connaissait votre capitaine comme étant...",
+		"as_a_professional": "Professionnellement, on connaissait votre capitaine comme...",
 
 		"starts_with": "Commencer avec"
 	}

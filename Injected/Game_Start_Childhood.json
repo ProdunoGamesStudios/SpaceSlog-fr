@@ -1,7 +1,7 @@
 ﻿{
 	"Resourceful": {
 		"title": "Ingéniosité",
-		"description": "Enfant, votre capitaine était débrouillard et extrêmement économe. Comme ses parents étaient pauvres, {pawn_pronoun} n’a jamais eu grand-chose pendant son enfance et n’a donc eu d’autre choix que d’apprendre à se débrouiller avec ce qu’{pawn_pronoun} avait. Rien n’était jamais gaspillé et {pawn_pronoun} trouvait toujours une utilité aux objets que les autres jetaient."
+		"description": "Enfant, votre capitaine était d'une grande débrouillardise et extrêmement économe. Comme ses parents étaient pauvres, {pawn_pronoun} n’a jamais eu grand-chose pendant son enfance et n’a donc eu d’autre choix que d’apprendre à faire avec ce qu’{pawn_pronoun} avait. Rien n’était jamais gaspillé et {pawn_pronoun} trouvait toujours une utilité aux objets que les autres jetaient."
 	},
 	"Wasteful": {
 		"title": "Gaspillage",

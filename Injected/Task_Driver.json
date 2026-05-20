@@ -68,8 +68,8 @@
 		"description": "Enlève tous les objets  de l'inventaire des {object_a}."
 	},
 	"Deconstruct": {
-		"title": "Déconstruire",
-		"description": "Déconstruit {object_a}."
+		"title": "Démanteler",
+		"description": "Démantèle {object_a}."
 	},
 	"Repair": {
 		"title": "Réparer",

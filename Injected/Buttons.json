@@ -1,15 +1,15 @@
 ﻿{
 	"DeconstructFlooringOverlay": {
-		"title": "Déconstruire revêtements de sol",
-		"description": "Indiquer les revêtements de sol comme les tapis devant être déconstruits."
+		"title": "Démanteler revêtements de sol",
+		"description": "Indiquer les revêtements de sol comme les tapis devant être démantelés."
 	},
 	"DeconstructCables": {
-		"title": "Déconstruire câbles",
-		"description": "Indiquer les câbles devant être déconstruits."
+		"title": "Démanteler câbles",
+		"description": "Indiquer les câbles devant être démantelés."
 	},
 	"DeconstructDucting": {
-		"title": "Déconstruire canalisations",
-		"description": "Indiquer les canalisations devant être déconstruites."
+		"title": "Démanteler canalisations",
+		"description": "Indiquer les canalisations devant être démantelés."
 	},
 	"CancelFlooringOverlay": {
 		"title": "Annuler revêtements de sol",

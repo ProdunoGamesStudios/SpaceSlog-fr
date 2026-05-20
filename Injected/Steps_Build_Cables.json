@@ -1,9 +1,11 @@
 ﻿{
 	"CablesStep1": {
 		"title": "Pose de câbles",
-		"description": "Revenez au menu [color=PURPLE]Alimentation[/color] dans le menu [color=PURPLE]Bâtiment[/color]."
+		"description": "Revenez au menu [color=PURPLE]Alimentation[/color] dans le menu [color=PURPLE]Bâtiment[/color].",
+		"step_text_one": "Ouvrez le menu Alimentation"
 	},
 	"CablesStep2": {
-		"description": "Sélectionnez le bouton [color=PURPLE]Câble d'alimentation[/color] mis en surbrillance et placez-le entre deux [color=RED]câbles d'alimentation[/color] [color=KHAKI]rouges[/color]. Vous pouvez cliquer sur [color=PURPLE]Continuer[/color] une fois que le résultat convient."
+		"description": "Sélectionnez le bouton [color=PURPLE]Câble d'alimentation[/color] mis en surbrillance et placez-le entre deux [color=RED]câbles d'alimentation[/color] [color=KHAKI]rouges[/color]. Vous pouvez cliquer sur [color=PURPLE]Continuer[/color] une fois que le résultat convient.",
+		"step_text_one": "Sélectionnez le câble d'alimentation"
 	}
 }

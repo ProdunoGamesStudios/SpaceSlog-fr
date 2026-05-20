@@ -1,6 +1,8 @@
 ﻿{
 	"TimeControlsStep1": {
 		"title": "Contrôle du temps",
-		"description": "Si votre équipe met trop de temps, vous pouvez accélérer le jeu.\n\nPour ce faire, [color=LIGHT_GREEN]cliquez[/color] sur le bouton [color=PURPLE]5x vitesse[/color] mis en évidence ou appuyez sur la touche {speed_fastest}.\n\nAppuyer sur {speed_normal} ou {speed_fast} permet également de modifier la vitesse."
+		"description": "Si votre équipe met trop de temps, vous pouvez accélérer le jeu.\n\nPour ce faire, [color=LIGHT_GREEN]cliquez[/color] sur le bouton [color=PURPLE]5x vitesse[/color] mis en évidence ou appuyez sur la touche {speed_fastest}.\n\nAppuyer sur {speed_normal} ou {speed_fast} permet également de modifier la vitesse.",
+		"description_alt": "Si votre équipage met trop de temps, vous pouvez accélérer le jeu.\n\nPour ce faire, [color=LIGHT_GREEN]cliquez[/color] dès maintenant sur le bouton [color=PURPLE]vitesse x5[/color] mis en évidence.",
+		"step_text_one": "Augmentez la vitesse du jeu"
 	}
 }
