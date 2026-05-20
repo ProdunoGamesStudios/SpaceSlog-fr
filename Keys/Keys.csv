@@ -96,7 +96,6 @@ UI_SELL,Vendre
 UI_PURCHASE,Acheter
 UI_BUY_PRICE,Prix d'achat
 UI_TRADER_STOCK,Stock du vendeur
-UI_TOTAL_TRADE_VALUE,Montant total des échanges :
 UI_TRADE,Commercer
 UI_PLAYER,Joueur
 UI_TRADER,Commerçant
@@ -243,3 +242,4 @@ UI_UPLOAD_TO_WORKSHOP,Charger dans Steam workshop
 UI_UPLOAD_TO_MOD_IO,Charger Mod.io
 UI_REQUEST_CODE,Demander un code
 UI_EXCHANGE_CODE,Échanger un code
+UI_ENABLE_CREW_BAR,Autoriser bar d'équipage

@@ -21,7 +21,7 @@
 	},
 	"Aeroponics": {
 		"title": "Serre aéroponique",
-		"description": " Un endroit pour faire pousser des plantes et des légumes. Tout ce qui pousse ici commencera à pourrir si la serre n'est pas alimentée."
+		"description": "Un espace dédié à la culture de plantes et de légumes. Ce système utilise des techniques de pointe pour optimiser la croissance et produit son propre CO2. Si l'installation n'est pas alimentée, tout ce qui y pousse commencera à pourrir."
 	},
 	"Refinery": {
 		"title": "Raffinerie",

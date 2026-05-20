@@ -17,6 +17,9 @@
 	"WorkToBuild": {
 		"title": "Travail à fabriquer"
 	},
+	"WorkToDeconstruct": {
+		"title": "Travail à démanteler"
+	},
 	"WorkToMake": {
 		"title": "Travail à faire"
 	},
@@ -31,5 +34,11 @@
 	},
 	"ProductionModifier": {
 		"title": "Modifieur de production"
+	},
+	"LeakFactor": {
+		"title": "Facteur de fuite"
+	},
+	"Permeability": {
+		"title": "Perméabilité"
 	}
 }

@@ -50,5 +50,9 @@
 	"AlertExtremeShipHeat": {
 		"title": "Chaleur de vaisseau extrême",
 		"description": "Une ou plusieurs de vos pièces sont extrêmement chaudes et pourraient provoquer des incendies.\n\nL'installation de bouches d'aération peut contribuer à faire baisser la température à l'intérieur de votre vaisseau."
+	},
+	"AlertNoOxygenOnShip": {
+		"title": "Votre vaisseau n'a plus d'oxygène",
+		"description": "Votre vaisseau est complètement à court d'oxygène. Tout être vivant, y compris les plantes et l'équipage, risque de commencer à suffoquer et de mourir.\n\nAssurez-vous de disposer d'une source d'air alimentée et en état de marche, ainsi que de ventilateurs pour fournir de l'oxygène dans vos pièces."
 	}
 }

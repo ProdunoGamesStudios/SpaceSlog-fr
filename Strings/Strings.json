@@ -296,7 +296,9 @@
 		"cannot_bribe_ship": "Vous ne pouvez pas corrompre ce vaisseau.",
 		"already_bribed": "Vous ne pouvez plus corrompre ce vaisseau.",
 		"attempt_to_bribe": "Chaque tentative de corruption vous coûtera {bribe_amount} pièces.",
-		"attempt_to_bribe_facility_name": "Tentative de corruption de {facility_name}"
+		"attempt_to_bribe_facility_name": "Tentative de corruption de {facility_name}",
+		"you_will_pay": "Vous allez payer : {amount}",
+		"you_will_get": "Vous allez obtenir : {amount}"
 	},
 
 	"planet_panel": {
