@@ -146,13 +146,16 @@
 	"HasBreedingPartner": {
 		"title": "A un partenaire de reproduction"
 	},
+	"SomethingToBrew": {
+		"title": "Quelquechose doit être infusé ou brassé"
+	},
 	"SomethingToRefine": {
 		"title": "Quelque chose doit être raffiné"
 	},
 	"SomethingToCook": {
-		"title": "Quelque chose a besoin d'être cuisiné"
+		"title": "Quelque chose doit être cuisiné"
 	},
 	"SomethingToCraft": {
-		"title": "Quelque chose a besoin d'être construit"
+		"title": "Quelque chose dit être construit"
 	}
 }

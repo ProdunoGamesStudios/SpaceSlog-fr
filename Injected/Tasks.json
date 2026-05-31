@@ -45,16 +45,16 @@
 		"title": "Trouver un chemin vers la cible"
 	},
 	"FindPathToTargetB": {
-		"title": "Trouver un chemin vers la cible"
+		"title": "Trouver un chemin vers la cible b"
 	},
-	"FindPathToTargetBFalse": {
-		"title": "Trouver un chemin vers la cible"
+	"FindPathToTargetBNotAdjacent": {
+		"title": "Trouver un chemin vers la cible b non adjacente"
 	},
 	"FindPathToTargetCell": {
 		"title": "Trouver un chemin vers la cellule cible"
 	},
 	"FindPathToTargetCellTrue": {
-		"title": "Trouver un chemin vers la cellule cible"
+		"title": "Trouver un chemin vers la cellule cible vraie"
 	},
 	"FindBestStorageCell": {
 		"title": "Trouver la meilleure cellule de stockage"
@@ -182,10 +182,19 @@
 	"PlanBatchHaulToPrefab": {
 		"title": "Planifier le transport du lot vers le préfabriqué"
 	},
+	"PlanBatchHaulToStockpile": {
+		"title": "Planifier un transport groupé vers le stock"
+	},
+	"PlanBatchSowSeeds": {
+		"title": "Planifier des lots de semis"
+	},
 	"BatchedPickup": {
 		"title": "Définir le prochain enlèvement"
 	},
 	"BatchedHaul": {
 		"title": "Définir le prochain lot"
+	},
+	"BatchedSow": {
+		"title": "Préparer le prochain semis"
 	}
 }

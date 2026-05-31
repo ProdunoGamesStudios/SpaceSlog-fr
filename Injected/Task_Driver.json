@@ -83,10 +83,6 @@
 		"title": "Détruire un bien",
 		"description": "Détruit {object_a}."
 	},
-	"HaulToPrefab": {
-		"title": "Transporter vers préfabriqué",
-		"description": "Transporte {object_a} vers {object_b}."
-	},
 	"HaulToRecipe": {
 		"title": "Retour à la recette",
 		"description": "Transporte {object_a} vers {object_b}."
@@ -120,7 +116,7 @@
 		"description": "Nourrit {object_b} avec {object_a}."
 	},
 	"TendHydrate": {
-		"title": "Guérir un agent",
+		"title": "Guérit un agent",
 		"description": "Réhydrate {object_b} avec {object_a}."
 	},
 	"GetBackToShip": {
@@ -131,7 +127,7 @@
 		"title": "Dépecer",
 		"description": "Dépèce {object_a}."
 	},
-	"SowPlant": {
+	"SowSeeds": {
 		"title": "Semer une plante",
 		"description": "Sème {object_a}."
 	},
@@ -141,15 +137,15 @@
 	},
 	"HarvestBrew": {
 		"title": "Brasser une boisson",
-		"description": "Moissonne {object_a}."
+		"description": "Moissonne à {object_a}."
 	},
 	"CookRecipe": {
 		"title": "Recette de cuisine",
-		"description": "En train de cuisiner."
+		"description": "Cuisine {object_a}."
 	},
 	"RefineRecipe": {
 		"title": "Recette de raffinage",
-		"description": "Raffiner."
+		"description": "Raffine {object_a}."
 	},
 	"CraftRecipe": {
 		"title": "Recette de construction",
@@ -167,12 +163,12 @@
 		"title": "Entretien personnel",
 		"description": "S'entretenir avec {object_a}."
 	},
-	"PlanBatchHaulToPrefab": {
+	"HaulToPrefab": {
 		"title": "Planifier le transport groupé vers le préfabriqué",
-		"description": "Planification des livraisons groupées au préfabriqué."
-	},
-	"HaulToPrefabPreReserved": {
-		"title": "Livrer vers un préfabriqué réservé à l'avance",
 		"description": "Transporte {object_a} vers {object_b}."
+	},
+	"HaulToStockpile": {
+		"title": "Planifier un transport groupé vers le stock",
+		"description": "Transporte {object_a} vers un entrepôt."
 	}
 }

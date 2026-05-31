@@ -1,5 +1,8 @@
 ﻿{
 	"Nutrition": {
 		"title": "Nutrition"
+	},
+	"Hydration": {
+		"title": "Hydratation"
 	}
 }

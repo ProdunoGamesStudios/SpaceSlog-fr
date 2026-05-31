@@ -1,0 +1,10 @@
+﻿{
+	"Amount": {
+		"title": "Quantité",
+		"description": "Faire jusqu'à ce que la quantité demandée ait été atteinte."
+	},
+	"Forever": {
+		"title": "Toujours",
+		"description": "Continuer tant que le matériel nécessaire est disponible."
+	}
+}

@@ -30,6 +30,12 @@
 		"seed_line_edit_hint": "Écrire votre propre graine."
 	},
 
+	"temperature": {
+		"celsius": "Celsius",
+		"fahrenheit": "Fahrenheit",
+		"kelvin": "Kelvin"
+	},
+
 		"error_text_missing": "Texte manquant.",
 		"restart_game_prompt": "Vous devez relancer le jeu pour que les paramètres modifiés puissent être pris en compte.",
 		"game_over_pawns_dead": "Tous vos membres d'équipage sont morts et il n'y a plus personne pour diriger votre vaisseau.\n\nVous pouvez soit choisir de quitter et revenir au menu principal, soit continuer en espérant que quelqu'un sauvera votre vaisseau et vous permettra de continuer.",
@@ -78,6 +84,9 @@
 		"category": "Catégorie",
 		"input": "Entrée",
 		"output": "Sortie",
+
+		"choose_resources_for_production": "Choisissez les ressources pouvant être utilisées pour la production",
+		"change_recipe_priority": "Modifier la priorité de cette recette.\n\nLes recettes déjà en cours seront d'abord terminées, sauf si elles sont annulées.",
 
 		"cargo_space_data": "Volume de chargement.\n\nVolume de chargement utilisé : {space_used}\nVolume de chargement total possible : {space_available}",
 		"hull_total": "État actuel de la coque par rapport au maximum possible.\n\nSanté actuelle de la coque : {current_hp}\nSanté maximale de la coque : {max_hp}",
@@ -238,8 +247,9 @@
 		"no_ingredients": "Ne peut pas être {adjective} : pas d'ingrédients disponibles",
 		"cannot_path_to_ingredient": "Ne peut pas être {adjective} : pas de chemin vers les ingrédients",
 		"brew_not_ready": "Ne peut pas être {adjective} : la préparation n'est pas prête",
-		"no_medical_supplies": "{adjective} impossible : pas d'équipement médical disponible",
-		"cannot_path_to_medical_supplies": "{adjective} impossible : impossible d'accéder aux équipements médicaux",
+		"harvest_not_ready": "Ne peut pas être {adjective} : la récolte n'est pas prête",
+		"no_medical_supplies": "Ne peut pas être {adjective} : pas d'équipement médical disponible",
+		"cannot_path_to_medical_supplies": "Ne peut pas être {adjective} : impossible d'accéder aux équipements médicaux",
 		"unable_to": "Incapable d'être {adjective}",
 		"no_storage_available": "Ne peut pas être {adjective} : pas de stockage disponible",
 		"no_fuel_available": "Ne peut pas être {adjective} : pas de carburant disponible",
@@ -252,7 +262,7 @@
 		"someone_else": "quelqu'un d'autre",
 		"cannot_see": "Ne voit pas comment {adjective}",
 		"no_secure_prison_beds_available": "Pas de places disponibles dans les prisons sécurisées",
-		"no_food_available": "Impossible de {adjective} : pas de nourriture disponible",
+		"no_food_available": "Ne peut pas être {adjective} : pas de nourriture disponible",
 		"cannot_path_to_food": "Impossible de {adjective} : pas de chemin vers de la nourriture",
 		"no_drink_available": "Impossible de {adjective} : pas de boisson disponible",
 		"cannot_path_to_drink": "Impossible de {adjective} : pas de chemin vers des boissons"
@@ -269,7 +279,7 @@
 		"high_burn_meter": "Pour passer en haute combustion, les propulseurs du vaisseau doivent se charger et la cabine du vaisseau doit être pressurisée. Ceci est déterminé par la quantité de propulseurs actuellement alimentés. Quand c'est fait, vous pouvez passer en haute combustion.\n\nCharge actuelle : {current}\nCharge requise : {max}",
 		"ship_communicating_with": "Bâtiment : Le {ship_name}",
 		"pawn_initiated_trade": "{pawn_name} a commencé à commercer avec une compétence sociale de {skill_level}",
-		"the_ship_name": "{ship_name}",
+		"the_ship_name": "Le {ship_name}",
 
 		"no_name_set": "Pas de nom.",
 		"no_description_set": "Pas de description.",
@@ -286,16 +296,16 @@
 
 	"facility_panel": {
 		"faction_info": "{ship_type} de la faction {faction}",
-		"bribe_info": "Ici, vous pouvez tenter de corrompre ce vaisseau. Mais attention, une tentative de corruption ratée peut avoir des conséquences catastrophiques.",
-		"ship_left": "Le vaisseau {ship_name} n'est plus à distance de communication",
+		"bribe_info": "À ce moment vous pouvez tenter de corrompre ce vaisseau. Mais attention, une tentative de corruption ratée peut avoir des conséquences catastrophiques.",
+		"ship_left": "Le vaisseau {ship_name} n'est plus à distance de communication.",
 		"no_trade_low_relation": "Commerce impossible pour cause de relations trop basses.",
-		"no_trade_no_pawn": "Il n'y a personne avec qui initier un commerce.",
-		"no_pawn_no_bribe": "Il n'y a personne à soudoyer.",
+		"no_trade_no_pawn": "Il n'y a personne pour initier un commerce.",
+		"no_pawn_no_bribe": "Il n'y a personne pour amorcer une corruption.",
 		"hint_ship_trading": "Pour commercer, il faut avoir des relations positives, une console de communication et un membre d'équipage pour initier le commerce.",
-		"hint_bribe_ship": "Si ce vaisseau est hostile, les soudoyer peut les forcer à partir.",
+		"hint_bribe_ship": "Si ce vaisseau est hostile, les corrompre peut les forcer à partir.",
 		"cannot_bribe_ship": "Vous ne pouvez pas corrompre ce vaisseau.",
 		"already_bribed": "Vous ne pouvez plus corrompre ce vaisseau.",
-		"attempt_to_bribe": "Chaque tentative de corruption vous coûtera {bribe_amount} pièces.",
+		"attempt_to_bribe": "Cette tentative de corruption vous coûtera {bribe_amount} pièces.",
 		"attempt_to_bribe_facility_name": "Tentative de corruption de {facility_name}",
 		"you_will_pay": "Vous allez payer : {amount}",
 		"you_will_get": "Vous allez obtenir : {amount}"
@@ -319,7 +329,7 @@
 		"door_open": "Ouverte",
 		"door_closing": "Se ferme",
 		"door_closed": "Fermée",
-		"battery_discharge_efficiency": "{efficiency} % Efficacité - décharge de {power_draw} {unit}.",
+		"battery_discharge_efficiency": "{efficiency} % d'efficacité - décharge de {power_draw} {unit}.",
 
 		"kilogram_unit": " kg",
 		"tonne_unit": " t",

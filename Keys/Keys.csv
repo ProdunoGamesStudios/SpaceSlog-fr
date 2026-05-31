@@ -1,4 +1,4 @@
-﻿Keys,fr
+﻿Keys,en
 UI_NOT_IMPLEMENTED,Pas encore implémenté
 UI_NEW_GAME,Nouvelle partie
 UI_LOAD_GAME,Chargement sauvegarde
@@ -243,3 +243,5 @@ UI_UPLOAD_TO_MOD_IO,Charger Mod.io
 UI_REQUEST_CODE,Demander un code
 UI_EXCHANGE_CODE,Échanger un code
 UI_ENABLE_CREW_BAR,Autoriser bar d'équipage
+UI_EDIT,Modifier
+UI_TEMPERATURE_DISPLAY,Affichage température
