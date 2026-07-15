@@ -9,6 +9,10 @@
 	},
 	"BlastDoor": {
 		"title": "Porte de sas",
+		"description": "Une porte manuelle et étanche à l'air. Elle ne laissera pas s'échapper l'atmosphère vers l'espace extérieur."
+	},
+	"AutoBlastDoor": {
+		"title": "Porte de sas",
 		"description": "Une porte automatique motorisée et étanche à l'air qui peut être utilisée sans alimentation électrique, mais dont le fonctionnement sera plus lent. Elle ne laissera pas s'échapper l'atmosphère vers l'espace extérieur."
 	},
 	"ArmouredBlastDoor": {

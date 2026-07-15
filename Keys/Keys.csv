@@ -245,3 +245,5 @@ UI_EXCHANGE_CODE,Échanger un code
 UI_ENABLE_CREW_BAR,Autoriser bar d'équipage
 UI_EDIT,Modifier
 UI_TEMPERATURE_DISPLAY,Affichage température
+UI_SELECTED_PROJECT,Projet sélectionné
+UI_CURRENT_PROJECT,Projet en cours

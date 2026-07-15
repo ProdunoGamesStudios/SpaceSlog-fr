@@ -37,8 +37,8 @@
 		"description": "Agrandit la taille cette zone."
 	},
 	"ReduceZone": {
-		"title": "Réduire zone.",
-		"description": "Réduit la taille de cette zone."
+		"title": "Rétrécir zone.",
+		"description": "Rétrécit la taille de cette zone."
 	},
 	"ChangeColour": {
 		"title": "Changer couleur.",

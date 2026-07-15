@@ -3,6 +3,10 @@
 		"title": "Quantité",
 		"description": "Faire jusqu'à ce que la quantité demandée ait été atteinte."
 	},
+	"Until": {
+		"title": "Jusqu'au bout",
+		"description": "Répétez l'opération jusqu'à ce que le nombre requis d'éléments soit atteint."
+	},
 	"Forever": {
 		"title": "Toujours",
 		"description": "Continuer tant que le matériel nécessaire est disponible."

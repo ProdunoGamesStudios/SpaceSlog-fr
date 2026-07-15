@@ -66,12 +66,25 @@
 		"1x_speed": "Vitesse 1x",
 		"2x_speed": "Vitesse 2x",
 		"5x_speed": "Vitesse 5x",
-		"cycle_pawns_forward": "Défilement pions en avant",
-		"cycle_pawns_backward": "Défilement pions en arrière",
+		"cycle_pawns_forward": "Défilement avant des agents",
+		"cycle_pawns_backward": "Défilement arrière des agents",
 		"rotate_building_left": "Tourner construction vers la gauche",
 		"rotate_building_right": "Tourner construction vers la droite",
 		"action": "Action",
 		"select": "Sélectionner",
-		"cancel": "Annuler"
+		"cancel": "Annuler",
+		"power": "Activer/désactiver l'alimentation",
+		"forbid": "Activation/désactivation interdite",
+		"deconstruct": "Démanteler",
+		"mine": "Mine",
+		"harvest": "Moisson",
+		"hunt": "Chasse",
+		"command": "Commande",
+		"shoot": "Tir",
+		"melee": "Mêlée",
+		"zone_visibility": "Activer/désactiver la visibilité de zone",
+		"expand_zone": "Étendre la zone",
+		"shrink_zone": "Rétrécir la zone",
+		"remove_zone": "Supprimer la zone"
 	}
 }

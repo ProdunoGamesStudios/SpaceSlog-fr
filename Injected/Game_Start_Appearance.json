@@ -1,0 +1,17 @@
+﻿{
+	"BodyTypes": {
+		"title": "Corps"
+	},
+	"HairStyle": {
+		"title": "Cheveux"
+	},
+	"FacialHairStyle": {
+		"title": "Pilosité faciale"
+	},
+	"SkinColour": {
+		"title": "Tonalité de la peau"
+	},
+	"HairColour": {
+		"title": "Couleur des cheveux"
+	}
+}

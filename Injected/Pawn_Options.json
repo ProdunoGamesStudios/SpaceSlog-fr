@@ -59,9 +59,6 @@
 	"HaulToRecipe": {
 		"title": "Transporter vers la recette"
 	},
-	"Research": {
-		"title": "Conduire des recherches"
-	},
 	"FindAtmosphere": {
 		"title": "Trouver une atmosphère sûre"
 	},
@@ -148,5 +145,11 @@
 	},
 	"Breed": {
 		"title": "Reproduire"
+	},
+	"ResearchProject": {
+		"title": "Conduire des recherches"
+	},
+	"ResearchAnalysis": {
+		"title": "Conduire une analyse de recherches"
 	}
 }

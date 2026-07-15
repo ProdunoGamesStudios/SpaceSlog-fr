@@ -15,6 +15,10 @@
 		"title": "Vitesse de cuisson",
 		"description": "Vitesse à laquelle cette créature peut cuire ou brasser."
 	},
+	"ResearchSpeed": {
+		"title": "Vitesse de recherche",
+		"description": "Vitesse à laquelle cette créature peut mener des recherches."
+	},
 	"BuildingSpeed": {
 		"title": "Vitesse de construction",
 		"description": "Vitesse à laquelle cette créature peut construire, réparer ou démolir des choses."

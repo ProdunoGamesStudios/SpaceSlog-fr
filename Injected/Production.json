@@ -30,5 +30,13 @@
 	"ElectricCooker": {
 		"title": "Cuiseur électrique",
 		"description": "Un endroit où cuisiner les aliments avec de l'électricité."
+	},
+	"ResearchStation": {
+		"title": "Station de recherche",
+		"description": "Ici vous pouvez mener des recherches sur les nouvelles technologies et améliorer les capacités de vos vaisseaux."
+	},
+	"ResearchAnalysisBench": {
+		"title": "Banc d'analyse de recherche",
+		"description": "Disséquez, démontez et analysez des objets ici pour mieux comprendre leur structure et leur fonctionnement. Indispensable pour débloquer différents types de projets de recherche."
 	}
 }

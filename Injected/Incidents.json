@@ -34,6 +34,10 @@
 		"title": "Étoile à proximité",
 		"description": "Une étoile a été détectée à proximité."
 	},
+	"PassingStarHot": {
+		"title": "Étoile chaude à proximité",
+		"description": "Une étoile a été détectée à proximité."
+	},
 	"Infestation": {
 		"title": "Invasion"
 	},
@@ -43,7 +47,7 @@
 	},
 	"AbandonedFacility": {
 		"title": "Installation abandonnée",
-		"description": "Une installation a été détectée dans ce secteur. Nous devrions sortir de la vitesse de combustion élevée pour enquêter."
+		"description": "Une installation a été détectée dans ce secteur. Nous devrions sortir de la haute combustion pour enquêter."
 	},
 	"HostileSwarm": {
 		"title": "Essaim hostile",

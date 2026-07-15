@@ -1,7 +1,7 @@
 ﻿{
 	"PlaceTempStockpileStep1": {
 		"title": "Stocks",
-		"description": "Mettons l'équipage au travail !\nUn [color=KHAKI]stock temporaire[/color] placé à l'extérieur de votre vaisseau permettra à votre équipage de stocker les matériaux dont il a besoin pour travailler.\n\nCommencez par cliquer sur le bouton [color=PURPLE]Zones[/color] mis en évidence.",
+		"description": "Mettons l'équipage au travail !\n\nUn [color=KHAKI]stock temporaire[/color] placé à l'extérieur de votre vaisseau permettra à votre équipage de stocker les matériaux dont il a besoin pour travailler.\n\nCommencez par cliquer sur le bouton [color=PURPLE]Zones[/color] mis en évidence.",
 		"step_text_one": "Ouvrez le menu Zones"
 	},
 	"PlaceTempStockpileStep2": {

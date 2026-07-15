@@ -112,11 +112,11 @@
 		"description": "Guérit {object_b} avec {object_a}."
 	},
 	"TendFeed": {
-		"title": "Guérir un agent",
+		"title": "Nourrir un agent",
 		"description": "Nourrit {object_b} avec {object_a}."
 	},
 	"TendHydrate": {
-		"title": "Guérit un agent",
+		"title": "Hydrater un agent",
 		"description": "Réhydrate {object_b} avec {object_a}."
 	},
 	"GetBackToShip": {
@@ -158,6 +158,14 @@
 	"Breed": {
 		"title": "Copuler",
 		"description": "Copuler avec {object_a}."
+	},
+	"ResearchProject": {
+		"title": "Projet de recherche",
+		"description": "Fait des recherches."
+	},
+	"ResearchAnalysis": {
+		"title": "Analyse de recherches",
+		"description": "Fait des analyses."
 	},
 	"SelfTend": {
 		"title": "Entretien personnel",

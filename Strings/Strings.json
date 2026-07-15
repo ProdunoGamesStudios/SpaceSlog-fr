@@ -443,6 +443,20 @@
 		"follow_tutorial": "Veuillez lire et suivre le message actuel du tutoriel."
 	},
 
+	"research": {
+		"start_project": "Commencer le projet",
+		"stop_project": "Arrêter le projet",
+		"project_already_started": "Projet déjà commencé.",
+		"requirements_not_met": "Conditions requises absentes.",
+		"already_completed": "Projet déjà terminé.",
+		"no_project_selected": "Aucun projet ne fait actuellement l'objet de recherches.",
+		"select_a_project": "Sélectionnez un projet dans le tableau pour obtenir plus d'informations à son sujet ici.",
+		"required_research": "Nécessaire :",
+		"required_analysis": "Nécessaire :",
+		"unlocks": "Débloqués :",
+		"project_complete": "{project_name} terminé."
+	},
+
 	"breathability_status": {
 		"excellent": "Excellente",
 		"good": "Bonne",
@@ -577,6 +591,9 @@
 
 		"choose_captain_gender": "Tout vaisseau a besoin d'un capitaine, et vous allez maintenant créer le vôtre. Vous pouvez décider de l'emmener avec vous ou de choisir quelqu'un d'autre.\n\nLe genre de votre capitaine est...",
 		"gender": "Genre",
+
+		"appearance": "Apparence",
+		"captain_appearance": "Votre capitaine ressemble à...",
 
 		"Vitality": "Vitalité",
 		"rough_age": "Votre capitaine est...",

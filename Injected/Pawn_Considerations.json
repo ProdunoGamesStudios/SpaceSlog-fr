@@ -113,15 +113,6 @@
 	"IsNotPlayerEntity": {
 		"title": "Sommes-nous une entité du joueur ?"
 	},
-	"HasAttackTarget": {
-		"title": "Avons-nous une cible à attaquer ?"
-	},
-	"IsHostileEnemyNearby": {
-		"title": "Un ennemi à proximité ?"
-	},
-	"IsNotHostileEnemyNearby": {
-		"title": "Un ennemi à proximité ?"
-	},
 	"SomethingToSow": {
 		"title": "Quelque chose à semer ?"
 	},
@@ -134,17 +125,29 @@
 	"ThingToHunt": {
 		"title": "Y a-t-il quelque chose à chasser ?"
 	},
-	"HasRangedWeapon": {
-		"title": "Avons-nous une arme à distance ?"
+	"CanRestrainTarget": {
+		"title": "Pouvons-nous retenir la cible ?"
 	},
 	"HasCaptainsChair": {
 		"title": "Avons-nous un fauteuil de capitaine ?"
+	},
+	"HasResearchStation": {
+		"title": "Avons-nous une station de recherche ?"
+	},
+	"HasResearchAnalysisBench": {
+		"title": "Disposons-nous d'un banc d'analyse de recherche ?"
 	},
 	"IsShipMoving": {
 		"title": "Le vaisseau se déplace-t-il ?"
 	},
 	"HasBreedingPartner": {
 		"title": "A un partenaire de reproduction"
+	},
+	"HasResearchProject": {
+		"title": "A un projet de recherche"
+	},
+	"HasResearchAnalysis": {
+		"title": "A une analyse de recherche"
 	},
 	"SomethingToBrew": {
 		"title": "Quelquechose doit être infusé ou brassé"

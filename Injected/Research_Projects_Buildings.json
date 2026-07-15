@@ -1,0 +1,130 @@
+﻿{
+	"CarpetManufacturing": {
+		"title": "Fabrication de tapis",
+		"description": "Apprendre les techniques telles que le tissage, nécessaires à la fabrication des tapis."
+	},
+	"BasicFurniture": {
+		"title": "Mobilier de base",
+		"description": "Concevoir les plans nécessaires à la fabrication de meubles simples."
+	},
+	"Concrete": {
+		"title": "Béton",
+		"description": "Apprendre les techniques telles que le malaxage et le durcissement, nécessaires à la fabrication du béton."
+	},
+	"BasicAgriculture": {
+		"title": "Agriculture de base",
+		"description": "Acquérir des connaissances de base sur les principes et les pratiques agricoles."
+	},
+	"Electrical": {
+		"title": "Électicité",
+		"description": "Acquérir des connaissances de base sur les principes et les pratiques en matière d'électricité."
+	},
+	"FluidDynamics": {
+		"title": "Dynamique des fluides",
+		"description": "Étudier les principes fondamentaux de la dynamique des fluides et leur mise en pratique."
+	},
+	"ComplexFurniture": {
+		"title": "Mobilier complexe",
+		"description": "Acquérir les compétences nécessaires pour concevoir et fabriquer des meubles plus complexes."
+	},
+	"Aeroponics": {
+		"title": "Aéroponie",
+		"description": "Apprendre comment cultiver des plantes grâce aux techniques d'aéroponie."
+	},
+	"Communications": {
+		"title": "Communications",
+		"description": "Apprendre à fabriquer des appareils de communication."
+	},
+	"Television": {
+		"title": "Affichages haute résolution",
+		"description": "Apprendre et mettre au point de nouvelles techniques de fabrication d'écrans haute résolution."
+	},
+	"AutomaticPoweredDoors": {
+		"title": "Portes automatiques motorisées",
+		"description": "Apprendre à fabriquer les solénoïdes, les glissières de porte et les capteurs robustes indispensables au fonctionnement des portes automatiques."
+	},
+	"BasicThrusterTechnology": {
+		"title": "Technologie de base des propulseurs",
+		"description": "Apprendre et mettre au point de nouvelles techniques de fabrication de petits propulseurs."
+	},
+	"Battery": {
+		"title": "Batteries",
+		"description": "Mener des recherches sur la fabrication de batteries permettant de stocker de l'énergie."
+	},
+	"AdvancedResearch": {
+		"title": "Recherche avancée",
+		"description": "Réfléchir à de nouvelles façons de mener des recherches novatrices et de pointe."
+	},
+	"LifeSupport": {
+		"title": "Support des fonctions vitales de base",
+		"description": "Concevoir de nouveaux plans pour fabriquer des systèmes de maintien des fonctions vitales de base afin d'assurer la survie de l'équipage."
+	},
+	"GasTank": {
+		"title": "Réservoir de carburant",
+		"description": "Concevoir de nouveaux plans pour la fabrication de réservoirs de carburant."
+	},
+	"MedicalBed": {
+		"title": "Lit médicalisé",
+		"description": "Apprendre à fabriquer des lits médicaux dotés de fonctionnalités thérapeutiques avancées."
+	},
+	"HardwoodFlooring": {
+		"title": "Parquet en bois massif",
+		"description": "Apprendre les techniques nécessaires à la fabrication de parquets en bois massif."
+	},
+	"CaptainChair": {
+		"title": "Fauteuil de capitaine",
+		"description": "Apprendre et mettre au point de nouvelles techniques pour fabriquer le fauteuil du capitaine."
+	},
+	"ArcadeMachine": {
+		"title": "Machine d'arcade",
+		"description": "Concevoir les plans nécessaires à la fabrication de bornes d'arcade destinées au divertissement."
+	},
+	"ImprovedThrusterTechnology": {
+		"title": "Technologie améliorée des propulseurs",
+		"description": "Concevoir les plans nécessaires à la fabrication de propulseurs de taille moyenne."
+	},
+	"ResearchAnalysis": {
+		"title": "Analyse de recherches",
+		"description": "Concevoir et mettre au point des méthodes et des équipements permettant de réaliser des dissections et de la rétro-ingénierie."
+	},
+	"AdvancedControlSystems": {
+		"title": "Systèmes de contrôle avancés",
+		"description": "Mettre au point des techniques de pointe afin d'assurer un approvisionnement en électricité plus efficace."
+	},
+	"SolarPower": {
+		"title": "Énergie solaire",
+		"description": "Rechercher les moyens qui nous permettraient d'exploiter l'énergie solaire pour produire de l'électricité."
+	},
+	"ImprovedMachinery": {
+		"title": "Machines améliorées",
+		"description": "Améliorer les techniques de construction afin de pouvoir fabriquer des machines plus grandes."
+	},
+	"AdvancedFluidDynamics": {
+		"title": "Support de vie avancé",
+		"description": "Concevoir de nouveaux plans pour la fabrication de systèmes de support de vie avancés."
+	},
+	"HeavyDutyDoors": {
+		"title": "Portes résistantes",
+		"description": "Apprendre les techniques de fabrication afin de mettre au point des machines et des composants de pointe permettant non seulement de faire fonctionner des portes lourdes de manière sûre et efficace, mais aussi de leur permettre de résister à des dommages importants."
+	},
+	"AdvancedThrusterTechnology": {
+		"title": "Technologie de propulsion de pointe",
+		"description": "Rechercher les technologies nécessaires à la construction de propulseurs bien plus grands et plus puissants."
+	},
+	"FuelRefining": {
+		"title": "Raffinage des carburants",
+		"description": "Concevoir les plans nécessaires à la construction d'équipements de raffinage destinés à la fabrication de piles à combustible à partir d'uranium."
+	},
+	"LargeHeatVent": {
+		"title": "Grande bouche d'aération",
+		"description": "Concevoir de nouveaux plans pour la fabrication de grandes bouches d'aération."
+	},
+	"LargeOxygenGenerator": {
+		"title": "Grand générateur d'oxygène",
+		"description": "Concevoir de nouveaux plans pour la fabrication de grands générateurs d'oxygène."
+	},
+	"Cryogenics": {
+		"title": "Cryogénie",
+		"description": "Mener des recherches sur les technologies cryogéniques visant à préserver les formes de vie biologiques."
+	}
+}

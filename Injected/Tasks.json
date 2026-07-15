@@ -41,20 +41,23 @@
 	"Drink": {
 		"title": "Boire"
 	},
+	"FindPathToAdjacentTarget": {
+		"title": "Trouver le chemin vers la cible adjacente"
+	},
 	"FindPathToTarget": {
 		"title": "Trouver un chemin vers la cible"
 	},
-	"FindPathToTargetB": {
-		"title": "Trouver un chemin vers la cible b"
+	"FindPathToAdjacentTargetB": {
+		"title": "Trouver le chemin vers la cible adjacente b"
 	},
-	"FindPathToTargetBNotAdjacent": {
+	"FindPathToTargetB": {
 		"title": "Trouver un chemin vers la cible b non adjacente"
 	},
 	"FindPathToTargetCell": {
 		"title": "Trouver un chemin vers la cellule cible"
 	},
-	"FindPathToTargetCellTrue": {
-		"title": "Trouver un chemin vers la cellule cible vraie"
+	"FindPathToAdjacentTargetCell": {
+		"title": "Trouver le chemin vers la cellule cible adjacente"
 	},
 	"FindBestStorageCell": {
 		"title": "Trouver la meilleure cellule de stockage"
@@ -110,7 +113,7 @@
 	"Chat": {
 		"title": "Papoter"
 	},
-	"SowAtTargetB": {
+	"SowAtTargetCell": {
 		"title": "Semer"
 	},
 	"HarvestPlant": {
@@ -178,6 +181,12 @@
 	},
 	"FollowAndMoveTo": {
 		"title": "Suivre et se déplacer vers"
+	},
+	"DoResearch": {
+		"title": "Faire des recherches"
+	},
+	"DoAnalysis": {
+		"title": "Faire des analyses"
 	},
 	"PlanBatchHaulToPrefab": {
 		"title": "Planifier le transport du lot vers le préfabriqué"

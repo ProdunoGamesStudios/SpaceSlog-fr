@@ -8,11 +8,11 @@
 		"description": "{subject_name} a trouvé la mort {reason}"
 	},
 	"Collapsed": {
-		"title": "{subject_name} a besoin d'un sauvetage.",
+		"title": "{subject_name} a besoin d'un sauvetage",
 		"description": "{subject_name} s'est effondré {reason} et a besoin d'un sauvetage."
 	},
 	"Mobile": {
-		"title": "{subject_name} est mobile.",
+		"title": "{subject_name} est mobile",
 		"description": "{subject_name} peut à nouveau se déplacer."
 	},
 	"Fire": {
@@ -20,11 +20,15 @@
 		"description": "Un incendie s'est déclaré !"
 	},
 	"ShipAttacked": {
-		"title": "Vaisseau attaqué.",
+		"title": "Vaisseau attaqué",
 		"description": "Votre vaisseau est attaqué !"
 	},
 	"PawnAttacked": {
-		"title": "Attaque contre {subject_name}.",
+		"title": "Attaque contre {subject_name}",
 		"description": "{subject_name} subit une attaque !"
+	},
+	"AnalysisComplete": {
+		"title": "Analyse terminée",
+		"description": "Fin de {subject_name} !\n\n{analysis_description}"
 	}
 }

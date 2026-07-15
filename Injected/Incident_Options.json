@@ -26,6 +26,9 @@
 	"PassingStar": {
 		"title": "Étoile à proximité"
 	},
+	"PassingStarHot": {
+		"title": "Étoile à proximité (chaude)"
+	},
 	"Infestation": {
 		"title": "Invasion"
 	},

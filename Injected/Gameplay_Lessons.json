@@ -1,8 +1,4 @@
 ﻿{
-	"HighBurn": {
-		"title": "Explorer l'univers",
-		"description": "Pour explorer, vous devrez passer en mode [color=KHAKI]haute combustion[/color]. Il s'agit d'une manœuvre à forte accélération qui propulsera votre vaisseau vers l'avant.\n\nVous pouvez y parvenir en activant vos [color=KHAKI]propulseurs[/color] et en attendant que l'indicateur[color=PURPLE]TAUX COMBUSTION[/color] (situé dans le menu des [color=PURPLE]Systèmes du vaisseau[/color]) se remplisse.\n\nUne fois le compteur plein, vous pouvez appuyer sur le bouton [color=PURPLE]Combustion[/color] situé à côté de [color=KHAKI]TAUX DE COMBUSTION[/color].\n\nN'oubliez pas que plus votre vaisseau est lourd, plus il faudra de temps pour faire monter le [color=PURPLE]TAUX DE COMBUSTION[/color], ce qui vous obligera à installer davantage de [color=KHAKI]propulseurs[/color]."
-	},
 	"Rooms": {
 		"title": "Pièces",
 		"description": "Sélectionnez une pièce en [color=LIGHT_GREEN]double-cliquant[/color] ou  en faisant {alternate_select} + {select} sur n'importe quelle tuile de sol à l'intérieur de celle-ci.\n\nUne fois sélectionnée, un menu apparaîtra dans lequel vous pourrez modifier le nom de la pièce et consulter diverses informations la concernant.\n\nC'est dans ce menu que vous pouvez également définir le type de chambre. Cette information sera nécessaire pour attribuer des chambres spécifiques à votre équipage, ainsi que pour diverses autres fonctions."
