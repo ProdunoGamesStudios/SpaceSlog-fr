@@ -188,7 +188,7 @@
 	"DoAnalysis": {
 		"title": "Faire des analyses"
 	},
-	"PlanBatchHaulToPrefab": {
+	"PlanBatchHaulToBlueprint": {
 		"title": "Planifier le transport du lot vers le préfabriqué"
 	},
 	"PlanBatchHaulToStockpile": {
