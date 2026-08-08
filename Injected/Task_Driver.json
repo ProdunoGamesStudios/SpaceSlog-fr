@@ -171,7 +171,7 @@
 		"title": "Entretien personnel",
 		"description": "S'entretenir avec {object_a}."
 	},
-	"HaulToPrefab": {
+	"HaulToBlueprint": {
 		"title": "Planifier le transport groupé vers le préfabriqué",
 		"description": "Transporte {object_a} vers {object_b}."
 	},

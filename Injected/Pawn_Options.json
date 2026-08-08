@@ -53,7 +53,7 @@
 	"HaulObstruction": {
 		"title": "Déplacer un obstacle"
 	},
-	"HaulToPrefab": {
+	"HaulToBlueprint": {
 		"title": "Transporter vers le chantier"
 	},
 	"HaulToRecipe": {

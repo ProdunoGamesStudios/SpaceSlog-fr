@@ -17,7 +17,7 @@
 	"DropAtRecipe": {
 		"title": "Consulter la recette"
 	},
-	"DropAtPrefab": {
+	"DropAtBlueprint": {
 		"title": "Larguer au préfabriqué"
 	},
 	"ForceDrop": {
