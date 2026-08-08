@@ -1,4 +1,4 @@
-﻿Keys,fr
+﻿Keys,中文
 UI_NOT_IMPLEMENTED,Pas encore implémenté
 UI_NEW_GAME,Nouvelle partie
 UI_LOAD_GAME,Chargement sauvegarde
@@ -13,6 +13,8 @@ UI_CREATIVE_MODE,Construction libre
 UI_GAME_VERSION,Pour version de jeu
 UI_AUTHOR,Auteur
 UI_NEWS,Nouvelles
+UI_WELCOME_TO_SPACESLOG,Bienvenue dans SpaceSlog
+UI_THANKS_FOR_PLAYING,Merci d'avoir joué à SpaceSlog !
 UI_TWITTER,Twitter (X)
 UI_YOUTUBE,YouTube
 UI_DISCORD,Discord
@@ -48,7 +50,7 @@ UI_SHOW_NAME_LABEL,Montrer les noms sous les personnages
 UI_SHOW_FPS,Montrer les FPS
 UI_SHOW_CUSTOM_MOUSE,Montrer le curseur alternatif
 UI_ENABLE_MOUSE_SCROLL,Activer le scrolling de souris
-UI_DEV_MODE,Activer le mode développeur
+UI_DEV_MODE,Activer le mode développeur [color=RED](désactive les succès)[/color]
 UI_GENERAL,Général
 UI_CONTROLS,Contrôles
 UI_RESOLUTION,Résolution
@@ -208,6 +210,7 @@ UI_RECIPE,Recette
 UI_GAME_STATS,Statistiques de jeu
 UI_EXIT_SURVEY,Quitter la surveillance
 UI_WISHLIST,LISTE DE SOUHAITS !
+UI_BUY_FULL_VERSION,Acheter la version complète
 UI_GAMETYPE,Type de jeu
 UI_HARMONY,Harmonie
 UI_RANDOM,Au hasard

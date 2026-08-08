@@ -83,17 +83,13 @@
 		"title": "Technologie améliorée des propulseurs",
 		"description": "Concevoir les plans nécessaires à la fabrication de propulseurs de taille moyenne."
 	},
-	"ResearchAnalysis": {
-		"title": "Analyse de recherches",
-		"description": "Concevoir et mettre au point des méthodes et des équipements permettant de réaliser des dissections et de la rétro-ingénierie."
-	},
 	"AdvancedControlSystems": {
 		"title": "Systèmes de contrôle avancés",
 		"description": "Mettre au point des techniques de pointe afin d'assurer un approvisionnement en électricité plus efficace."
 	},
 	"SolarPower": {
 		"title": "Énergie solaire",
-		"description": "Rechercher les moyens qui nous permettraient d'exploiter l'énergie solaire pour produire de l'électricité."
+		"description": "Rechercher des moyens permettant d'exploiter l'énergie de la lumière des étoiles pour produire de l'électricité."
 	},
 	"ImprovedMachinery": {
 		"title": "Machines améliorées",
@@ -122,9 +118,5 @@
 	"LargeOxygenGenerator": {
 		"title": "Grand générateur d'oxygène",
 		"description": "Concevoir de nouveaux plans pour la fabrication de grands générateurs d'oxygène."
-	},
-	"Cryogenics": {
-		"title": "Cryogénie",
-		"description": "Mener des recherches sur les technologies cryogéniques visant à préserver les formes de vie biologiques."
 	}
 }

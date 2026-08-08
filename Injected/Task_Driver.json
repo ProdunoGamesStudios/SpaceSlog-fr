@@ -171,12 +171,24 @@
 		"title": "Entretien personnel",
 		"description": "S'entretenir avec {object_a}."
 	},
-	"HaulToBlueprint": {
+	"HaulToPrefab": {
 		"title": "Planifier le transport groupé vers le préfabriqué",
 		"description": "Transporte {object_a} vers {object_b}."
 	},
 	"HaulToStockpile": {
 		"title": "Planifier un transport groupé vers le stock",
 		"description": "Transporte {object_a} vers un entrepôt."
+	},
+	"EnterCasket": {
+		"title": "Mettre dans le pod cryogénique",
+		"description": "Entre {object_a}."
+	},
+	"TakeToCasket": {
+		"title": "Mettre dans le pod cryogénique",
+		"description": "Met {object_b} dans {object_a}."
+	},
+	"OpenCasket": {
+		"title": "Ouvrir le pod cryogénique",
+		"description": "Ouvre {object_a}."
 	}
 }

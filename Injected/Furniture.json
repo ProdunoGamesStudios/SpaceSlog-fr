@@ -29,7 +29,7 @@
 	},
 	"CryoPod": {
 		"title": "Capsule cryogénique",
-		"description": "Gèle par cryonisation les créatures, les empêchant de vieillir tant que cet objet a de l'énergie."
+		"description": "Congèle et met en suspension cryogénique les créatures, empêchant ainsi le vieillissement biologique. Il utilise sa propre source d'alimentation intégrée."
 	},
 	"SmallTable": {
 		"title": "Petite table",

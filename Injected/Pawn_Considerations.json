@@ -17,7 +17,7 @@
 	"Fallback": {
 		"title": "Solution de repli"
 	},
-	"HasBlueprint": {
+	"HasPrefab": {
 		"title": "Quelque chose doit être construit"
 	},
 	"HasRepairable": {
@@ -35,7 +35,7 @@
 	"ThingToCombine": {
 		"title": "Quelque chose doit être combiné"
 	},
-	"NeedsMatsBlueprint": {
+	"NeedsMatsPrefab": {
 		"title": "A les matériaux"
 	},
 	"NeedsMatsRecipe": {
@@ -104,7 +104,7 @@
 	"AnimalNeedsHydrating": {
 		"title": "Un animal a besoin de s'hydrater"
 	},
-	"BlueprintObstruction": {
+	"PrefabObstruction": {
 		"title": "Un obstacle doit être déplacé"
 	},
 	"Aggroed": {

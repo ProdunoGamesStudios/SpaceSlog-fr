@@ -53,7 +53,7 @@
 	"HaulObstruction": {
 		"title": "Déplacer un obstacle"
 	},
-	"HaulToBlueprint": {
+	"HaulToPrefab": {
 		"title": "Transporter vers le chantier"
 	},
 	"HaulToRecipe": {
@@ -151,5 +151,14 @@
 	},
 	"ResearchAnalysis": {
 		"title": "Conduire une analyse de recherches"
+	},
+	"EnterCasket": {
+		"title": "Entrer dans le cercueil"
+	},
+	"TakeToCasket": {
+		"title": "Emmener au cercueil"
+	},
+	"OpenCasket": {
+		"title": "Ouvrir le cercueil"
 	}
 }
