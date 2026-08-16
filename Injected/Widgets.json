@@ -23,6 +23,10 @@
 		"pressed_state_text": "Annuler la désignation pour démantèlement.",
 		"depressed_state_text": "Désigner pour démantèlement."
 	},
+	"Reinstall": {
+		"title": "Reinstaller.",
+		"description": "Désignez cet élément comme devant être réinstallé à un autre endroit."
+	},
 	"Command": {
 		"title": "Commutateur de commande.",
 		"pressed_state_text": "Cliquez ici pour renvoyer ce membre d'équipage.\nIl reprendra de lui-même ses tâches quotidiennes habituelles.",

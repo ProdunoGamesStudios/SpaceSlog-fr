@@ -100,11 +100,11 @@
 		"description": "Se repose."
 	},
 	"UseEntertainment": {
-		"title": "Jouer à une machine d'arcade",
+		"title": "Utiliser les divertissements",
 		"description": "Joue avec {object_a}."
 	},
 	"SitAtChair": {
-		"title": "S'asseoir.",
+		"title": "S'asseoir",
 		"description": "S'asseoir."
 	},
 	"TendHeal": {
@@ -157,7 +157,7 @@
 	},
 	"Breed": {
 		"title": "Copuler",
-		"description": "Copuler avec {object_a}."
+		"description": "Copule avec {object_a}."
 	},
 	"ResearchProject": {
 		"title": "Projet de recherche",
@@ -169,10 +169,10 @@
 	},
 	"SelfTend": {
 		"title": "Entretien personnel",
-		"description": "S'entretenir avec {object_a}."
+		"description": "S'entretient avec {object_a}."
 	},
 	"HaulToBlueprint": {
-		"title": "Planifier le transport groupé vers le préfabriqué",
+		"title": "Planifier le transport par lots selon le plan",
 		"description": "Transporte {object_a} vers {object_b}."
 	},
 	"HaulToStockpile": {
@@ -180,12 +180,12 @@
 		"description": "Transporte {object_a} vers un entrepôt."
 	},
 	"EnterCasket": {
-		"title": "Mettre dans le pod cryogénique",
-		"description": "Entre {object_a}."
+		"title": "Entrer dans le pod cryogénique",
+		"description": "Entre dans {object_a}."
 	},
 	"TakeToCasket": {
-		"title": "Mettre dans le pod cryogénique",
-		"description": "Met {object_b} dans {object_a}."
+		"title": "Emmener vers le pod cryogénique",
+		"description": "Emmène {object_b} vers {object_a}."
 	},
 	"OpenCasket": {
 		"title": "Ouvrir le pod cryogénique",

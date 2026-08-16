@@ -35,6 +35,9 @@
 	"MayDayPawn": {
 		"title": "Secours d'agent"
 	},
+	"CrewRescue": {
+		"title": "Sauvetage d'équipage"
+	},
 	"AbandonedFacility": {
 		"title": "Installation abandonnée"
 	},

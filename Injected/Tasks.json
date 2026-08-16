@@ -18,7 +18,7 @@
 		"title": "Consulter la recette"
 	},
 	"DropAtBlueprint": {
-		"title": "Larguer au préfabriqué"
+		"title": "Consulter le plan"
 	},
 	"ForceDrop": {
 		"title": "Larguer de force"
@@ -189,16 +189,16 @@
 		"title": "Faire des analyses"
 	},
 	"EnterCasket": {
-		"title": "Entrer dans le cercueil"
+		"title": "Entrer dans le conteneur"
 	},
 	"DropIntoCasket": {
-		"title": "Emmener au cercueil"
+		"title": "Emmener au conteneur"
 	},
 	"OpenCasket": {
-		"title": "Ouvrir le cercueil"
+		"title": "Ouvrir le conteneur"
 	},
-	"PlanBatchHaulToPrefab": {
-		"title": "Planifier le transport du lot vers le préfabriqué"
+	"PlanBatchHaulToBlueprint": {
+		"title": "Planifier le transport par lots conformément au plan"
 	},
 	"PlanBatchHaulToStockpile": {
 		"title": "Planifier un transport groupé vers le stock"

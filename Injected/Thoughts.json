@@ -147,6 +147,14 @@
 		"title": "Pas d'intimité",
 		"description": "Je n'ai pas d'espace personnel qui me soit attribué."
 	},
+	"FilthyShip":  {
+		"title": "Filthy ship{***}",
+		"description": "Ce bateau est sale et dégoûtant."
+	},
+	"CleanShip":  {
+		"title": "Propre, ce vaisseau",
+		"description": "C'est agréable d'être sur un vaisseau aussi propre."
+	},
 	"Unwell": {
 		"title": "Sous la vague",
 		"description": "Oh, je me sens si mal."
@@ -162,14 +170,6 @@
 	"Spacious":  {
 		"title": "Spacieux",
 		"description": "Il y a beaucoup de place ici pour nous tous."
-	},
-	"CleanShip":  {
-		"title": "Propre, ce vaisseau",
-		"description": "C'est agréable d'être sur un vaisseau aussi propre."
-	},
-	"DirtyShip":  {
-		"title": "Sale, ce vaisseau",
-		"description": "Ce bateau est sale et dégoûtant."
 	},
 	"DeadBodyNearby":  {
 		"title": "Cadavre à proximité",

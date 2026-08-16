@@ -69,7 +69,7 @@
 	},
 	"OffworldDetective" : {
 		"title": "Détective",
-		"description": "{pawn_name} a grandi sur les vaisseaux de la colonie après avoir perdu ses parents très tôt. Essayer de survivre sans être adulte signifiait avoir beaucoup d'ennuis. C'est ce qui lui a fait comprendre qu'il valait mieux « être la botte que recevoir la botte »."
+		"description": "{pawn_name} a grandi sur les vaisseaux de la colonie après avoir perdu ses parents très tôt. Essayer de survivre sans être adulte signifiait avoir beaucoup d'ennuis. C'est ce qui lui a fait décider qu'il vaut mieux « être la botte que recevoir la botte »."
 	},
 	"PlanetDrifter" : {
 		"title": "Vadrouilleur de planètes",

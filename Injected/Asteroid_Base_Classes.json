@@ -22,5 +22,9 @@
 	"RockAsteroid": {
 		"title": "Astéroïde de roches",
 		"description": "Un astéroïde qui contient des roches."
+	},
+	"CarbonaceousAsteroid": {
+		"title": "Astéroïde carboné",
+		"description": "Contient des matières carbonées."
 	}
 }

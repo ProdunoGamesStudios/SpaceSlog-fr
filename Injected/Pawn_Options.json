@@ -153,12 +153,12 @@
 		"title": "Conduire une analyse de recherches"
 	},
 	"EnterCasket": {
-		"title": "Entrer dans le cercueil"
+		"title": "Entrer dans le conteneur"
 	},
 	"TakeToCasket": {
-		"title": "Emmener au cercueil"
+		"title": "Emmener au conteneur"
 	},
 	"OpenCasket": {
-		"title": "Ouvrir le cercueil"
+		"title": "Ouvrir le conteneur"
 	}
 }

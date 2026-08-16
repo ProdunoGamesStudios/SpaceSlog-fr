@@ -104,7 +104,7 @@
 	"AnimalNeedsHydrating": {
 		"title": "Un animal a besoin de s'hydrater"
 	},
-	"BlueprintObstruction": {
+	"BlueprintHasObstruction": {
 		"title": "Un obstacle doit être déplacé"
 	},
 	"Aggroed": {

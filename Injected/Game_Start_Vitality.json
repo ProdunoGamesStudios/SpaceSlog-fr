@@ -11,7 +11,7 @@
 	},
 	"OldAge": {
 		"title": "Âgé.",
-		"description": "Votre capitaine est d'un âge avancé et possède la sagesse de son âge. Cependant, qui dit âge dit inévitablement courbatures, et {pawn_name} en souffre autant que n'importe qui d'autre. Il faut toutefois lui rendre hommage pour avoir vécu jusqu'à cet âge en des temps si difficiles.\n\nAvec l'âge, {pawn_name} a acquis de nombreuses compétences et une grande expérience, mais ses capacités physiques et cardiovasculaires ont diminué, ce qui a affaibli son système immunitaire et augmente la sensibilté aux maladies et aux blessures.",
+		"description": "Votre capitaine est d'un âge avancé et possède la sagesse de son âge. Cependant, qui dit âge dit inévitablement courbatures, et {pawn_name} en souffre autant que n'importe qui d'autre. Il faut toutefois lui rendre hommage pour avoir vécu jusqu'à cet âge en des temps si difficiles.\n\nAvec l'âge, {pawn_name} a acquis de nombreuses compétences et une grande expérience, mais ses capacités physiques et cardiovasculaires ont diminué, ce qui a affaibli son système immunitaire, augmentant ainsi sa sensibilté aux maladies et aux blessures.",
 		"info_text": "Commence avec davantage de points de compétence, mais peut être plus sujet aux maladies et aux blessures. Se déplace beaucoup plus lentement."
 	}
 }

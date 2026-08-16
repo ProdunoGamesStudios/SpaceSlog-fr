@@ -1,6 +1,10 @@
 ﻿{
 	"FuelCell": {
 		"title": "Cellule de carburant",
-		"description": "Raffiner de l'uranium pour en faire une cellule de carburant."
+		"description": "Transformer les matières carbonées en une pile à combustible."
+	},
+	"DepletedUranium": {
+		"title": "Uranium appauvri",
+		"description": "Transformer l'uranium en uranium appauvri."
 	}
 }

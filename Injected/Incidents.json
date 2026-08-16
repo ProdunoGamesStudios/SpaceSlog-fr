@@ -53,6 +53,10 @@
 		"title": "Essaim hostile",
 		"description": "L'essaim hostile de {pawns} a maintenant pénétré dans ce secteur."
 	},
+	"CrewRescue": {
+		"title": "Sauvetage d'un équipier",
+		"description": "Vous êtes maintenant trop loin pour arrêter et sauver {pawn}."
+	},
 	"TransportShipAssault": {
 		"title": "Assaut"
 	}

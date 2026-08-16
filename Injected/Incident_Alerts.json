@@ -13,7 +13,11 @@
 	},
 	"MayDayPawn": {
 		"title": "SOS !",
-		"description": "Un signal de détresse a été reçu via votre console de communication. La personne éméttrice, qui se présente sous le nom de {pawn}, signale avoir été laissée pour compte et abandonnée par son équipage. Elle demande à être secourue immédiatement.\n\nVous pouvez choisir de sortir de votre trajectoire à grande vitesse pour lui porter secours, ou ignorer le signal mais dans ce cas cela entraînera presque certainement sa mort."
+		"description": "Un signal de détresse a été reçu via votre console de communication. La personne éméttrice, qui se présente sous le nom de {pawn}, signale avoir été laissée pour compte et abandonnée par son équipage. Elle demande à être secourue immédiatement.\n\nVous pouvez choisir de sortir de votre phase de haute combustion pour lui porter secours, ou ignorer le signal mais dans ce cas cela entraînera presque certainement sa mort."
+	},
+	"CrewRescue": {
+		"title": "Sauvetage d'équipage !",
+		"description": "Un signal de détresse a été reçu via votre console de communication. L'expéditeur, qui se présente sous le nom de {pawn}, signale que son petit vaisseau a subi de lourds dégâts infligés par des ennemis locaux et demande à être secouru immédiatement.\n\nVous pouvez choisir de sortir de votre phase de haute combustion pour lui porter secours, ou ignorer le signal mais dans ce cas cela entraînera presque certainement sa mort."
 	},
 	"HostileSwarm": {
 		"title": "Essaim hostile",

@@ -35,6 +35,10 @@
 		"title": "Communications",
 		"description": "Apprendre à fabriquer des appareils de communication."
 	},
+	"ElectricCooker": {
+		"title": "Cuiseur électrique",
+		"description": "Développer un cuiseur électrique pour cuire de la nourriture."
+	},
 	"Television": {
 		"title": "Affichages haute résolution",
 		"description": "Apprendre et mettre au point de nouvelles techniques de fabrication d'écrans haute résolution."
@@ -107,9 +111,9 @@
 		"title": "Technologie de propulsion de pointe",
 		"description": "Rechercher les technologies nécessaires à la construction de propulseurs bien plus grands et plus puissants."
 	},
-	"FuelRefining": {
-		"title": "Raffinage des carburants",
-		"description": "Concevoir les plans nécessaires à la construction d'équipements de raffinage destinés à la fabrication de piles à combustible à partir d'uranium."
+	"Refining": {
+		"title": "Rafinage",
+		"description": "Concevoir les plans nécessaires à la construction d'équipements de raffinage."
 	},
 	"LargeHeatVent": {
 		"title": "Grande bouche d'aération",

@@ -9,11 +9,19 @@
 	},
 	"FuelCell": {
 		"title": "Pile à combustible",
-		"description": "Contient du plutonium. Assure la stabilité du plutonium jusqu'à ce qu'il soit nécessaire de l'utiliser."
+		"description": "Contient du deutérium liquéfié. Assure la stabilité du deutérium liquéfié jusqu'à ce qu'il soit nécessaire de l'utiliser."
 	},
 	"Uranium": {
 		"title": "Uranium",
-		"description": "Un matériau extrêmement dense qui peut être enrichi pour obtenir du plutonium, puis stocké dans des assemblages combustibles."
+		"description": "Un matériau extrêmement dense pouvant être transformé en uranium appauvri."
+	},
+	"DepletedUranium": {
+		"title": "Uranium appauvri",
+		"description": "Un matériau raffiné et extrêmement dense, principalement utilisé pour la fabrication des projectiles pour canon électromagnétique."
+	},
+	"Carbonaceous": {
+		"title": "Carboné",
+		"description": "Un matériau riche en carbone que l'on trouve couramment dans les astéroïdes."
 	},
 	"Titanium": {
 		"title": "Titane",
