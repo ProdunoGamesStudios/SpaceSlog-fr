@@ -12,7 +12,6 @@ UI_CONFIRM,Confirmer
 UI_CREATIVE_MODE,Construction libre
 UI_GAME_VERSION,Pour version de jeu
 UI_AUTHOR,Auteur
-UI_NEWS,Nouvelles
 UI_WELCOME_TO_SPACESLOG,Bienvenue dans SpaceSlog
 UI_THANKS_FOR_PLAYING,Merci d'avoir joué à SpaceSlog !
 UI_TWITTER,Twitter (X)
@@ -21,7 +20,6 @@ UI_DISCORD,Discord
 UI_WIKI,Wiki
 UI_MUSIC,Musique
 UI_FORUMS,Forums
-UI_CHOOSE_STORY,Choisissez votre histoire
 UI_WORLD_SEED,Graine du monde
 UI_SKIP_STORY,Passer le texte sur l'histoire
 UI_DIFFICULTY,Difficulté
@@ -42,9 +40,7 @@ UI_MEDICAL_CONDITIONS,Pb médicaux
 UI_NONE,Aucun
 UI_VOCATION,Vocation
 UI_PARTY_SKILLS,Compétences de groupe
-UI_HEADGEAR,Armure de tête
 UI_RANDOMISE,Au hasard
-UI_OPTIONS#2,Options
 UI_PAUSE_ON_ALERT,Pause sur alerte
 UI_SHOW_NAME_LABEL,Montrer les noms sous les personnages
 UI_SHOW_FPS,Montrer les FPS
@@ -87,7 +83,6 @@ UI_CONTINUE,Continuer
 UI_SAVE_LOAD,Menu Sauv./Charg.
 UI_EXIT,Quitter la partie
 UI_EXIT_TO_OS,Quitter le jeu
-UI_CONTINUE#2,Continuer
 UI_GAME_OVER,Terminer
 UI_CARGO_CAPACITY,Capacité de transport
 UI_MONEY,Crédits
@@ -98,7 +93,6 @@ UI_SELL,Vendre
 UI_PURCHASE,Acheter
 UI_BUY_PRICE,Prix d'achat
 UI_TRADER_STOCK,Stock du vendeur
-UI_TRADE,Commercer
 UI_PLAYER,Joueur
 UI_TRADER,Commerçant
 UI_RESET,Réinitialiser
@@ -115,12 +109,9 @@ UI_REMOVE,Enlever
 UI_HOTKEY,Touche
 UI_HEALTH,Santé
 UI_NO_MATS_REQ,Aucun matériel requis
-HINT_ROTATE_LEFT,Tourner à gauche
-HINT_ROTATE_RIGHT,Tourner à gauche
 UI_QUARTERMASTER,Quartier-maître
 UI_CAPTAIN,Capitaine
 UI_REG_SHIP_NAME,Nom enregistré
-UI_SYS_MONITOR,Moniteur système
 UI_ALERT,Alerte
 UI_CARGO,Cargaison
 UI_POWER_OUTPUT,Puissance de sortie
@@ -140,10 +131,6 @@ UI_AUTO_SAVE,Autoriser les sauvegardes automatiques
 UI_HELP,Aide
 UI_GITHUB,Github
 UI_MAX_HP,Hit Points max
-UI_DETERIORATION,Taux de détérioration
-UI_FLAMMABILITY,Inflammabilité
-UI_MARKET_VALUE,Valeur de marché
-UI_PRICE_MULTIPLIER,Multiplicateur de prix
 UI_MASS,Masse 
 UI_COMFORT,Confort
 DEFAULT_NO_NAME,Pas de nom
@@ -162,8 +149,6 @@ UI_INFO,Info
 UI_AGE,Âge
 UI_GENDER,Genre
 UI_DIET,Régime alimentaire
-UI_HEALTH_CONDITIONS,Conditions
-UI_INJURIES,Blessures
 UI_HYDRATION,Hydratation
 UI_ENERGY,Énergie
 UI_FULLNESS,Satiété
@@ -195,10 +180,9 @@ UI_EQUIPMENT,Équipement
 UI_CHOOSE_EMBLEM,Choisir une emblème
 UI_PICK_A_COLOUR,Choisir une couleur
 UI_RECORDS,Enregistrements
-UI_TRADE#2,Commercer
+UI_TRADE,Commercer
 UI_BRIBE,Soudoyer
 UI_NEGOTIATE,Négocier
-UI_COMMUNICATE,Ouvrir les communications
 UI_BRIBE_TO_LEAVE,Pot-de-vin pour partir
 UI_BRIBE_THEM_TO_TRADE,Pot-de-vin pour commercer
 UI_JOBS_PRIORITY_EXPLANATION,Un petit score signifie une priorité haute.
@@ -216,7 +200,6 @@ UI_HARMONY,Harmonie
 UI_RANDOM,Au hasard
 UI_DAYS_PASSED,Jours passés
 UI_TOTAL_WEALTH,Richesse totale
-UI_STARTING_CREW,Équipage de départ :
 UI_SELECT_FACTIONS,Choisir les factions :
 UI_BURN_METER,Taux combustion
 UI_LEADER,Dirigeant
