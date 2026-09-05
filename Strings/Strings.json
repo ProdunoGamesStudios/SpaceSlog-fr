@@ -249,7 +249,10 @@
 		"no_food_available": "Impossible de {action} : pas de nourriture disponible",
 		"cannot_path_to_food": "Impossible de {action} : pas de chemin vers de la nourriture",
 		"no_drink_available": "Impossible de {action} : pas de boisson disponible",
-		"cannot_path_to_drink": "Impossible de {action} : pas de chemin vers des boissons"
+		"cannot_path_to_drink": "Impossible de {action} : pas de chemin vers des boissons",
+		"cannot_path_in_high_burn": "Impossible de {action}: haute combustion active",
+		"cannot_path_black_alert": "Impossible de {action}: Alerte noire en cours",
+		"cannot_path_cannot_breath_here": "Impossible de {action}: on ne peut pas respirer ici"
 	},
 
 		"systems_alarm_button": "Sonner l'alarme. Alerte rouge !",
@@ -514,8 +517,7 @@
 		"empty": "Vide",
 		"min_add": "Ajouter 0.1",
 		"remove_item": "Supprimer l'objet",
-		"remove_all_items": "Supprimer tous les objets",
-		"auto_build": "Construction automatique"
+		"remove_all_items": "Supprimer tous les objets"
 	},
 
 	"state_text": {
@@ -546,6 +548,7 @@
 	"combat": {
 		"pawn_damaged_pawn": "{victim_part} de {pawn} {damaged} avec leur {part}",
 		"pawn_missed_pawn": "A essayé de frapper {victim_part} de {pawn} avec leur {part}",
+		"body_part_damaged_by": "{part} a été {damaged} par {entity}",
 		"is_mobile": "est mobile",
 		"collapsed_reason": "A perdu connaissance {reason}",
 		"died_reason": "Mort {reason}"

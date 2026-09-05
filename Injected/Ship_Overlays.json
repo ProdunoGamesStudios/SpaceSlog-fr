@@ -18,5 +18,9 @@
 	"ConnectedStructures": {
 		"title": "Connexions",
 		"description": "Les structures reliées au vaisseau. Tout élément non relié au vaisseau sera abandonné lors du passage en mode haute combustion."
+	},
+	"ShipDamage": {
+		"title": "Dégâts du vaisseau",
+		"description": "État des dommages structurels du vaisseau."
 	}
 }

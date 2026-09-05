@@ -52,5 +52,14 @@
 	},
 	"None": {
 		"title": "Aucun"
+	},
+	"HighDamage": {
+		"title": "Gravement endommagé"
+	},
+	"LowDamage": {
+		"title": "Endommagé"
+	},
+	"NoDamage": {
+		"title": "Aucun dommage"
 	}
 }

@@ -1,8 +1,8 @@
 ﻿{
 	"Hen": {
-		"description": "Une poule. Elle peut pondre des œufs si elle a un coq avec lequel s'accoupler, ou être abattue pour sa viande."
+		"description": "Une poule. Elle peut pondre des œufs si elle a un coq avec lequel s'accoupler, ou être dépecée pour sa viande une fois abattue."
 	},
 	"Rooster": {
-		"description": "Un coq. Il peut s'accoupler avec des poules pour féconder leurs œufs, ou être abattu pour sa viande."
+		"description": "Un coq. Il peut s'accoupler avec des poules pour féconder leurs œufs, ou être dépecé pour sa viande une fois abattu."
 	}
 }

@@ -21,11 +21,11 @@
 	},
 	"GrowingFoodStep1":{
 		"title": "Cultiver des aliments",
-		"description": "Si vous disposez des bonnes [color=KHAKI]graines[/color] (disponibles à l'achat sur un vaisseau), vous pouvez cultiver de la nourriture dans un [color=KHAKI]système aéroponique[/color]. Vous devez vous assurer que la pièce dans laquelle vous cultivez dispose de suffisamment d'oxygène, et le [color=KHAKI]système aéroponique[/color] doit être alimenté et ne pas être interdit.\n\nUne fois la culture arrivée à maturité, l'un des membres de votre [color=KHAKI]équipage[/color] la récoltera.\n\nPlus la culture est en bonne santé, plus le rendement sera élevé, y compris les graines récupérées."
+		"description": "Si vous disposez des bonnes [color=KHAKI]graines[/color] (disponibles à l'achat sur un vaisseau de passage), vous pouvez cultiver de la nourriture dans un [color=KHAKI]système aéroponique[/color]. Vous devez vous assurer que la pièce dans laquelle vous cultivez dispose de suffisamment d'oxygène, et le [color=KHAKI]système aéroponique[/color] doit être alimenté et ne pas être interdit.\n\nUne fois la culture arrivée à maturité, l'un des membres de votre [color=KHAKI]équipage[/color] la récoltera.\n\nPlus la culture est en bonne santé, plus le rendement sera élevé, y compris les graines récupérées."
 	},
 	"CombatStep1":{
 		"title": "Combat",
-		"description": "Votre équipage risque de se retrouver dans de nombreuses situations de combat. La plupart du temps, vous devrez vous assurer que votre équipage est sous vos ordres afin de pouvoir leur donner des ordres de combat."
+		"description": "Si un ennemi a déjà été provoqué, vous pouvez sélectionner un membre d'équipage et faire un clic droit sur l'ennemi pour qu'il l'attaque automatiquement. Sinon, vous devrez donner un ordre à votre membre d'équipage et soit choisir l'option d'attaque forcée dans le menu des membres d'équipage, soit faire un clic droit sur l'ennemi pour afficher le menu contextuel."
 	},
 	"SpaceSuits":{
 		"title": "Combinaisons EVA",
