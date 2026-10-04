@@ -38,8 +38,11 @@
 	"CrewRescue": {
 		"title": "Sauvetage d'équipage"
 	},
-	"AbandonedFacility": {
-		"title": "Installation abandonnée"
+	"AbandonedShip": {
+		"title": "Vaisseau abandonné"
+	},
+	"DerelictStation": {
+		"title": "Station abandonnée"
 	},
 	"HostileSwarm": {
 		"title": "Essaim hostile"

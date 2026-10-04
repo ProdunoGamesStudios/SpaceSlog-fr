@@ -226,12 +226,14 @@
 		"not_enough_room": "Pas assez de place pour {action}",
 		"reserved_by_someone_else": "Impossible de {action} : réservé par {someone_else}",
 		"not_assigned_work_type": "Impossible de {action} : pas d'assignation à ce genre de travail",
+		"incapable_work_type": "Impossible de {action} : type de travail non pris en charge.",
 		"incapable_skills": "Impossible de {action} : compétences non adéquates",
 		"skills_too_low": "Impossible de {action} : les compétences sont insuffisantes",
 		"no_ingredients": "Impossible de {action} : pas d'ingrédients disponibles",
 		"cannot_path_to_ingredient": "Impossible de {action} : pas de chemin vers les ingrédients",
 		"brew_not_ready": "Impossible de {action} : la préparation n'est pas prête",
 		"harvest_not_ready": "Impossible de {action} : la récolte n'est pas prête",
+		"no_hunting_weapon": "Impossible de {action} : non équippé d'une arme de chasse",
 		"no_medical_supplies": "Impossible de {action} : pas d'équipement médical disponible",
 		"cannot_path_to_medical_supplies": "Impossible de {action} : impossible d'accéder aux équipements médicaux",
 		"unable_to": "Imcapable de {action}",
@@ -308,6 +310,11 @@
 		"level": "Niveau de compétence",
 		"total_experience": "Expérience totale",
 		"experience_next_level": "Expérience pour prochain niveau",
+		"naturally_talented": "Talent inné :",
+		"learning_speed": "Vitesse d'apprentissage : {value}",
+		"disables_skills": "Désactiver les compétences",
+		"required_skills": "Compétences demandées",
+		"incapable_of_work_type": "Incapable de faire ce travail",
 
 		"disable_flooring_button": "Permet de sélectionner un revêtement de sol.",
 		"click_to_center": "Cliquer ici pour sauter sur le sujet.",
@@ -344,8 +351,11 @@
 		"mission": "Mission",
 
 		"mod_game_version": "Pour la version de jeu",
+		"module_version": "Version du module",
 		"mod_author": "Auteur",
 		"version": "Version %s",
+		"early_access": "Accès anticipé",
+		"demo": "Démo",
 		"where_to_upload": "Sélectionnez où uploader votre module.",
 		"authentication_required": "Authentification requise...",
 		"enter_email_address": "Veuillez entrer une adresse mail pour recevoir votre code d’authentification.",
@@ -587,6 +597,9 @@
 
 		"profession": "Profession",
 		"as_a_professional": "Professionnellement, on connaissait votre capitaine comme...",
+
+		"natural_talent": "Talent inné",
+		"is_naturally_talented": "Votre capitaine a un talent inné pour...",
 
 		"starts_with": "Commencer avec"
 	}

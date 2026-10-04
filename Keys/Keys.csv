@@ -47,6 +47,7 @@ UI_SHOW_FPS,Montrer les FPS
 UI_SHOW_CUSTOM_MOUSE,Montrer le curseur alternatif
 UI_ENABLE_MOUSE_SCROLL,Activer le scrolling de souris
 UI_DEV_MODE,Activer le mode développeur [color=RED](désactive les succès)[/color]
+UI_RUN_IN_BACKGROUND,Exécuter le jeu en arrière-plan
 UI_GENERAL,Général
 UI_CONTROLS,Contrôles
 UI_RESOLUTION,Résolution

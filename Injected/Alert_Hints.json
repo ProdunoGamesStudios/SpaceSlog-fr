@@ -33,7 +33,7 @@
 	},
 	"AlertBreach": {
 		"title": "Navire percé !",
-		"description": "Une ou plusieurs salles de votre vaisseau ont une brèche. L'atmosphère de ces salles va désormais s'échapper dans l'espace !\n\nColmatez la brèche avec une structure de vaisseau afin de limiter toute perte atmosphérique supplémentaire.\n\nL'absence d'atmosphère peut entraîner l'asphyxie de votre équipage et la mort de toute flore."
+		"description": "Une ou plusieurs salles de votre vaisseau ont une brèche. L'atmosphère de ces salles va désormais s'échapper dans l'espace !\n\nColmatez la brèche avec une structure de vaisseau afin de limiter toute perte atmosphérique supplémentaire. Certaines brèches ne peuvent pas être colmatées durant la haute combustion.\n\nL'absence d'atmosphère peut entraîner l'asphyxie de votre équipage et la mort de toute flore."
 	},
 	"AlertIdleCrew": {
 		"title": "Équipage inactif",

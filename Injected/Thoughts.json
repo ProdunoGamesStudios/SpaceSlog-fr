@@ -144,11 +144,11 @@
 		"description": "Sauvetage réussi ! Quel soulagement, j'ai de la chance d'être en vie."
 	},
 	"NoPrivacy":  {
-		"title": "Pas d'intimité",
+		"title": "Pas d'espace personnel dans les quartiers",
 		"description": "Je n'ai pas d'espace personnel qui me soit attribué."
 	},
 	"FilthyShip":  {
-		"title": "Filthy ship{***}",
+		"title": "Vaisseau crasseux",
 		"description": "Ce bateau est sale et dégoûtant."
 	},
 	"CleanShip":  {

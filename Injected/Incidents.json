@@ -46,7 +46,11 @@
 		"description": "Vous êtes maintenant trop loin pour vous arrêter et sauver {pawn}."
 	},
 	"AbandonedFacility": {
-		"title": "Installation abandonnée",
+		"title": "Vaisseau abandonné",
+		"description": "Un vaisseau a été détecté dans ce secteur. Nous devrions sortir de la haute combustion pour enquêter."
+	},
+	"DerelictStation": {
+		"title": "Station abandonnée",
 		"description": "Une installation a été détectée dans ce secteur. Nous devrions sortir de la haute combustion pour enquêter."
 	},
 	"HostileSwarm": {

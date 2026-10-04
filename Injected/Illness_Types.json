@@ -19,7 +19,7 @@
 	},
 	"Asphyxiation": {
 		"title": "Asphyxie",
-		"description": "La mort survient très rapidement en cas d'étouffement dû à l'absence d'oxygène dans le sang."
+		"description": "Suffocation due à un manque d'oxygène dans le sang."
 	},
 	"Malnutrition": {
 		"title": "Malnutrition",
@@ -76,7 +76,37 @@
 	},
 	"Dementia": {
 		"title": "Démence",
-		"description": "Manifestation de la perte des facultés mentales.",
+		"description": "Un déclin progressif de la mémoire et des fonctions cérébrales normales. Principalement dû au vieillissement.",
+		"stages": {
+			"Mild": {
+				"title": "Légère"
+			},
+			"Moderate": {
+				"title": "Modérée"
+			},
+			"Severe": {
+				"title": "Sévère"
+			}
+		}
+	},
+	"Arthritis": {
+		"title": "Arthrite",
+		"description": "Gonflement et raideur d'une articulation. Ces symptômes apparaissent plus fréquemment avec l'âge.",
+		"stages": {
+			"Mild": {
+				"title": "Légère"
+			},
+			"Moderate": {
+				"title": "Modérée"
+			},
+			"Severe": {
+				"title": "Sévère"
+			}
+		}
+	},
+	"Sarcopenia": {
+		"title": "Sarcopénie",
+		"description": "Perte de masse musculaire et faiblesse, principalement liées à l'âge.",
 		"stages": {
 			"Mild": {
 				"title": "Légère"

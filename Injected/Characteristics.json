@@ -15,9 +15,21 @@
 		"title": "Bisexuel",
 		"description": "Les hommes et les femmes attirent tout autant {pawn_name}."
 	},
+	"Asexual" : {
+		"title": "Asexuel",
+		"description": "{pawn_name} n'a pas d'attraction sexuelle envers quiconque."
+	},
 	"Murderous" : {
 		"title": "Sanguinaire",
 		"description": "Il se sait que {pawn_name} a tué d'autres personnes en certaines occasions."
+	},
+	"Benevolent" : {
+		"title": "Bienveillant",
+		"description": "{pawn_name} ne prendra jamais les armes contre qui que ce soit et ne fera jamais de mal à personne."
+	},
+	"Malevolent" : {
+		"title": "Malveillant",
+		"description": "{pawn_name} prend un réel plaisir à voir les autres souffrir et n'hésite pas à tout mettre en œuvre pour leur infliger cette souffrance."
 	},
 	"Ugly": {
 		"title": "Moche",

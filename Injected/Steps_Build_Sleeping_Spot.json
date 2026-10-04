@@ -1,0 +1,18 @@
+﻿{
+	"PlaceSleepingSpotStep1": {
+		"title": "Construire un endroit où dormir",
+		"description": "Votre équipage aura besoin de dormir, et il se reposera bien mieux s'il dispose d'un endroit où dormir.\n\n[color=LIGHT_GREEN]Cliquez[/color] sur le bouton [color=PURPLE]Construction[/color] mis en surbrillance ou appuyez sur {building_menu} pour ouvrir le menu [color=PURPLE]Construction[/color].",
+		"step_text_one": "Ouvrez le menu Construction"
+	},
+	"PlaceSleepingSpotStep2": {
+		"description": "Sélectionnez maintenant le bouton [color=PURPLE]Mobilier[/color] mis en surbrillance dans le menu [color=PURPLE]Construction[/color].",
+		"step_text_one": "Appuyez sur le bouton Mobilier"
+	},
+	"PlaceSleepingSpotStep3": {
+		"description": "Pour l'instant, nous allons leur fournir un simple endroit où dormir, car cela ne nécessite aucun matériel.\n\nSélectionnez le bouton [color=PURPLE]Lieu de couchage[/color] mis en surbrillance.",
+		"step_text_one": "Sélectionnez Lieu de couchage"
+	},
+	"PlaceSleepingSpotStep4": {
+		"description": "Placez maintenant suffisamment de [color=KHAKI]lieux de couchage[/color] pour que chaque membre d'équipage ait un endroit où dormir. Ceux-ci doivent être disposés à l'intérieur de votre vaisseau, sur n'importe quel espace libre au sol."
+	}
+}

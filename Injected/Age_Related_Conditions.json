@@ -1,5 +1,11 @@
 ﻿{
 	"AgeDementia": {
 		"description": "{pawn_name} a développé une forme de démence."
+	},
+	"AgeArthritis": {
+		"description": "{pawn_name} souffre d'arthrite."
+	},
+	"AgeSarcopenia": {
+		"description": "{pawn_name} souffre de sarcopénie."
 	}
 }

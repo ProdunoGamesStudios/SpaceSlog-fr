@@ -2,16 +2,16 @@
 	"YoungAge": {
 		"title": "Jeune",
 		"description": "Votre capitaine est jeune, avec beaucoup d'entrain, et possède sans doute encore une certaine naïveté. Encore un peu novice, les événements pourraient parfois dépasser ses capacités.\n\nSa jeunesse signifie qu'{pawn_pronoun} n'a pas encore acquis toutes les compétences qu'{pawn_pronoun} aurait pu acquérir. Mais cela signifie aussi qu'{pawn_pronoun} est généralement en meilleure forme et en meilleure santé, avec un système immunitaire encore solide et résistant, ce qui réduit le risque qu'{pawn_pronoun} tombe malade ou se blesse.",
-		"info_text": "Commence avec moins de points de compétence, mais est beaucoup moins sujet aux maladies et aux blessures. Se déplace généralement plus vite."
+		"info_text": "Commence avec moins d'expérience, mais est beaucoup moins sujet aux maladies et aux blessures. Se déplace généralement plus vite."
 	},
 	"MiddleAge": {
 		"title": "D'âge mûr",
-		"description": "Votre capitaine est d'âge mûr, avec de l'expérience et une compétence certaine. Ayant passé beaucoup de temps aux commandes, {pawn_pronoun} peut gérer la plupart des situations.\n\nLe fait d'être d'âge mûr lui confère un équilibre entre ses compétences et ses capacités physiques. Actuellement {pawn_name} est globalement en bonne santé, mais peut commencer à ressentir un peu plus les effets du vieillissement, comme une légère augmentation de la vulnérabilité aux maladies et aux blessures.",
-		"info_text": "Commence avec un nombre équilibré de points de compétence et présente une sensibilité moyenne aux maladies et aux blessures. Se déplacera à un rythme modéré."
+		"description": "{pawn_name} est d'âge mûr, avec de l'expérience et une compétence certaine, ayant passé beaucoup de temps aux commandes pour gérer des situations variées.\n\nLe fait d'être d'âge mûr lui confère un équilibre entre ses compétences et ses capacités physiques. {pawn_name} est globalement en bonne santé, mais peut commencer à ressentir un peu plus les effets du vieillissement, comme une légère augmentation de la vulnérabilité aux maladies et aux blessures.",
+		"info_text": "Commence avec pas mal d'expérience et présente une sensibilité moyenne aux maladies et aux blessures. Se déplacera à un rythme modéré."
 	},
 	"OldAge": {
 		"title": "Âgé.",
 		"description": "Votre capitaine est d'un âge avancé et possède la sagesse de son âge. Cependant, qui dit âge dit inévitablement courbatures, et {pawn_name} en souffre autant que n'importe qui d'autre. Il faut toutefois lui rendre hommage pour avoir vécu jusqu'à cet âge en des temps si difficiles.\n\nAvec l'âge, {pawn_name} a acquis de nombreuses compétences et une grande expérience, mais ses capacités physiques et cardiovasculaires ont diminué, ce qui a affaibli son système immunitaire, augmentant ainsi sa sensibilté aux maladies et aux blessures.",
-		"info_text": "Commence avec davantage de points de compétence, mais peut être plus sujet aux maladies et aux blessures. Se déplace beaucoup plus lentement."
+		"info_text": "Commence avec davantage d'expérience, mais peut être plus sujet aux maladies et aux blessures. Se déplace beaucoup plus lentement."
 	}
 }

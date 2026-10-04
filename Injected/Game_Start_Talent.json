@@ -1,0 +1,35 @@
+﻿{
+	"Engineer": {
+		"description": "{pawn_name} a toujours eu un talent inné pour l'ingénierie."
+	},
+	"Navigation": {
+		"description": "{pawn_name} a toujours eu un talent inné pour la navigation."
+	},
+	"Ranged": {
+		"description": "{pawn_name} a toujours eu un talent inné pour manier les armes à distance."
+	},
+	"Melee": {
+		"description": "{pawn_name} a toujours fait preuve d'un talent inné pour les attaques et la défense au corps à corps."
+	},
+	"Social": {
+		"description": "{pawn_name} a toujours eu un talent inné pour les relations sociales."
+	},
+	"Operations": {
+		"description": "{pawn_name} a toujours fait preuve d'un talent inné pour tout ce qui touche à l'exploitation des vaisseaux."
+	},
+	"Cooking": {
+		"description": "{pawn_name} a toujours eu un talent inné pour la cuisine."
+	},
+	"Mining": {
+		"description": "{pawn_name} a toujours eu un talent inné pour l'exploitation minière."
+	},
+	"Science": {
+		"description": "{pawn_name} a toujours eu un talent inné pour tout ce qui touche aux sciences."
+	},
+	"Animals": {
+		"description": "{pawn_name} a toujours eu un don naturel pour s'occuper des animaux."
+	},
+	"Medical": {
+		"description": "{pawn_name} a toujours eu un don naturel pour tout ce qui touche au domaine médical."
+	}
+}
